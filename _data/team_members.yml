@@ -1,6 +1,6 @@
 - name: Bahareh Nikpour
   photo: woman.jpg
-  info: PhD Student, started September 2019
+  info: PhD Student
   email: bahareh.nikpour@mcgill.ca
   number_educ: 0
   education1: Master <a href="https://ut.ac.ir/en">University of Tehran</a>
@@ -14,7 +14,7 @@
 
 - name: Mohammadreza Sadeghi
   photo: Mreza.jpg
-  info: PhD Student, started September 2019
+  info: PhD Student
   email: mohammadreza.sadeghi@mail.mcgill.ca
   number_educ: 0
   education1: BSc, <a href="https://ut.ac.ir/en">University of Tehran</a>
@@ -26,7 +26,7 @@
 
 - name: Ho Thi Kieu Khanh
   photo: Khanh.jpg
-  info: PhD Student, started September 2021
+  info: PhD Student
   email: thi.k.ho@mail.mcgill.ca
   number_educ: 0
   education1: Master <a href="https://www.gist.ac.kr/en/main.html">Gwangju Institute of Science and Technology (GIST)</a>
@@ -37,7 +37,7 @@
 
 - name: Hadi Hojjati
   photo: Hadi (1).jpg
-  info: PhD Student, started January 2022
+  info: PhD Student
   email: hadi.hojjati@mcgill.ca
   number_educ: 0
   education1: Master <a href="https://www.mcgill.ca/ece/">McGill University</a>
@@ -49,7 +49,7 @@
   
 - name: Sébastien Quetin
   photo: man.jpg
-  info: PhD Student(co-supervised), started September 2021
+  info: PhD Student(co-supervised)
   email: 
   number_educ: 0
   education1: <a href="https://www.insa-toulouse.fr/fr/index.html">INSA Toulouse</a>
@@ -61,7 +61,7 @@
 
 - name: Dimitrios Sinodinos
   photo: Dimitri (2).jpg
-  info: Master Student, started September 2021
+  info: Master Student
   email: dimitrios.sinodinos@mail.mcgill.ca
   number_educ: 0
   education1: Bachelor <a href="https://www.mcgill.ca/ece/">McGill University</a>
@@ -73,7 +73,7 @@
 
 - name: Denzel Guye
   photo: man.jpg
-  info: Master Student (co-supervised), started September 2020
+  info: Master Student (co-supervised)
   email: 
   number_educ: 0
   education1: Bachelor <a href="https://www.mcgill.ca/ece/">McGill University</a>
