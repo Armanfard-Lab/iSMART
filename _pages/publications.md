@@ -14,12 +14,14 @@ permalink: /publications/
 (For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=V8pn4tIAAAAJ&view_op=list_works&sortby=pubdate))
 
 {% assign number_printed = 0 %}
-
 {% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
 <div class="col-sm-6 clearfix">
  <div class="well">
@@ -34,6 +36,10 @@ permalink: /publications/
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 {% endif %}
 {% endfor %}
