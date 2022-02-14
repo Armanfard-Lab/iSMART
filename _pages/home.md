@@ -31,7 +31,7 @@ Here are some themes and techniques that we currently work on:
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/network_fig.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/project proposal.PNG" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hooman1.png" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/network_fig.png" alt="Slide 4" />
@@ -58,10 +58,10 @@ Here are some themes and techniques that we currently work on:
 
 **Epileptogenic Zone Detection:** In this project, we aim to develop a machine learning model that automatically analyzes the background information collected iEEG to determine whether the corresponding intracerebral channels are located in the brain tissue belonging to the epileptogenic zone, without accessing seizure on set zone (SOZ). We will tackle the EZ identification problem by using advanced representation learning models. Our goal is to develop an algorithm which can aid epileptologists in identifying brain areas to be resected during epilepsy surgery.
 
-**Deep Anomaly Detection** Anomaly Detection is the task of identifying rare items, events or observations which deviate significantly from the majority of the data. In recent years, researchers have turned their attention to developing deep learning based anomaly detection models that yielded an unprecedented success. In this project, our goal is to develop novel anomaly detection algorithms using state-of-the-art deep models, such as contrastive learning.
+**Deep Anomaly Detection:** Anomaly Detection is the task of identifying rare items, events or observations which deviate significantly from the majority of the data. In recent years, researchers have turned their attention to developing deep learning based anomaly detection models that yielded an unprecedented success. In this project, our goal is to develop novel anomaly detection algorithms using state-of-the-art deep models, such as contrastive learning.
 
 
-**Deep Clustering**
+**Deep Clustering:** Clustering is a fundamental problem in many data-driven application domains, and clustering performance is heavily influenced by data representation quality. we intend to develop a novel deep clustering framework that could improve data representation of other existing deep clustering methods.
 
 **Action Recognition**
 
