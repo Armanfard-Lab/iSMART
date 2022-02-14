@@ -1,8 +1,8 @@
 - name: Amal Koodoruth
   photo: Amal.jpg
-  info: BSc Student, started Winter 2022
+  info: BSc Student
   email: amal.koodoruth@mail.mcgill.ca
-  number_educ: 1
+  number_educ: 0
   education1: Bachelor, <a href="https://www.mcgill.ca/ece/">McGill University</a>
   education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
   education3: Postdoc Cornell
