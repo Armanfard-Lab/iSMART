@@ -71,7 +71,8 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Postdoc
+<h2 align="center"> Postdoc </h2>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
 
@@ -133,7 +134,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Graduate Students
+<h2 align="center"> Graduate Students </h2>
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -197,8 +198,7 @@ permalink: /team/
 
 
 
-
-## Bachelor Students
+<h2 align="center"> Bachelor Students </h2>
 {% assign number_printed = 0 %}
 {% for member in site.data.bsc %}
 
@@ -261,8 +261,7 @@ permalink: /team/
 {% endif %}
 
 
-## Alumni
-
+<h2 align="center"> Alumni </h2>
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -294,7 +293,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Former visitors, BSc students
+<h2 align="center"> Former visitors, BSc students </h2>
 
 {% for member in site.data.alumni_bsc %}
 
