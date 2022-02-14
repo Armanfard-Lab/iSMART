@@ -1,5 +1,5 @@
 - name: Bahareh Nikpour
-  photo: Bahar.jpg
+  photo: woman.jpg
   info: PhD Student, started September 2019
   email: bahareh.nikpour@mcgill.ca
   number_educ: 1
@@ -36,7 +36,7 @@
   
   
 - name: Sébastien Quetin
-  photo: Person.png
+  photo: man.jpg
   info: PhD Student(co-supervised), started September 2021
   email: 
   number_educ: 1
@@ -54,7 +54,7 @@
   education3:
 
 - name: Denzel Guye
-  photo: Person.png
+  photo: man.jpg
   info: Master Student (co-supervised), started September 2020
   email: 
   number_educ: 1
