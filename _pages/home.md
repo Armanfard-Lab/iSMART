@@ -63,9 +63,6 @@ Here are some themes and techniques that we currently work on:
 
 **Deep Clustering:** Clustering is a fundamental problem in many data-driven application domains, and clustering performance is heavily influenced by data representation quality. we intend to develop a novel deep clustering framework that could improve data representation of other existing deep clustering methods.
 
-**Action Recognition**
-
-
 
 
 We are grateful for funding from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), and [SCALE AI](https://www.scaleai.ca/).
