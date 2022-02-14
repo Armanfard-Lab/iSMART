@@ -8,6 +8,8 @@ permalink: /team/
 
 # Group Members
 
+<h2 align="center"> Principal Investigator </h2>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
 
