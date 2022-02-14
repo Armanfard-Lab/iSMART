@@ -57,7 +57,7 @@ permalink: /team/
   {% endif %}
     
   </ul>
-  <a href="https://scholar.google.com/citations?user=V8pn4tIAAAAJ&hl=en" target="_blank"><img src="https://www.pngfind.com/pngs/m/507-5077250_icon-google-scholar-logo-hd-png-download.png" alt="Google Scholar" style="width:26px;height:26px;"></a><a href="https://ca.linkedin.com/in/armanfardn" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" style="width:26px;height:26px;"></a>
+  <a href="https://scholar.google.com/citations?user=V8pn4tIAAAAJ&hl=en" target="_blank"><img src="https://i2.wp.com/techweez.com/wp-content/uploads/2012/09/photo.png" alt="Google Scholar" style="width:26px;height:26px;"></a><a href="https://ca.linkedin.com/in/armanfardn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:26px;height:26px;"></a>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
