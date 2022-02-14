@@ -10,7 +10,7 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
   scholar: https://scholar.google.com/citations?user=syH1csIAAAAJ&hl=en
   linkedin: https://ca.linkedin.com/in/bahar-nikpour-7771888a
-  rg: https://www.researchgate.net/profile/Bahareh-Nikpour
+  project:
 
 - name: Mohammadreza Sadeghi
   photo: Mreza.jpg
@@ -22,7 +22,7 @@
   education3: B.S. East China University of Science and Technology
   scholar: https://scholar.google.com/citations?user=mD5pps0AAAAJ&hl=en
   linkedin: https://ca.linkedin.com/in/mohammadreza-sadeghi-681b01217
-  rg: https://www.researchgate.net/
+  project:
 
 - name: Ho Thi Kieu Khanh
   photo: Khanh.png
@@ -33,7 +33,7 @@
   education2: BSc <a href="https://hcmiu.edu.vn/en/">International University - Vietnam National University</a>
   scholar:
   linkedin:
-  rg:
+  project:
 
 - name: Hadi Hojjati
   photo: Hadi (1).jpg
@@ -44,7 +44,7 @@
   education2: BSc <a href="https://en.sharif.edu/">Sharif University of Technology</a>
   scholar:
   linkedin:
-  rg:
+  project:
   
   
 - name: Sébastien Quetin
@@ -57,7 +57,7 @@
   education3:
   scholar:
   linkedin:
-  rg:
+  project:
 
 - name: Dimitrios Sinodinos
   photo: Dimitri.jpg
@@ -69,7 +69,7 @@
   education3:
   scholar:
   linkedin:
-  rg:
+  project:
 
 - name: Denzel Guye
   photo: man.jpg
@@ -81,4 +81,4 @@
   education3:
   scholar:
   linkedin:
-  rg:
+  project:
