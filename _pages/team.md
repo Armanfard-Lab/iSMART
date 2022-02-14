@@ -182,6 +182,7 @@ permalink: /team/
   {% endif %}
 
   </ul>
+ <a href="{{ member.scholar }}" target="_blank"><img src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" alt="Google Scholar" style="width:32px;height:32px;"></a>  <a href="{{ member.linkedin }}" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:32px;height:32px;"></a>  <a href="{{ member.rg }}" target="_blank"><img src="https://chaumeillab.ucsf.edu/sites/g/files/tkssra1821/f/wysiwyg/researchgate-squarelogo-1488811667083.png" alt="ResearchGate" style="width:32px;height:32px;"></a>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
