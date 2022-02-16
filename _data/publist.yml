@@ -29,7 +29,7 @@
   news2:
 
 - title: "Self-Supervised Acoustic Anomaly Detection Via Contrastive Learning"
-  image: ICASSP.png
+  image: ICASSP.jpg
   description: For the first time, we propose a contrastive learning-based framework that is suitable for acoustic anomaly detection. Since most existing contrastive learning approaches are targeted toward images, the effect of other data transformations on the performance of the algorithm is unknown. Our framework learns a representation from unlabeled data by applying audio-specific data augmentations.
   authors: H Hojjati, N Armanfard
   link:
