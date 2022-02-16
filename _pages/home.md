@@ -3,7 +3,7 @@ title: "iSMART Lab"
 layout: homelay
 excerpt: "iSMART Lab at McGill University."
 sitemap: false
-permalink:
+permalink: //
 ---
 
 Welcome to Intelligent Systems and Machine learning Algorithms Research and Technology (iSMART) lab. We are a dynamic research labrotary within the Intelligent Systems Research Group at [Department of Electrical and Computer Engineering](https://www.mcgill.ca/ece/), McGill University. Our aim is to develop novel algorithms in machine learning and related areas in computer vision, reinforcement learning, subspace learning for data clustering and classification, and anomaly detection.
