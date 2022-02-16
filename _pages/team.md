@@ -6,6 +6,12 @@ sitemap: false
 permalink: /team/
 ---
 
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+
 # Group Members
 
 <h2 align="center"> Principal Investigator </h2>
