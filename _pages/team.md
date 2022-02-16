@@ -6,6 +6,14 @@ sitemap: false
 permalink: /team/
 ---
 
+<style>
+  img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: attr(width) / attr(height);
+  } 
+</style>
+
 # Group Members
 
 <h2 align="center"> Principal Investigator </h2>
