@@ -8,7 +8,7 @@ permalink: /team/
 
 <style>
   img {
-    width: 100%;
+    width: 40%;
     height: auto;
     aspect-ratio: attr(width) / attr(height);
   } 
