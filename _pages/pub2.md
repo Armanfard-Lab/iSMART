@@ -19,9 +19,7 @@ permalink: /pub2/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
 
 <div class="col-sm-6 clearfix">
  <div class="well">
@@ -37,9 +35,7 @@ permalink: /pub2/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
 {% endif %}
 {% endfor %}
