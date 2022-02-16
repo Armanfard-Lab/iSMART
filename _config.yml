@@ -10,7 +10,7 @@ title: iSMART Lab
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   iSMART Lab Website.
-baseurl: "iSMART"
+baseurl: ""
 url: "https://armanfard-lab.github.io/"
 
 include:
