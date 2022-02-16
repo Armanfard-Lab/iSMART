@@ -33,9 +33,9 @@ permalink: /pub2/
  </div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
-
 </div>
+
+{% assign number_printed = number_printed | plus: 1 %}
 
 {% endif %}
 {% endfor %}
