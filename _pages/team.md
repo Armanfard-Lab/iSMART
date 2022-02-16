@@ -11,7 +11,7 @@ permalink: /team/
     width: 40%;
     height: auto;
     aspect-ratio: attr(width) / attr(height);
-    border: 5px solid #555;
+    border: 2px solid #000;
   } 
 </style>
 
