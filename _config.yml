@@ -11,7 +11,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   iSMART Lab Website.
 baseurl:
-url: "http://ismart.ece.mcgill.ca/"
+url: "https://ismart.ece.mcgill.ca/"
 
 include:
   - .htaccess
