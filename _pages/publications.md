@@ -6,7 +6,6 @@ sitemap: false
 permalink: /publications/
 ---
 
-
 # Publications
 
 ## Group highlights
@@ -19,11 +18,9 @@ permalink: /publications/
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="20%" style="float: left" />
@@ -35,11 +32,10 @@ permalink: /publications/
  </div>
 </div>
 
-{% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
 </div>
-{% endif %}
+
+{% assign number_printed = number_printed | plus: 1 %}
 
 {% endif %}
 {% endfor %}
