@@ -54,7 +54,7 @@ Here are some themes and techniques that we currently work on:
 </div>
 
 
-**Multitask Learning with Attention for Pose Estimation and Activity Recognition:** Multitask learning (MTL) has recently gained a lot of popularity as a learning paradigm that can lead to improved per-task performance while also using fewer per-task model parameters compared to single task learning. Our research involves developing novel MTL algorithms that can achieve state-of-the-art performance on various computer vision tasks. Some of the main tasks we will be focusing on are pose estimation and activity recognition.
+**Multitask Learning with Attention:** Multitask learning (MTL) has recently gained a lot of popularity as a learning paradigm that can lead to improved per-task performance while also using fewer per-task model parameters compared to single task learning. Our research involves developing novel MTL algorithms that can achieve state-of-the-art performance on various computer vision tasks. Some of the main tasks we will be focusing on are pose estimation and activity recognition.
 
 **Epileptogenic Zone Detection:** In this project, we aim to develop a machine learning model that automatically analyzes the background information collected iEEG to determine whether the corresponding intracerebral channels are located in the brain tissue belonging to the epileptogenic zone, without accessing seizure on set zone (SOZ). We will tackle the EZ identification problem by using advanced representation learning models. Our goal is to develop an algorithm which can aid epileptologists in identifying brain areas to be resected during epilepsy surgery.
 
