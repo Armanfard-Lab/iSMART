@@ -18,8 +18,6 @@ Here are some themes and techniques that we currently work on:
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -34,13 +32,10 @@ Here are some themes and techniques that we currently work on:
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/network_fig.png" alt="Slide 3" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slide1 (1) (1).png" alt="Slide 4" style="aspect-ratio: 1.618"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/film4 (1).jpg" alt="Slide 5" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/film4 (1).jpg" alt="Slide 4" style="aspect-ratio: 1.618"/>
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/project proposal.PNG" alt="Slide 6" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/project proposal.PNG" alt="Slide 5" style="aspect-ratio: 1.618"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
