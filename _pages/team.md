@@ -15,12 +15,14 @@ permalink: /team/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
-<div class="row center">
+<div class="row">
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-12 clearfix center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-circle" width="25%" style="aspect-ratio: 0.85;border:0.5px solid #000; border-radius:50%"/>
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+    
+  <p>Prof. Armanfard is an Assistant Professor (tenure-track) at the Intelligent Systems Research Group, Department of Electrical and Computer Engineering, McGill University. She is also an Associate Academic Professor of Mila-Quebec AI Institute. Before joining McGill University, she was a postdoctoral fellow at the Intelligent Assistive Technology and Systems Lab, University of Toronto. She obtained her PhD degree from Electrical and Computer Engineering Department, McMaster University .</p>
  
   <ul style="overflow: hidden">
   
