@@ -46,6 +46,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+</div>
 
 ## Full List of publications
 
