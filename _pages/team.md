@@ -135,13 +135,11 @@ permalink: /team/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="50%" style="aspect-ratio: 0.85;border:0.5px solid #000; border-radius:50%;float: left" />
-  <h4>{{ member.name }}</h4>
+  <h3>{{ member.name }}</h3>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
   {{ member.project }}
@@ -183,16 +181,9 @@ permalink: /team/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
 {% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 
 
