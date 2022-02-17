@@ -243,9 +243,11 @@ permalink: /team/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
+{% if even_odd == 0 %}
 <div class="row">
+{% endif %}
 
-<div class="col-sm-12 clearfix">
+<div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }}</i>
   <ul style="overflow: hidden">
@@ -255,9 +257,16 @@ permalink: /team/
 
 {% assign number_printed = number_printed | plus: 1 %}
 
+{% if even_odd == 1 %}
 </div>
+{% endif %}
 
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 
 <h2 align="center"> Former visitors, BSc students </h2>
