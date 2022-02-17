@@ -32,7 +32,7 @@ permalink: /publications/
  </div>
 </div>
 
-
+</div>
 
 {% assign number_printed = number_printed | plus: 1 %}
 
@@ -46,7 +46,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-</div>
+
 
 ## Full List of publications
 
