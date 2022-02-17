@@ -18,11 +18,11 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-circle center" width="25%" style="aspect-ratio: 0.85;border:0.5px solid #000; border-radius:50%"/>
-  <h3>{{ member.name }}</h3>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" align="middle" class="img-circle" width="25%" style="aspect-ratio: 0.85;border:0.5px solid #000; border-radius:50%"/>
+  <h3 align="center">{{ member.name }}</h3>
+  <i align="center">{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
-  <p>Prof. Armanfard is an Assistant Professor (tenure-track) at the Intelligent Systems Research Group, Department of Electrical and Computer Engineering, McGill University. She is also an Associate Academic Professor of Mila-Quebec AI Institute. Before joining McGill University, she was a postdoctoral fellow at the Intelligent Assistive Technology and Systems Lab, University of Toronto. She obtained her PhD degree from Electrical and Computer Engineering Department, McMaster University .</p>
+  <p align="center">Prof. Armanfard is an Assistant Professor (tenure-track) at the Intelligent Systems Research Group, Department of Electrical and Computer Engineering, McGill University. She is also an Associate Academic Professor of Mila-Quebec AI Institute. Before joining McGill University, she was a postdoctoral fellow at the Intelligent Assistive Technology and Systems Lab, University of Toronto. She obtained her PhD degree from Electrical and Computer Engineering Department, McMaster University .</p>
  
   <ul style="overflow: hidden">
   
@@ -76,7 +76,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="50%" style="aspect-ratio: 0.85;border:0.5px solid #000; border-radius:50%;float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="20%" style="aspect-ratio: 0.85;border:0.5px solid #000; border-radius:50%;float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
