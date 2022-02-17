@@ -18,7 +18,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-circle" width="20%" style="display: block; margin-left: auto; margin-right: auto;aspect-ratio: 0.85; border-radius:50%"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-circle" width="20%" style="display: block; margin-left: auto; margin-right: auto;aspect-ratio: 1; border-radius:50%"/>
   <h3 align="center">{{ member.name }}</h3>
   <p align="center"><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></p>
     
@@ -78,7 +78,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="14%" style="aspect-ratio: 0.85; border-radius:50%;float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="14%" style="aspect-ratio: 1; border-radius:50%;float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
