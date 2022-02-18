@@ -48,6 +48,7 @@ Here are some themes and techniques that we currently work on:
   </a>
 </div>
 
+**Deep Reinforcement Learning-Based Activity Recognition:** Human activity recognition is a popular research field in computer vision and plays an important role in many real-world intelligent systems. We aim at using deep reinforcement learning (DRL) to address the human activity recognition problem. DRL methods are specifically used when ground-truth is not available, or if the designed objective function is non-differentiable. Therefore, we can use it for different tasks such as spatial and temporal attention finding in videos to improve human activity recognition performance.
 
 **Multitask Learning with Attention:** Multitask learning (MTL) has recently gained a lot of popularity as a learning paradigm that can lead to improved per-task performance while also using fewer per-task model parameters compared to single task learning. Our research involves developing novel MTL algorithms that can achieve state-of-the-art performance on various computer vision tasks. Some of the main tasks we will be focusing on are pose estimation and activity recognition.
 
