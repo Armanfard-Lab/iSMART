@@ -194,6 +194,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="14%" class="rounded-circle" style="aspect-ratio: 0.85; border-radius:50%;float: left" />
   <h3>{{ member.name }}</h3>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+    
+  {{ member.project }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
