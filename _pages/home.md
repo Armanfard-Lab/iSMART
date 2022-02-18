@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the Intelligent Systems and Machine learning Algorithms Research and Technology (iSMART) lab, led by Prof. Narges Armanfard. We are a dynamic research labrotary within the Intelligent Systems Research Group at [Department of Electrical and Computer Engineering](https://www.mcgill.ca/ece/), McGill University. Our aim is to develop novel algorithms in machine learning and related areas in computer vision, reinforcement learning, subspace learning for data clustering and classification, and anomaly detection.
+Welcome to the Intelligent Systems and Machine learning Algorithms Research and Technology (iSMART) lab, led by [Prof. Narges Armanfard](https://www.mcgill.ca/ece/narges-armanfard). We are a dynamic research labrotary within the Intelligent Systems Research Group at [Department of Electrical and Computer Engineering](https://www.mcgill.ca/ece/), McGill University. Our aim is to develop novel algorithms in machine learning and related areas in computer vision, reinforcement learning, subspace learning for data clustering and classification, and anomaly detection.
 
 Here are some themes and techniques that we currently work on:
 
