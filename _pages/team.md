@@ -137,7 +137,7 @@ permalink: /team/
   <h3>{{ member.name }}</h3>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
-  {{ member.bio }}
+  <p style="font-size:16px;">{{ member.bio }}</p>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -195,7 +195,7 @@ permalink: /team/
   <h3>{{ member.name }}</h3>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
-  {{ member.project }}
+  <p style="font-size:16px;">{{ member.project }}</p>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
