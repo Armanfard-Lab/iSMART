@@ -48,7 +48,7 @@ Here are some themes and techniques that we currently work on:
   </a>
 </div>
 
-**Human Activity Recognition:**It is a popular research field in computer vision and plays an important role in many real-world intelligent systems. We aim at using deep reinforcement learning (DRL) to address the human activity recognition problem. DRL methods are specifically used when ground-truth is not available, or if the designed objective function is non-differentiable. Therefore, we can use it for different tasks such as spatial and temporal attention finding in videos to improve human activity recognition performance.
+**Human Activity Recognition:** It is a popular research field in computer vision and plays an important role in many real-world intelligent systems. We aim at using deep reinforcement learning (DRL) to address the human activity recognition problem. DRL methods are specifically used when ground-truth is not available, or if the designed objective function is non-differentiable. Therefore, we can use it for different tasks such as spatial and temporal attention finding in videos to improve human activity recognition performance.
 
 **Multitask Learning with Attention:** Multitask learning (MTL) has recently gained a lot of popularity as a learning paradigm that can lead to improved per-task performance while also using fewer per-task model parameters compared to single task learning. Our research involves developing novel MTL algorithms that can achieve state-of-the-art performance on various computer vision tasks. Some of the main tasks we will be focusing on are pose estimation and activity recognition.
 
@@ -59,7 +59,9 @@ Here are some themes and techniques that we currently work on:
 
 **Deep Clustering:** Clustering is a fundamental problem in many data-driven application domains, and clustering performance is heavily influenced by data representation quality. we intend to develop a novel deep clustering framework that could improve data representation of other existing deep clustering methods.
 
+**Unobtrusive Physiological Monitoring:**
 
+**Industrial Automation:**
 
 We are grateful for funding from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), and [SCALE AI](https://www.scaleai.ca/).
 
