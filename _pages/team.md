@@ -284,7 +284,6 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   {{ member.name }}
   <ul style="overflow: hidden">
-
   </ul>
 </div>
 
