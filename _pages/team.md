@@ -137,7 +137,7 @@ permalink: /team/
   <h3>{{ member.name }}</h3>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
-  {{ member.project }}
+  {{ member.bio }}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
