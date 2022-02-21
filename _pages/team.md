@@ -134,7 +134,7 @@ permalink: /team/
 
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="18%" style="aspect-ratio: 1; border-radius:50%;float: left" />
-  <h3>{{ member.name }}</h3>
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
   <p style="font-size:16px;">{{ member.bio }}</p>
@@ -192,7 +192,7 @@ permalink: /team/
 
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="18%" class="rounded-circle" style="aspect-ratio: 1; border-radius:50%;float: left" />
-  <h3>{{ member.name }}</h3>
+  <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
   <p style="font-size:16px;">{{ member.project }}</p>
@@ -292,9 +292,7 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 {% endfor %}
-
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
