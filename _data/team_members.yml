@@ -10,7 +10,7 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
   scholar: https://scholar.google.com/citations?user=syH1csIAAAAJ&hl=en
   linkedin: https://ca.linkedin.com/in/bahar-nikpour-7771888a
-  project: Working on Deep Reinforcement Learning-Based Activity Recognition.
+  bio: Working on Deep Reinforcement Learning-Based Activity Recognition.
 
 - name: Mohammadreza Sadeghi
   photo: Mreza.jpg
@@ -22,7 +22,7 @@
   education3: B.S. East China University of Science and Technology
   scholar: https://scholar.google.com/citations?user=mD5pps0AAAAJ&hl=en
   linkedin: https://ca.linkedin.com/in/mohammadreza-sadeghi-681b01217
-  project: Mohammadreza received his Bachlor's degree in Electrical Engineering from University of Tehran, Iran. He has received the prestigious McGill Engineering Doctoral Award (MEDA) at McGill. His research is focused on representation learning to handle clustering problem using deep neural networks.
+  bio: Mohammadreza received his Bachlor's degree in Electrical Engineering from University of Tehran, Iran. He has received the prestigious McGill Engineering Doctoral Award (MEDA) at McGill. His research is focused on representation learning to handle clustering problem using deep neural networks.
 
 
 - name: Ho Thi Kieu Khanh
@@ -34,7 +34,7 @@
   education2: BSc <a href="https://hcmiu.edu.vn/en/">International University - Vietnam National University</a>
   scholar: https://scholar.google.com/citations?hl=en&user=GKb618sAAAAJ&view_op=list_works
   linkedin:
-  project: Working on Epileptic Zone Detection.
+  bio: Working on Epileptic Zone Detection.
 
 - name: Hadi Hojjati
   photo: Hadi (1).jpg
@@ -45,7 +45,7 @@
   education2: BSc <a href="https://en.sharif.edu/">Sharif University of Technology</a>
   scholar: https://scholar.google.com/citations?user=sdy7NXMAAAAJ&hl=en
   linkedin:
-  project: Working on Deep Anomaly Detection and Multi-Modal Representation Learning.
+  bio: Working on Deep Anomaly Detection and Multi-Modal Representation Learning.
   
   
 - name: Sébastien Quetin
@@ -58,7 +58,7 @@
   education3:
   scholar:
   linkedin:
-  project:
+  bio:
 
 - name: Dimitrios Sinodinos
   photo: Dimitri (2).jpg
@@ -70,7 +70,7 @@
   education3:
   scholar:
   linkedin: https://www.linkedin.com/in/dimitrios-sinodinos/
-  project: Working on Multitask Learning with Attention for Pose Estimation and Activity Recognition.
+  bio: Working on Multitask Learning with Attention for Pose Estimation and Activity Recognition.
 
 - name: Denzel Guye
   photo: denzel.jpg
@@ -82,4 +82,4 @@
   education3:
   scholar:
   linkedin:
-  project: Denzel obtained his BSc from McGill University. He is currently an MSc-thesis student. His research focuses on machine learning for industrial automation. He is the recipients of McGill Engineering Undergraduate Student Masters Award (MEUSMA) and Organization of American States graduate scholarship. 
+  bio: Denzel obtained his BSc from McGill University. He is currently an MSc-thesis student. His research focuses on machine learning for industrial automation. He is the recipients of McGill Engineering Undergraduate Student Masters Award (MEUSMA) and Organization of American States graduate scholarship. 
