@@ -78,7 +78,7 @@
   highlight: 1
   news2:
   
-  - title: "Multiview Feature Selection for Single-view Classification"
+  - title: "Multiview Feature Selection for Single view Classification"
   image: DSSL.gif
   description: in this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points, where weights are defined based on similarity between latent representation of data points and cluster centers.
   authors:  M. Komeili, N. Armanfard, D. Hatzinakos
