@@ -133,7 +133,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="18%" style="aspect-ratio: 0.85; border-radius:50%;float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="18%" style="aspect-ratio: 1; border-radius:50%;float: left" />
   <h3>{{ member.name }}</h3>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
@@ -191,7 +191,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="18%" class="rounded-circle" style="aspect-ratio: 0.85; border-radius:50%;float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="18%" class="rounded-circle" style="aspect-ratio: 1; border-radius:50%;float: left" />
   <h3>{{ member.name }}</h3>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
