@@ -77,14 +77,5 @@
     display:  2021 International Joint Conference on Neural Networks (IJCNN)
   highlight: 1
   news2:
-  
-  - title: "Multiview Feature Selection for Single view Classification"
-  image: DSSL.gif
-  description: in this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points, where weights are defined based on similarity between latent representation of data points and cluster centers.
-  authors:  M. Komeili, N. Armanfard, D. Hatzinakos
-  link:
-    url: http://www.ece.mcgill.ca/~narman1/publications/TPAMI-MVSV.pdf
-    display:  IEEE Transactions on Pattern Analysis and Machine Intelligence (2020)
-  highlight: 0
-  news2:
+ 
 
