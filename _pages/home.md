@@ -42,7 +42,7 @@ Here are some themes and techniques that we currently work on:
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.png" alt="Slide 2" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/smart.gif" alt="Slide 2" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/smart.jpeg" alt="Slide 2" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/network_fig.png" alt="Slide 3" style="aspect-ratio: 1.618"/>
