@@ -18,12 +18,28 @@ Here are some themes and techniques that we currently work on:
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hooman1.png" alt="Slide 1" style="aspect-ratio: 1.618" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1.png" alt="Slide 2" style="aspect-ratio: 1.618"/>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.png" alt="Slide 2" style="aspect-ratio: 1.618"/>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/3.png" alt="Slide 2" style="aspect-ratio: 1.618"/>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.png" alt="Slide 2" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/smart.gif" alt="Slide 2" style="aspect-ratio: 1.618"/>
@@ -48,20 +64,13 @@ Here are some themes and techniques that we currently work on:
   </a>
 </div>
 
-**Human Activity Recognition:** It is a popular research field in computer vision and plays an important role in many real-world intelligent systems. We aim at using deep reinforcement learning (DRL) to address the human activity recognition problem. DRL methods are specifically used when ground-truth is not available, or if the designed objective function is non-differentiable. Therefore, we can use it for different tasks such as spatial and temporal attention finding in videos to improve human activity recognition performance.
+**Human Activity Recognition:** We aim at using deep reinforcement learning (DRL) to address the human activity recognition problem. It is a popular research field in computer vision and plays an important role in many real-world intelligent systems. DRL methods are specifically used when ground-truth is not available, or if the designed objective function is non-differentiable. Therefore, we can use it for different tasks such as spatial and temporal attention finding in videos to improve human activity recognition performance. In this project, we also explore multitask learning (MTL) that have recently gained a lot of popularity as a learning paradigm. It can lead to improved per-task performance while also using fewer per-task model parameters compared to single task learning. Our research involves developing novel MTL algorithms that can achieve state-of-the-art performance on various computer vision tasks. Some of the main tasks we will be focusing on are pose estimation and activity recognition.
 
-**Multitask Learning with Attention:** Multitask learning (MTL) has recently gained a lot of popularity as a learning paradigm that can lead to improved per-task performance while also using fewer per-task model parameters compared to single task learning. Our research involves developing novel MTL algorithms that can achieve state-of-the-art performance on various computer vision tasks. Some of the main tasks we will be focusing on are pose estimation and activity recognition.
+**Representation Learning:** Deep neural networks are capable of learning the underlying representation of data. Representation Learning is a fundamental problem in many data-driven application domains. A good representation can improve the performance of downstream tasks, such as clustering and anomaly detection. Our goal is to develop unimodal and multi-modal self-supervised and unsupervised representation learning algorithm which are useful for clustering and anomaly detection.
 
-**Epileptogenic Zone Detection:** In this project, we aim to develop a machine learning model that automatically analyzes the background information collected iEEG to determine whether the corresponding intracerebral channels are located in the brain tissue belonging to the epileptogenic zone, without accessing seizure on set zone (SOZ). We will tackle the EZ identification problem by using advanced representation learning models. Our goal is to develop an algorithm which can aid epileptologists in identifying brain areas to be resected during epilepsy surgery.
+**Machine Learning in Healthcare:** Recent advances in Machine Learning have enabled the design of effective healthcare diagnosis and monitoring devices. We are currently working on implementing state-of-the art Machine Learning algorithms for assisting epileptic patients by improving the accuracy of epileptogenic zone detection prior to the removal surgery. Another stream of this project is designing smart home devices for unobtrusive physiological monitoring.
 
-**Deep Anomaly Detection:** Anomaly Detection is the task of identifying rare items, events or observations which deviate significantly from the majority of the data. In recent years, researchers have turned their attention to developing deep learning based anomaly detection models that yielded an unprecedented success. In this project, our goal is to develop novel anomaly detection algorithms using state-of-the-art deep models, such as contrastive learning.
-
-
-**Deep Clustering:** Clustering is a fundamental problem in many data-driven application domains, and clustering performance is heavily influenced by data representation quality. we intend to develop a novel deep clustering framework that could improve data representation of other existing deep clustering methods.
-
-**Unobtrusive Physiological Monitoring:**
-
-**Industrial Automation:**
+**Industrial Automation:**  Industrial automation is the use of data-driven control systems, whether computers, process controllers or robots, to operate industrial processes or machinery in a way that reduces the need for human action. We are working on developing Machine Learning algorithms in order to yield a more robust and accurate performance and improve the productivity.
 
 We are grateful for funding from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), and [SCALE AI](https://www.scaleai.ca/).
 
