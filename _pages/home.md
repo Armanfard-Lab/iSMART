@@ -27,31 +27,31 @@ Here are some themes and techniques that we currently work on:
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hooman1.png" alt="Slide 1" style="aspect-ratio: 1.618" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/smart.jpeg" alt="Slide 1" style="aspect-ratio: 1.618" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1.png" alt="Slide 2" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.png" alt="Slide 2" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.png" alt="Slide 3" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/3.png" alt="Slide 2" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hooman1.png" alt="Slide 4" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.png" alt="Slide 2" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.png" alt="Slide 5" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/smart.jpeg" alt="Slide 2" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/epilepsy.jpeg" alt="Slide 6" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/network_fig.png" alt="Slide 3" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/network_fig.png" alt="Slide 7" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/film4 (1).jpg" alt="Slide 4" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/film4 (1).jpg" alt="Slide 8" style="aspect-ratio: 1.618"/>
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/epilepsy.jpeg" alt="Slide 5" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/3.png" alt="Slide 9" style="aspect-ratio: 1.618"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
