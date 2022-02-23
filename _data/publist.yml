@@ -43,7 +43,7 @@
   description: We propose a deep clustering technique, called IDECF, whereby the true cluster assignments are estimated using an individual deep fully connected network (FCM-Net) which takes its input from the latent space of an autoencoder. 
   authors: M Sadeghi, N Armanfard
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9506051
+    url: http://www.ece.mcgill.ca/~narman1/publications/ICIP-IDECF.pdf
     display:  2021 IEEE International Conference on Image Processing (ICIP)
   highlight: 1
   news2:
@@ -73,7 +73,7 @@
   description: in this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points, where weights are defined based on similarity between latent representation of data points and cluster centers.
   authors:  M Sadeghi, N Armanfard
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9533929
+    url: http://www.ece.mcgill.ca/~narman1/publications/JCNN-DSSL.pdf
     display:  2021 International Joint Conference on Neural Networks (IJCNN)
   highlight: 1
   news2:
@@ -83,7 +83,7 @@
   description: in this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points, where weights are defined based on similarity between latent representation of data points and cluster centers.
   authors:  M Komeili, N Armanfard, D Hatzinakos
   link:
-    url: https://ieeexplore.ieee.org/document/9068477
+    url: http://www.ece.mcgill.ca/~narman1/publications/TPAMI-MVSV.pdf
     display:  IEEE Transactions on Pattern Analysis and Machine Intelligence (2020)
   highlight: 0
   news2:
@@ -93,7 +93,7 @@
   description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. We propose a customized anomaly score which is a combination of autoencoder's reconstruction error and distance of the lower-dimensional representation of a sample from the center of the enclosing hyper-sphere.
   authors: S Chang, S Mak, N Armanfard, J Boger, A Mihailidis
   link:
-    url: https://ieeexplore.ieee.org/document/9217598
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9217598
     display: IEEE Journal of Translational Engineering in Health and Medicine (2020)
   highlight: 0
   news2:
@@ -103,7 +103,7 @@
   description:
   authors: N Armanfard, M Komeili, J P Reilly, J F Connolly
   link:
-    url: https://ieeexplore.ieee.org/document/8506346
+    url: http://www.ece.mcgill.ca/~narman1/publications/JBHI-MMND.pdf
     display: IEEE Journal of Biomedical and Health Informatics (2019)
   highlight: 0
   news2:
@@ -113,7 +113,7 @@
   description:
   authors: S Chang, N Armanfard, A Q Javaid, J Boger, A Mihailidis
   link:
-    url: https://ieeexplore.ieee.org/document/8478791
+    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8478791
     display: IEEE Journal of Translational Engineering in Health and Medicine (2018)
   highlight: 0
   news2:
@@ -123,7 +123,7 @@
   description:
   authors: N Armanfard, J P Reilly, M Komeili
   link:
-    url: https://ieeexplore.ieee.org/document/7883954
+    url: http://www.ece.mcgill.ca/~narman1/publications/TNNLS-lLFS.pdf
     display: IEEE Transactions on Neural Networks and Learning Systems (2018)
   highlight: 0
   news2:
@@ -133,7 +133,7 @@
   description:
   authors: M Komeili, N Armanfard, D Hatzinakos
   link:
-    url: https://ieeexplore.ieee.org/document/8288857
+    url: http://www.ece.mcgill.ca/~narman1/publications/TIFS-LivnessDetection.pdf
     display: IEEE Transactions on Information Forensics & Security (2018)
   highlight: 0
   news2:
@@ -143,7 +143,7 @@
   description:
   authors: M Komeili, W Louis, N Armanfard, D Hatzinakos
   link:
-    url: https://ieeexplore.ieee.org/document/7929302
+    url: http://www.ece.mcgill.ca/~narman1/publications/TCYB-MSFS.pdf
     display: IEEE Transactions on Cybernetics (2018)
   highlight: 0
   news2:
@@ -153,7 +153,7 @@
   description:
   authors: N Armanfard, M Komeili, A Mihailidis
   link:
-    url: https://ieeexplore.ieee.org/document/8513326
+    url: http://www.ece.mcgill.ca/~narman1/publications/EMBC-SmartPackage.pdf
     display: Engineering in Medicine and Biology Society (EMBC)(2018)
   highlight: 0
   news2:
@@ -163,7 +163,7 @@
   description:
   authors: N Armanfard, J P Reilly, M Komeili
   link:
-    url: https://ieeexplore.ieee.org/document/7265078
+    url: http://www.ece.mcgill.ca/~narman1/publications/TPAMI-LFS.pdf
     display: IEEE Transactions on Pattern Analysis and Machine Intelligence (2016)
   highlight: 0
   news2:
