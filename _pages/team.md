@@ -80,7 +80,7 @@ permalink: /team/
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="18%" style="aspect-ratio: 1; border-radius:50%;float: left" />
   <h4>{{ member.name }}</h4>
-  <p style="font-size:14px;"><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i></p> -->
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -135,7 +135,7 @@ permalink: /team/
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="rounded-circle" width="18%" style="aspect-ratio: 1; border-radius:50%;float: left" />
   <h4>{{ member.name }}</h4>
-  <p style="font-size:14px;"><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i></p> -->
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
   <p style="font-size:14px;">{{ member.bio }}</p>
   <ul style="overflow: hidden">
@@ -193,7 +193,7 @@ permalink: /team/
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="18%" class="rounded-circle" style="aspect-ratio: 1; border-radius:50%;float: left" />
   <h4>{{ member.name }}</h4>
-  <p style="font-size:14px;"><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i></p> -->
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
     
   <p style="font-size:14px;">{{ member.project }}</p>
   <ul style="overflow: hidden">
