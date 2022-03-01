@@ -47,7 +47,7 @@ permalink: /publications/
 
 
 
-## Full List of publications
+## Selected publications
 
 {% for publi in site.data.publist %}
 
