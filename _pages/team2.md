@@ -273,30 +273,29 @@ permalink: /team2/
 
 
 <h4 align="center"> Former visitors, BSc students </h4>
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_bsc %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
 
-<div class="col-sm-6 clearfix">
-  {{ member.name }}
-  <ul style="overflow: hidden">
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+<div class="col-sm-4 clearfix">
+<h4>Visitors</h4>
+{% for member in site.data.alumni_bsc %}
+{{ member.name }}
 {% endfor %}
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
+
+<div class="col-sm-4 clearfix">
+<h4>Master students</h4>
+{% for member in site.data.alumni_bsc %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+<div class="col-sm-4 clearfix">
+<h4>Bachelor Students</h4>
+{% for member in site.data.alumni_bsc %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+</div>
   
 
