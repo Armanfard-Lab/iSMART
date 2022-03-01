@@ -280,7 +280,6 @@ permalink: /team2/
 {% for member in site.data.alumni_members %}
 {{ member.name }}
 <i>{{ member.duration }}</i>
-<ul style="overflow: hidden">
 {% endfor %}
 </div>
 
