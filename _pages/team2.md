@@ -240,6 +240,7 @@ permalink: /team2/
 
 
 <h2 align="center"> Alumni </h2>
+<h4 align="center"> Alumni </h4>
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -271,7 +272,7 @@ permalink: /team2/
 {% endif %}
 
 
-<h2 align="center"> Former visitors, BSc students </h2>
+<h4 align="center"> Former visitors, BSc students </h4>
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_bsc %}
 
