@@ -6,8 +6,6 @@ sitemap: false
 permalink: /team2/
 ---
 
-# Group Members
-
 <h2 align="center"> Principal Investigator </h2>
 
 {% assign number_printed = 0 %}
@@ -68,7 +66,7 @@ permalink: /team2/
 {% endfor %}
 
 
-<h2 align="center"> Postdoc </h2>
+<h2 align="center"> Group Members </h2>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.postdoc %}
@@ -124,7 +122,7 @@ permalink: /team2/
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
-<h2 align="center"> Graduate Students </h2>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -182,7 +180,7 @@ permalink: /team2/
 
 
 
-<h2 align="center"> Bachelor Students </h2>
+
 {% assign number_printed = 0 %}
 {% for member in site.data.bsc %}
 
@@ -243,7 +241,7 @@ permalink: /team2/
 <div class="row">
 
 <div class="col-sm-8 clearfix">
-<h4>Alumni</h4>
+<h4>Graduate Students</h4>
 {% for member in site.data.alumni_members %}
 {{ member.name }}<br>
 <i>{{ member.duration }}</i>
@@ -251,7 +249,7 @@ permalink: /team2/
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Former BSc students</h4>
+<h4>BSc students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
