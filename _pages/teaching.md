@@ -8,9 +8,9 @@ permalink: /teaching/
 
 # Teaching
 
-1. ECSE 551:
+### 1. ECSE 551:
   * Fall
-2. ECSE 206: Introduction
+### 2. ECSE 206: Introduction
   * Fall
 
 
