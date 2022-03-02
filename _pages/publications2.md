@@ -19,7 +19,6 @@ permalink: /publications2/
 {% if publi.highlight == 1 %}
 
 <div class="row">
-
  <div class="col-sm-12 clearfix">
   <div class="well">
    <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="18%" style="aspect-ratio: 1.8;float: left" />
@@ -30,7 +29,6 @@ permalink: /publications2/
    <p> {{ publi.news2 }}</p>
   </div>
  </div>
-
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
