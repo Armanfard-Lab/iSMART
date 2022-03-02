@@ -3,7 +3,7 @@ title: "iSMART Lab - Teaching"
 layout: textlay
 excerpt: "Teaching"
 sitemap: false
-permalink: /Teaching/
+permalink: /teaching/
 ---
 
 # Teaching
