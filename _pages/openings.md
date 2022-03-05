@@ -12,6 +12,7 @@ permalink: /vacancies/
 
 - We are looking for **PhD students** in the area of machine learning and its applications. If you are interested and have a proven publication record, please contact us.
 - We are looking for **M.Sc. students**. Contact us if you can demonstrate prior experience and high-level skill in machine learning.
+- We are looking for McGill **undergraduate students** to help in our projects. Contact us if you are interested.
 
 ### Applications for PhD and MSc positions
 
