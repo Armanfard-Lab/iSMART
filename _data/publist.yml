@@ -1,10 +1,31 @@
+- title: "Deep Multi-Representation Learning for Data Clustering"
+  image: 
+  description:
+  authors: M Sadeghi, N Armanfard
+  link:
+    url: https://www.techrxiv.org/articles/preprint/Deep_Multi-Representation_Learning_for_Data_Clustering/19357979
+    display: TechRxiv.19357979.v1 (2022)
+  highlight: 0
+  news2: 
+
+- title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
+  image: 
+  description:
+  authors: B Nikpour, D Sinodinos, N Armanfard
+  link:
+    url: https://www.techrxiv.org/articles/preprint/Deep_Reinforcement_Learning_in_Human_Activity_Recognition_A_Survey/19172369
+    display: TechRxiv.19172369.v2 (2022)
+  highlight: 0
+  news2: 
+
+
 - title: "Attentive Task Interaction Network for Multi-Task Learning"
   image: Pairs3.png
   description: employs knowledge distillation of the latent features for each task, then combines the feature maps to provide improved contextualized information to the decoder. This novel approach to introducing knowledge distillation into an attention based multitask network outperforms state of the art Multi-Task Learning.
   authors: D Sinodinos, N Armanfard
   link:
     url: https://arxiv.org/abs/2201.10649
-    display: arXiv:2201.10649 (2022)
+    display: 26TH International Conference on Pattern Recognition (ICPR 2022)
   highlight: 0
   news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
@@ -34,7 +55,7 @@
   authors: H Hojjati, N Armanfard
   link:
     url: https://www.techrxiv.org/articles/preprint/SELF-SUPERVISED_ACOUSTIC_ANOMALY_DETECTION_VIA_CONTRASTIVE_LEARNING/16828363/files/31153600.pdf
-    display:  TechRxiv (2021)
+    display:  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)
   highlight: 1
   news2:
 
@@ -44,7 +65,7 @@
   authors: M Sadeghi, N Armanfard
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/ICIP-IDECF.pdf
-    display:  2021 IEEE International Conference on Image Processing (ICIP)
+    display:  IEEE International Conference on Image Processing (ICIP 2021)
   highlight: 1
   news2:
 
@@ -54,7 +75,7 @@
   authors: B Nikpour, N Armanfard
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9659047
-    display:  2021 IEEE International Conference on Systems, Man, and Cybernetics
+    display:  IEEE International Conference on Systems, Man, and Cybernetics (SMC 2021)
   highlight: 1
 
 - title: "DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection"
@@ -74,7 +95,7 @@
   authors:  M Sadeghi, N Armanfard
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/JCNN-DSSL.pdf
-    display:  2021 International Joint Conference on Neural Networks (IJCNN)
+    display:  International Joint Conference on Neural Networks (IJCNN 2021)
   highlight: 1
   news2:
   
