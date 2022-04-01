@@ -44,7 +44,7 @@
   description: In this paper we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). The proposed method consists of two successive phases. In the first phase we propose to form hypersphere-like groups of similar data points, i.e. one hypersphere per cluster, employing an autoencoder which is trained using cluster-specific losses.
   authors: M Sadeghi, N Armanfard
   link:
-    url: https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652/2/files/31694165.pdf
+    url: https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652
     display: TechRxiv (2021)
   highlight: 1
   news2:
@@ -54,7 +54,7 @@
   description: For the first time, we propose a contrastive learning-based framework that is suitable for acoustic anomaly detection. Since most existing contrastive learning approaches are targeted toward images, the effect of other data transformations on the performance of the algorithm is unknown. Our framework learns a representation from unlabeled data by applying audio-specific data augmentations.
   authors: H Hojjati, N Armanfard
   link:
-    url: https://www.techrxiv.org/articles/preprint/SELF-SUPERVISED_ACOUSTIC_ANOMALY_DETECTION_VIA_CONTRASTIVE_LEARNING/16828363/files/31153600.pdf
+    url: https://www.techrxiv.org/articles/preprint/SELF-SUPERVISED_ACOUSTIC_ANOMALY_DETECTION_VIA_CONTRASTIVE_LEARNING/16828363
     display:  IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022)
   highlight: 1
   news2:
