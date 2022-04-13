@@ -16,7 +16,7 @@ permalink: /vacancies/
 
 ### Applications for PhD and MSc positions
 
-MSc and PhD applicants who are interested in our research are encouraged to contact [Prof. Armanfard via email](https://ismart.ece.mcgill.ca/contact/). **The body of the email MUST contain** your name, degree you are applying for (M.Sc./PhD), your degree(s) information (university, GPA), whether you are domestic or international student, IELTS/TOEFL/GRE score (if applicable), your three recent publications (if applicable), whether or not you have applied to the Department of Electrical and Computer Engineering. Attach your complete academic CV and transcript(s). Please keep in mind that, due to the volume of emails that we receive, we may not reply to all.
+MSc and PhD applicants who are interested in our research are encouraged to contact [Prof. Armanfard](https://ismart.ece.mcgill.ca/contact/) via email. **The body of the email MUST contain** your name, degree you are applying for (M.Sc./PhD), your degree(s) information (university, GPA), whether you are domestic or international student, IELTS/TOEFL/GRE score (if applicable), your three recent publications (if applicable), whether or not you have applied to the Department of Electrical and Computer Engineering. Attach your complete academic CV and transcript(s). Please keep in mind that, due to the volume of emails that we receive, we may not reply to all.
 
 The ECE department deadlines for the Fall Semester is **December 15th** for both international and domestic applicants; and for the Winter Semester is **August 1st** for international applicants and **October 15th** for domestic applicants. For more information please read [here](https://www.mcgill.ca/ece/graduate/graduate).
 
