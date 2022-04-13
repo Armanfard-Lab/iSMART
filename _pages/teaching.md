@@ -6,7 +6,7 @@ sitemap: false
 permalink: /teaching/
 ---
 
-# Teaching
+# Prof. Armanfard teaches the following courses:
 
 ### 1. ECSE 551 Machine Learning for Engineers (4 credits)
   * Fall 2021, Winter 2021, Fall 2020, Winter 2020
