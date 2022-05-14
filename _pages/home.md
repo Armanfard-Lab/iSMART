@@ -27,10 +27,10 @@ Welcome to the intelligent Systems and Machine learning Algorithms Research and 
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ssl.png" alt="Slide 1" style="aspect-ratio: 1.618" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ad.png" alt="Slide 2" style="aspect-ratio: 1.618" />
         </div>
-        <div class="item active">
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/smart.jpeg" alt="Slide 3" style="aspect-ratio: 1.618" />
         </div>
         <div class="item">
