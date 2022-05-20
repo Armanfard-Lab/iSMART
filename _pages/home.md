@@ -69,7 +69,7 @@ Welcome to the intelligent Systems and Machine learning Algorithms Research and 
 
 **Human Activity Recognition:** It is a popular research field in computer vision and plays an important role in many real-world intelligent systems. As a part of this research line, we aim at improving the state-of-the-art using deep reinforcement learning (DRL). Towards this reserach line, we also explore multitask learning (MTL) that have recently gained a lot of popularity as a learning paradigm. It can lead to improved per-task performance while also using fewer per-task model parameters compared to single task learning.
 
-**Industrial Automation:**  Industrial automation is the use of data-driven control systems, whether computers, process controllers or robots, to operate industrial processes or machinery in a way that reduces the need for human action. We are working on developing inteligent systems in order to yield a more robust and accurate performance and improve the productivity.
+**Industrial Automation:**  Industrial automation is the use of data-driven control systems, whether computers, process controllers or robots, to operate industrial processes or machinery in a way that reduces the need for human action. We are working on developing intelligent systems in order to yield a more robust and accurate performance and improve the productivity.
 
 We are grateful for funding from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), and [SCALE AI](https://www.scaleai.ca/).
 
