@@ -19,33 +19,37 @@ Welcome to the intelligent Systems and Machine learning Algorithms Research and 
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ssl.png" alt="Slide 1" style="aspect-ratio: 1.618" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bitmap.png" alt="Slide 1" style="aspect-ratio: 1.618" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ad.png" alt="Slide 2" style="aspect-ratio: 1.618" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ssl.png" alt="Slide 2" style="aspect-ratio: 1.618" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/smart.jpeg" alt="Slide 3" style="aspect-ratio: 1.618" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ad.png" alt="Slide 3" style="aspect-ratio: 1.618" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1.png" alt="Slide 4" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/smart.jpeg" alt="Slide 4" style="aspect-ratio: 1.618" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.png" alt="Slide 5" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1.png" alt="Slide 5" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hooman1.png" alt="Slide 6" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.png" alt="Slide 6" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.png" alt="Slide 7" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hooman1.png" alt="Slide 7" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/epilepsy.jpeg" alt="Slide 8" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.png" alt="Slide 8" style="aspect-ratio: 1.618"/>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/epilepsy.jpeg" alt="Slide 9" style="aspect-ratio: 1.618"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
