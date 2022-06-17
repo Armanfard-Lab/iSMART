@@ -1,11 +1,11 @@
 - title: "Self-Supervised Anomaly Detection: A Survey and Outlook"
-  image: 
-  description:
+  image: ssl (1).png
+  description: Recently, the emergence of self-supervised learning has sparked the development of new anomaly detection algorithms that surpassed state-of-the-art accuracy by a significant margin. This paper aims to review the current approaches in self-supervised anomaly detection. We present technical details of the common approaches and discuss their strengths and drawbacks. We also compare the performance of these models against each other and other state-of-the-art anomaly detection models. Finally, we discuss a variety of new directions for improving the existing algorithms.
   authors: H Hojjati, TKK Ho, N Armanfard
   link:
     url: https://arxiv.org/abs/2205.05173
     display: 	arXiv:2205.05173 (2022)
-  highlight: 0
+  highlight: 1
   news2: 
 
 - title: "Deep Multi-Representation Learning for Data Clustering"
