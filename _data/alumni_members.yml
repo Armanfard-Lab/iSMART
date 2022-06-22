@@ -1,7 +1,7 @@
 - name: Shuhong Shen
   photo: man.jpg
   info: 
-  duration: Master Student, Now in Hatch
+  duration: Master Student, Moved on to Hatch
   info: Master Student
   email:
   number_educ: 0
@@ -13,7 +13,7 @@
 - name: Tri-tin Truong
   photo: man.jpg
   info:
-  duration: Master Student, Now in Amazon
+  duration: Master Student, Moved on to Amazon
   email:
   number_educ: 0
   education1: Master Padova University
@@ -23,7 +23,7 @@
 - name: Hadi Hojjati
   photo: Hadi (1).jpg
   info:
-  duration: Master Student, Now PhD student at McGill University
+  duration: Master Student, Moved on to PhD student at McGill University
   email: hadi.hojjati@mcgill.ca
   number_educ: 1
   education1: BSc <a href="https://en.sharif.edu/">Sharif University of Technology</a>
