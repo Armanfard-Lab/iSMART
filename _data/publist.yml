@@ -1,6 +1,6 @@
 - title: "Self-Supervised Anomaly Detection: A Survey and Outlook"
   image: ssl (1).png
-  description: This paper aims to review the current approaches in self-supervised anomaly detection. We present technical details of the common approaches and discuss their strengths and drawbacks. We also compare the performance of these models against each other and other state-of-the-art anomaly detection models. Finally, we discuss a variety of new directions for improving the existing algorithms.
+  description: This paper aims to review the current approaches in self-supervised anomaly detection, presents technical details of the common approaches, and discuss their strengths and drawbacks.
   authors: H Hojjati, TKK Ho, N Armanfard
   link:
     url: https://arxiv.org/abs/2205.05173
