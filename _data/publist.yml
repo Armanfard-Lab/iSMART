@@ -110,7 +110,7 @@
   news2:
   
 - title: "Multiview Feature Selection for Single view Classification"
-  image: DSSL.gif
+  image: Multiview.gif
   description: in this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points, where weights are defined based on similarity between latent representation of data points and cluster centers.
   authors:  M Komeili, N Armanfard, D Hatzinakos
   link:
@@ -120,7 +120,7 @@
   news2:
   
 - title: "Quantification of Resting State Ballistocardiogram Difference Between Clinical and Non Clinical Populations for Ambient Monitoring of Heart Failure"
-  image: DASVDD.png
+  image: ChangQuantification.jpg
   description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. We propose a customized anomaly score which is a combination of autoencoder's reconstruction error and distance of the lower-dimensional representation of a sample from the center of the enclosing hyper-sphere.
   authors: S Chang, S Mak, N Armanfard, J Boger, A Mihailidis
   link:
