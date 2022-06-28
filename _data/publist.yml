@@ -31,7 +31,7 @@
 
 - title: "Attentive Task Interaction Network for Multi-Task Learning"
   image: dimitripaper.png
-  description: employs knowledge distillation of the latent features for each task, then combines the feature maps to provide improved contextualized information to the decoder. This novel approach to introducing knowledge distillation into an attention based multitask network outperforms state of the art Multi-Task Learning.
+  description: We propose the Attentive Task Interaction Network (ATI-Net). ATI-Net employs knowledge distillation of the latent features for each task, then combines the feature maps to provide improved contextualized information to the decoder.  
   authors: D Sinodinos, N Armanfard
   link:
     url: https://arxiv.org/abs/2201.10649
