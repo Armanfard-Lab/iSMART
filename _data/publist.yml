@@ -20,7 +20,7 @@
 
 - title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
   image: BaharReview.png
-  description: To facilitate further research in DRL-based human activity recognition, we have constructed a comprehensive survey on activity recognition methods that incorporate deep reinforcement learning. Towards the end of this survey, we summarize key challenges and open problems in this area that can be addressed by researchers in the future.
+  description: To facilitate further research in DRL-based human activity recognition, we have constructed a comprehensive survey on activity recognition methods that incorporate deep reinforcement learning.
   authors: B Nikpour, D Sinodinos, N Armanfard
   link:
     url: https://www.techrxiv.org/articles/preprint/Deep_Reinforcement_Learning_in_Human_Activity_Recognition_A_Survey/19172369
