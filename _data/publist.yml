@@ -41,7 +41,7 @@
   
 - title: "Multistep networks for roll force prediction in hot strip rolling mill"
   image: TBG_SL.png
-  description: In this paper, we propose a machine learning based framework to establish a model that accurately predicts roll forces at each mill stands of the hot strip rolling mill. In contrast to the traditional models, the proposed expert system considers an individual model for each rolling stand and employs rolling history when predicting roll forces. The proposed model includes both steel chemistry and physical process parameters for its predictions.
+  description: In this paper, we propose a machine learning based framework to establish a model that accurately predicts roll forces at each mill stands of the hot strip rolling mill. The proposed model includes both steel chemistry and physical process parameters for its predictions.
   authors: S Shen, D Guye, X Ma, S Yue, N Armanfard
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2666827021001237
