@@ -9,7 +9,7 @@
   news2: 
 
 - title: "Deep Multi-Representation Learning for Data Clustering"
-  image: 
+  image: dml.png
   description:
   authors: M Sadeghi, N Armanfard
   link:
@@ -19,7 +19,7 @@
   news2: 
 
 - title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
-  image: 
+  image: BaharReview.png
   description:
   authors: B Nikpour, D Sinodinos, N Armanfard
   link:
@@ -30,7 +30,7 @@
 
 
 - title: "Attentive Task Interaction Network for Multi-Task Learning"
-  image: Pairs3.png
+  image: dimitripaper.png
   description: employs knowledge distillation of the latent features for each task, then combines the feature maps to provide improved contextualized information to the decoder. This novel approach to introducing knowledge distillation into an attention based multitask network outperforms state of the art Multi-Task Learning.
   authors: D Sinodinos, N Armanfard
   link:
@@ -130,7 +130,7 @@
   news2:
   
 - title: "A Machine Learning Framework for Automatic and Continuous MMN Detection with Preliminary Results for Coma Outcome Prediction"
-  image: 
+  image: COMA.png
   description:
   authors: N Armanfard, M Komeili, J P Reilly, J F Connolly
   link:
@@ -140,7 +140,7 @@
   news2:
   
 - title: "Unobtrusive Detection of Orthostatic Hypotension using Ballistocardiogram"
-  image: 
+  image: changunobtrusive.png
   description:
   authors: S Chang, N Armanfard, A Q Javaid, J Boger, A Mihailidis
   link:
@@ -150,7 +150,7 @@
   news2:
   
 - title: "Logistic Localized Modeling of the Sample Space for Feature Selection and Classification"
-  image: 
+  image: logisticlocalized.gif
   description:
   authors: N Armanfard, J P Reilly, M Komeili
   link:
@@ -160,7 +160,7 @@
   news2:
   
 - title: "Liveness Detection and Automatic Template Updating using Fusion of ECG and Fingerprint"
-  image: 
+  image: liveness.gif
   description:
   authors: M Komeili, N Armanfard, D Hatzinakos
   link:
@@ -170,7 +170,7 @@
   news2:
   
 - title: "Feature Selection for Non-Stationary Data: Application to Human Recognition using Medical Biometrics"
-  image: 
+  image: featurenonstationary.gif
   description:
   authors: M Komeili, W Louis, N Armanfard, D Hatzinakos
   link:
@@ -180,7 +180,7 @@
   news2:
   
 - title: "Development of a Smart Home-Based Package for Unobtrusive Physiological Monitoring"
-  image: 
+  image: Smarthome.png
   description:
   authors: N Armanfard, M Komeili, A Mihailidis
   link:
@@ -190,7 +190,7 @@
   news2:
   
 - title: "Local Feature Selection for Data Classification"
-  image: 
+  image: localfeatureselection.gif
   description:
   authors: N Armanfard, J P Reilly, M Komeili
   link:
