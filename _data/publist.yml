@@ -111,32 +111,32 @@
   
 - title: "Multiview Feature Selection for Single view Classification"
   image: Multiview.gif
-  description: In this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points.
+  description: In this paper, we present a multiview feature selection method that leverages the knowledge of all views and use it to guide the feature selection process in an individual view.
   authors:  M Komeili, N Armanfard, D Hatzinakos
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/TPAMI-MVSV.pdf
     display:  IEEE Transactions on Pattern Analysis and Machine Intelligence (2020)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "Quantification of Resting State Ballistocardiogram Difference Between Clinical and Non Clinical Populations for Ambient Monitoring of Heart Failure"
   image: ChangQuantification.jpg
-  description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. We propose a customized anomaly score which is a combination of autoencoder's reconstruction error and distance of the lower-dimensional representation of a sample from the center of the enclosing hyper-sphere.
+  description: In this work, the differences in resting-state BCGs of the two cohorts in a sitting posture were quantified.
   authors: S Chang, S Mak, N Armanfard, J Boger, A Mihailidis
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9217598
     display: IEEE Journal of Translational Engineering in Health and Medicine (2020)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "A Machine Learning Framework for Automatic and Continuous MMN Detection with Preliminary Results for Coma Outcome Prediction"
   image: COMA.png
-  description:
+  description: In this paper, we propose a practical machine learning (ML) based approach for detection of MMN component, thus, improving the accuracy of prediction of emergence from coma.
   authors: N Armanfard, M Komeili, J P Reilly, J F Connolly
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/JBHI-MMND.pdf
     display: IEEE Journal of Biomedical and Health Informatics (2019)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "Unobtrusive Detection of Orthostatic Hypotension using Ballistocardiogram"
