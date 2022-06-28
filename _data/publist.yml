@@ -51,7 +51,7 @@
 
 - title: "Deep Clustering with Self-supervision using Pairwise Data Similarities"
   image: final_model-1.png
-  description: In this paper we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). The proposed method consists of two successive phases. In the first phase we propose to form hypersphere-like groups of similar data points, i.e. one hypersphere per cluster, employing an autoencoder which is trained using cluster-specific losses.
+  description: In this paper we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). We propose to form hypersphere-like groups of similar data points, i.e. one hypersphere per cluster.
   authors: M Sadeghi, N Armanfard
   link:
     url: https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652
@@ -61,7 +61,7 @@
 
 - title: "Self-Supervised Acoustic Anomaly Detection Via Contrastive Learning"
   image: ICASSP.jpg
-  description: For the first time, we propose a contrastive learning-based framework that is suitable for acoustic anomaly detection. Since most existing contrastive learning approaches are targeted toward images, the effect of other data transformations on the performance of the algorithm is unknown. Our framework learns a representation from unlabeled data by applying audio-specific data augmentations.
+  description: For the first time, we propose a contrastive learning-based framework that is suitable for acoustic anomaly detection. Our framework learns a representation from unlabeled data by applying audio-specific data augmentations.
   authors: H Hojjati, N Armanfard
   link:
     url: https://www.techrxiv.org/articles/preprint/SELF-SUPERVISED_ACOUSTIC_ANOMALY_DETECTION_VIA_CONTRASTIVE_LEARNING/16828363
@@ -81,7 +81,7 @@
 
 - title: "Joint Selection using Deep Reinforcement Learning for Skeleton-based Activity Recognition"
   image: JSD.gif
-  description: We propose to formulate the joint selection problem as a Markov Decision Process (MDP) where we employ deep reinforcement learning to find the most informative joints per frame. The proposed joint selection method is a general framework that can be employed to improve the existing human activity classification methods.
+  description: We propose to formulate the joint selection problem as a Markov Decision Process (MDP) where we employ deep reinforcement learning to find the most informative joints per frame.
   authors: B Nikpour, N Armanfard
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9659047
@@ -90,7 +90,7 @@
 
 - title: "DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection"
   image: DASVDD.png
-  description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. We propose a customized anomaly score which is a combination of autoencoder's reconstruction error and distance of the lower-dimensional representation of a sample from the center of the enclosing hyper-sphere.
+  description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. 
   authors: H Hojjati, N Armanfard
   link:
     url: https://arxiv.org/abs/2106.05410
@@ -101,7 +101,7 @@
 
 - title: "Deep Successive Subspace Learning for Data Clustering"
   image: DSSL.gif
-  description: in this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points, where weights are defined based on similarity between latent representation of data points and cluster centers.
+  description: In this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points.
   authors:  M Sadeghi, N Armanfard
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/JCNN-DSSL.pdf
@@ -111,7 +111,7 @@
   
 - title: "Multiview Feature Selection for Single view Classification"
   image: Multiview.gif
-  description: in this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points, where weights are defined based on similarity between latent representation of data points and cluster centers.
+  description: In this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points.
   authors:  M Komeili, N Armanfard, D Hatzinakos
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/TPAMI-MVSV.pdf
