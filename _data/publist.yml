@@ -37,8 +37,8 @@
     url: https://arxiv.org/abs/2201.10649
     display: 26th International Conference on Pattern Recognition (ICPR 2022)
   highlight: 1
-  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
-
+  news2:
+  
 - title: "Multistep networks for roll force prediction in hot strip rolling mill"
   image: TBG_SL.png
   description: In this paper, we propose a machine learning based framework to establish a model that accurately predicts roll forces at each mill stands of the hot strip rolling mill. In contrast to the traditional models, the proposed expert system considers an individual model for each rolling stand and employs rolling history when predicting roll forces. The proposed model includes both steel chemistry and physical process parameters for its predictions.
