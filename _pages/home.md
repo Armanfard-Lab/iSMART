@@ -19,7 +19,6 @@ Welcome to the intelligent Systems and Machine learning Algorithms Research and 
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
-        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items -->
@@ -47,9 +46,6 @@ Welcome to the intelligent Systems and Machine learning Algorithms Research and 
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.png" alt="Slide 8" style="aspect-ratio: 1.618"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/epilepsy.jpeg" alt="Slide 9" style="aspect-ratio: 1.618"/>
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
