@@ -56,7 +56,7 @@ permalink: /team/
     
   </ul>
   <center>
-  <a href="https://scholar.google.com/citations?user=V8pn4tIAAAAJ&hl=en" target="_blank"><img src="https://user-images.githubusercontent.com/66117993/96351906-8c452000-1084-11eb-926f-6536bd0c6d57.png" alt="Google Scholar" style="aspect-ratio: 1;width:26px;height:26px;margin:0px 3px"></a><a href="https://ca.linkedin.com/in/armanfardn" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="aspect-ratio: 1;width:26px;height:26px;margin:0px 3px"></a>
+  <a href="https://scholar.google.com/citations?user=V8pn4tIAAAAJ&hl=en" target="_blank"><img src="https://github.com/Armanfard-Lab/armanfard-lab.github.io/blob/gh-pages/images/44-442505_google-scholar-twitter-instagram-google-scholar-icon-svg.png?raw=true" alt="Google Scholar" style="aspect-ratio: 1;width:26px;height:26px;margin:0px 3px"></a><a href="https://ca.linkedin.com/in/armanfardn" target="_blank"><img src="https://github.com/Armanfard-Lab/armanfard-lab.github.io/blob/gh-pages/images/30-308556_joshua-fink-linkedin-grey-linkedin-logo-png.png?raw=true" alt="LinkedIn" style="aspect-ratio: 1;width:26px;height:26px;margin:0px 3px"></a>
   </center>
 </div>
 
