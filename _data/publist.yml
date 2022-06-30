@@ -141,60 +141,60 @@
   
 - title: "Unobtrusive Detection of Orthostatic Hypotension using Ballistocardiogram"
   image: changunobtrusive.png
-  description:
+  description: In this paper, a zero-effort device, a floor tile, was used to develop an unobtrusive BP monitoring technique.
   authors: S Chang, N Armanfard, A Q Javaid, J Boger, A Mihailidis
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8478791
     display: IEEE Journal of Translational Engineering in Health and Medicine (2018)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "Logistic Localized Modeling of the Sample Space for Feature Selection and Classification"
   image: logisticlocalized.gif
-  description:
+  description: This paper proposes a novel algorithm for localized feature selection for which each region of the sample space is characterized by its individual distinct feature subset that may vary in size and membership.
   authors: N Armanfard, J P Reilly, M Komeili
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/TNNLS-lLFS.pdf
     display: IEEE Transactions on Neural Networks and Learning Systems (2018)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "Liveness Detection and Automatic Template Updating using Fusion of ECG and Fingerprint"
   image: liveness.gif
-  description:
+  description: In this paper, we approach the biometric recognition problem from a different perspective by incorporating electrocardiogram (ECG). Compared with the conventional biometrics, stealing someone's ECG is far more difficult if not impossible.
   authors: M Komeili, N Armanfard, D Hatzinakos
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/TIFS-LivnessDetection.pdf
     display: IEEE Transactions on Information Forensics & Security (2018)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "Feature Selection for Non-Stationary Data: Application to Human Recognition using Medical Biometrics"
   image: featurenonstationary.gif
-  description:
+  description: This paper proposed a method that uses local information in terms of sample margins while enforcing an across-session measure. This makes it a perfect fit for aforementioned biometric recognition problem.
   authors: M Komeili, W Louis, N Armanfard, D Hatzinakos
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/TCYB-MSFS.pdf
     display: IEEE Transactions on Cybernetics (2018)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "Development of a Smart Home-Based Package for Unobtrusive Physiological Monitoring"
   image: Smarthome.png
-  description:
+  description: In this paper we developed a novel home-based package that measures critically important physiological information such that neither active compliance or interaction from the user is required.
   authors: N Armanfard, M Komeili, A Mihailidis
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/EMBC-SmartPackage.pdf
     display: Engineering in Medicine and Biology Society (EMBC)(2018)
-  highlight: 0
+  highlight: 1
   news2:
   
 - title: "Local Feature Selection for Data Classification"
   image: localfeatureselection.gif
-  description:
+  description: In this paper we propose a novel localized feature selection (LFS) approach whereby each region of the sample space is associated with its own distinct optimized feature set
   authors: N Armanfard, J P Reilly, M Komeili
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/TPAMI-LFS.pdf
     display: IEEE Transactions on Pattern Analysis and Machine Intelligence (2016)
-  highlight: 0
+  highlight: 1
   news2:
