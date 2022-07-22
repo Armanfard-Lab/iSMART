@@ -253,7 +253,8 @@ permalink: /team/
 <div class="col-sm-12 clearfix">
 <h4>BSc students</h4>
 {% for member in site.data.alumni_bsc %}
-{{ member.name }}
+{{ member.name }}<br>
+<i>{{ member.duration }}</i>
 {% endfor %}
 </div>
 
