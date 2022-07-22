@@ -1,7 +1,7 @@
-- name: Shuhong Shen
+- name: Shuhong Shen (MSc-Thesis Student)
   photo: man.jpg
   info: 
-  duration: Master Student, Moved on to Hatch in Toronto
+  duration: Moved on to Hatch in Toronto
   info: Master Student
   email:
   number_educ: 0
@@ -10,20 +10,20 @@
   education3:
   education4:
 
-- name: Tri-tin Truong
+- name: Tri-tin Truong (MSc-Thesis Student)
   photo: man.jpg
   info:
-  duration: Master Student, Moved on to Amazon in Vancouver
+  duration: Moved on to Amazon in Vancouver
   email:
   number_educ: 0
   education1: Master Padova University
   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
   education3: PhD Leiden University!
 
-- name: Hadi Hojjati
+- name: Hadi Hojjati (MSc-Thesis Student)
   photo: Hadi (1).jpg
   info:
-  duration: Master Student, Moved on to PhD student at McGill University
+  duration: Moved on to PhD student at McGill University
   email: hadi.hojjati@mcgill.ca
   number_educ: 1
   education1: BSc <a href="https://en.sharif.edu/">Sharif University of Technology</a>
