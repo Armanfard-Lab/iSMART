@@ -67,12 +67,13 @@ Welcome to the intelligent Systems and Machine learning Algorithms Research and 
 
 **Industrial Automation:**  Industrial automation is the use of data-driven control systems, whether computers, process controllers or robots, to operate industrial processes or machinery in a way that reduces the need for human action. We are working on developing intelligent systems in order to yield a more robust and accurate performance and improve the productivity.
 
-We are grateful for funding from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), and [SCALE AI](https://www.scaleai.ca/).
+We are grateful for funding from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), [SCALE AI](https://www.scaleai.ca/), and Canada Foundation for Innovation [(CFI)](https://www.innovation.ca/).
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MCGILL.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FRQNT.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MITACS.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SCALE.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MCGILL.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FRQNT.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MITACS.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SCALE.jpg" style="width: 100px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/CFI.png" style="width: 100px">
 </figure>
