@@ -82,7 +82,17 @@
   scholar:
   linkedin: https://www.linkedin.com/in/yi-wei-a9146716a/?originalSubdomain=ca&original_referer=
   bio: Yi (Jack) Wei will be receiving his bachelor’s degree in Computer Engineering with a minor in Mathematics from McGill University in 2022. He is a nominee for the McGill Engineering Undergraduate Student Award (MEUSMA). Before joining the iSMART lab, he worked on skin cancer detection with microwave technology. He is interested in developing novel machine learning algorithms for healthcare and industrial applications.
-  
+- name: Sushant Sinha
+  photo: sushant.png
+  info: Master Student
+  email: sushant.sinha@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor <a href="https://www.bitsindri.ac.in/">BIT Sindri</a>
+  education2:
+  education3:
+  scholar:
+  linkedin:
+  bio: Sushant obtained his B.Tech from BIT Sindri, India. He is currently an MSc. thesis student. He has received the MITACS Graduate Fellowship. His research focuses on the application of machine learning for Hot Rolling of Steel. His interest is in understanding the structure-property relationship and correlating it to fundamental concepts.
 - name: Vania Karami
   photo: woman.jpg
   info: Postdoc (co-supervised)
