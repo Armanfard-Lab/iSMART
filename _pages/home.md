@@ -79,7 +79,7 @@ Welcome to the intelligent Systems and Machine learning Algorithms Research and 
 
 **Industrial Automation:**  Industrial automation is the use of data-driven control systems, whether computers, process controllers or robots, to operate industrial processes or machinery in a way that reduces the need for human action. We are working on developing intelligent systems in order to yield a more robust and accurate performance and improve the productivity.
 
-We are grateful for funding from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), [SCALE AI](https://www.scaleai.ca/), and Canada Foundation for Innovation [(CFI)](https://www.innovation.ca/).
+We are grateful for funding from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), [SCALE AI](https://www.scaleai.ca/), Canada Foundation for Innovation [(CFI)](https://www.innovation.ca/), Nissan, Ericsson, Algoma, Preteckt, Agewell, Montreal Neurological Institute, Jewish General Hospital, University Health Network, and Trimac.
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MCGILL.png" style="width: 100px">
@@ -93,7 +93,7 @@ We are grateful for funding from McGill University, Natural Sciences and Enginee
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Ericsson-Logo-700x394.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuro.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nissan_logo.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jgh-color.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Preteckt-_horz_blue.webp" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UHN.jpg" style="width: 100px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agewell.png" style="width: 100px">
@@ -101,6 +101,6 @@ We are grateful for funding from McGill University, Natural Sciences and Enginee
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/algoma.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jgh-color.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nissan_logo.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/trimac.webp" style="width: 110px">
 </figure>
