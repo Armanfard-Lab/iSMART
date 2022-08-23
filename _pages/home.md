@@ -96,11 +96,11 @@ We are grateful for supports we have been receiving from McGill University, Natu
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nissan_logo.png" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Preteckt-_horz_blue.webp" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/trimac.webp" style="width: 100px">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agewell.png" style="width: 100px">
 </figure>
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuro.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jgh-color.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UHN.jpg" style="width: 110px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agewell.png" style="width: 100px">
 </figure>
