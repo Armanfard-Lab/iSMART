@@ -93,7 +93,7 @@ We are grateful for supports we have been receiving from McGill University, Natu
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Ericsson-Logo-700x394.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/algoma.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nissan_logo.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nissan_logo.png" style="width: 95px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Preteckt-_horz_blue.webp" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/trimac.webp" style="width: 100px">
 </figure>
