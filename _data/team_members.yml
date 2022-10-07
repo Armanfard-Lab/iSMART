@@ -118,6 +118,18 @@
   linkedin: https://www.linkedin.com/in/sushant-sinha-1b30ab1bb/
   bio: Sushant obtained his B.Tech from BIT Sindri, India. He is currently an MSc. thesis student. He has received the MITACS Graduate Fellowship. His research focuses on the application of machine learning for Hot Rolling of Steel. His interest is in understanding the structure-property relationship and correlating it to fundamental concepts.
 
+- name: Samer Jammoul
+  photo: Samer Jammoul picture.jpg
+  info: Master Student (co-supervised)
+  email: samer.jammoul@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
+  education2:
+  education3:
+  scholar:
+  linkedin:
+  bio: Samer received his medical degree and completed his post-graduate medical studies in adult cardiology at McGill. He is currently pursuing a Master’s degree in Digital Health Innovation with an interest in applications of machine learning and artificial intelligence in medicine, particularly in multi-modal cardiac imaging.
+  
 - name: Amal Koodoruth
   photo: Amal.jpg
   info: BSc Student
