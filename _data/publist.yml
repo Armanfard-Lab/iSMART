@@ -1,5 +1,5 @@
 - title: "C3: Cross-instance guided Contrastive Clustering"
-  image: DB212F89-C32B-4B25-8335-6F5DA9AC2A8E.png
+  image: C3.jpg
   description: In this paper, we propose a novel contrastive clustering method, Cross-instance guided Contrastive Clustering (C3), that considers the cross-sample relationships to increase the number of positive pairs.
   authors: M Sadeghi, H Hojjati, N Armanfard
   link:
