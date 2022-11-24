@@ -1,3 +1,13 @@
+- title: "C3: Cross-instance guided Contrastive Clustering"
+  image: DB212F89-C32B-4B25-8335-6F5DA9AC2A8E.png
+  description: In this paper, we propose a novel contrastive clustering method, Cross-instance guided Contrastive Clustering (C3), that considers the cross-sample relationships to increase the number of positive pairs.
+  authors: M Sadeghi, H Hojjati, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2211.07136
+    display: 	arXiv:2211.07136 (2022)
+  highlight: 1
+  news2: 
+  
 - title: "Self-Supervised Learning for Anomalous Channel Detection in EEG Graphs: Application to Seizure Analysis"
   image: DB212F89-C32B-4B25-8335-6F5DA9AC2A8E.png
   description: In this paper, we propose to detect seizure channels and clips in a self-supervised manner where no access to the seizure data is needed.
