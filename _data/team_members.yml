@@ -56,8 +56,20 @@
   education3:
   scholar:
   linkedin: https://www.linkedin.com/in/dimitrios-sinodinos/
-  bio: Dimitrios completed his Bachelor’s degree in Electrical Engineering at McGill University and was awarded the British Association Medal for graduating with the highest CGPA in the department. Upon starting his Master’s degree, he was the recipient of the Graduate Excellence Fellowship Award (GEF), the McGill Engineering Undergraduate Student Masters Award (MEUSMA), and the NSERC Canada Graduate Scholarships - Master's award (CGS-M). Shortly after starting his Master's, Dimitrios fast-tracked into a PhD, where he received the McGill Engineering Doctoral Award (MEDA) and was selected into the prestigious Vadasz Scholars program. His research involves multitask learning, attention, and deep reinforcement learning for various computer vision applications.
+  bio: Dimitrios completed his Bachelor’s degree in Electrical Engineering at McGill University and was awarded the British Association Medal for graduating with the highest CGPA in the department. Upon starting his Master’s degree, he was the recipient of the Graduate Excellence Fellowship Award (GEF), the McGill Engineering Undergraduate Student Masters Award (MEUSMA), and the NSERC CGS-M award. Shortly after starting his Master's, Dimitrios fast-tracked into a PhD, where he received the MEDA Award and was selected into the prestigious Vadasz Scholars program. His research involves multitask learning, attention, and deep reinforcement learning for various computer vision applications.
   
+ - name: Ali Karami
+  photo: Ali.png
+  info: Master Student
+  email: ali.karami@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor <a href="https://ut.ac.ir/en">University of Tehran</a>
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+  scholar:
+  linkedin: https://www.linkedin.com/in/karami7899/
+  bio: Ali received his BSc degree in Electrical Engineering from the University of Tehran, Iran. He is recipient of the Graduate Excellence Fellowship Award (GEF). His primary area of research lies at the intersection of Reinforcement learning, Deep learning, and Autonomous Systems. He is mainly interested in achieving a better theoretical understanding, as well as designing practical and provable algorithms for machine learning and optimization problems.
+
 - name: Ali Karami
   photo: Ali.png
   info: Master Student
