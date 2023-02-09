@@ -1,3 +1,13 @@
+- title: "Graph-based Time-Series Anomaly Detection: A Survey"
+  image: fig2.png
+  description: In this survey, we conduct a comprehensive and up-to-date review of Graph-based Time-series Anomaly Detection (G-TSAD)
+  authors: TKK Ho, A Karami, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2302.00058
+    display: 	arXiv:2302.00058 (2022)
+  highlight: 1
+  news2: 
+  
 - title: "C3: Cross-instance guided Contrastive Clustering"
   image: C3.jpg
   description: In this paper, we propose a novel contrastive clustering method, Cross-instance guided Contrastive Clustering (C3), that considers the cross-sample relationships to increase the number of positive pairs.
