@@ -79,7 +79,7 @@ Welcome to the intelligent Systems and Machine learning Algorithms Research and 
 
 **Industrial Automation:**  Industrial automation is the use of data-driven control systems, whether computers, process controllers, or robots, to operate industrial processes or machinery in a way that reduces the need for human action. We work on developing intelligent systems to yield a more robust and accurate performance and improve productivity.
 
-We are grateful for support from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), [SCALE AI](https://www.scaleai.ca/), Canada Foundation for Innovation [(CFI)](https://www.innovation.ca/), [Nissan](https://www.nissan.ca/), [Ericsson](https://www.ericsson.com/en), [Algoma](https://algomau.ca/), [Preteckt](https://preteckt.com/), [Trimac](https://www.trimac.com/), [Agewell](https://agewell-nce.ca/), Montreal Neurological Institute [(MNI)](https://www.mcgill.ca/neuro/), [Jewish General Hospital](https://www.jgh.ca/) and University Health Network [UHN](https://www.uhn.ca/).
+We are grateful for support from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), [SCALE AI](https://www.scaleai.ca/), Canada Foundation for Innovation [(CFI)](https://www.innovation.ca/), [Nissan](https://www.nissan.ca/), [Ericsson](https://www.ericsson.com/en), [Algoma](https://algomau.ca/), [Preteckt](https://preteckt.com/), [Trimac](https://www.trimac.com/), [Agewell](https://agewell-nce.ca/), Montreal Neurological Institute [(MNI)](https://www.mcgill.ca/neuro/), [Jewish General Hospital](https://www.jgh.ca/), Canadian Institutes of Health Research ([CIHR])([https://www.jgh.ca/](https://cihr-irsc.gc.ca/e/193.html)), and University Health Network [UHN](https://www.uhn.ca/).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/MCGILL.png" style="width: 100px">
@@ -103,4 +103,5 @@ We are grateful for support from McGill University, Natural Sciences and Enginee
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/jgh-color.png" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UHN.jpg" style="width: 110px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agewell.png" style="width: 100px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cihr.png" style="width: 100px">
 </figure>
