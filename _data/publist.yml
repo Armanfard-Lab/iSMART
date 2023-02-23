@@ -1,3 +1,13 @@
+- title: "Spatio-Temporal Hard Attention Learning for Skeleton-based Activity Recognition"
+  image: baharp.jpg
+  description:  In this paper, we propose a novel framework for finding temporal and spatial attentions in a cooperative manner for activity recognition.
+  authors: B Nikpour, N Armanfard
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0031320323001292
+    display: 	Pattern Recognition (2023)
+  highlight: 1
+  news2: 
+  
 - title: "Graph-based Time-Series Anomaly Detection: A Survey"
   image: khanh.jpg
   description: In this survey, we conduct a comprehensive and up-to-date review of Graph-based Time-series Anomaly Detection (G-TSAD)
