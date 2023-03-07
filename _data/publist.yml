@@ -83,7 +83,7 @@
   description: In this paper, we propose a machine learning based framework to establish a model that accurately predicts roll forces at each mill stands of the hot strip rolling mill. The proposed model includes both steel chemistry and physical process parameters for its predictions.
   authors: S Shen, D Guye, X Ma, S Yue, N Armanfard
   link:
-    url: http://www.ece.mcgill.ca/~narman1/publications/MLWA-MS-RollForcePrediction
+    url: http://www.ece.mcgill.ca/~narman1/publications/MLWA-MS-RollForcePrediction.pdf
     display:  Machine Learning with Applications, Volume 7 (2022)
   highlight: 1
   news2:
