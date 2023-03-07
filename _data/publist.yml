@@ -123,7 +123,7 @@
   description: We propose to formulate the joint selection problem as a Markov Decision Process (MDP) where we employ deep reinforcement learning to find the most informative joints per frame.
   authors: B Nikpour, N Armanfard
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9659047
+    url: http://www.ece.mcgill.ca/~narman1/publications/SMC-JSDRL.pdf
     display:  IEEE International Conference on Systems, Man, and Cybernetics (SMC 2021)
   highlight: 1
 
