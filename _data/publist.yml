@@ -3,7 +3,7 @@
   description:  In this paper, we propose a novel framework for finding temporal and spatial attentions in a cooperative manner for activity recognition.
   authors: B Nikpour, N Armanfard
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S0031320323001292
+    url: http://www.ece.mcgill.ca/~narman1/publications/PR-STH.pdf
     display: 	Pattern Recognition (2023)
   highlight: 1
   news2: 
@@ -83,7 +83,7 @@
   description: In this paper, we propose a machine learning based framework to establish a model that accurately predicts roll forces at each mill stands of the hot strip rolling mill. The proposed model includes both steel chemistry and physical process parameters for its predictions.
   authors: S Shen, D Guye, X Ma, S Yue, N Armanfard
   link:
-    url: https://www.sciencedirect.com/science/article/pii/S2666827021001237
+    url: http://www.ece.mcgill.ca/~narman1/publications/MLWA-MS-RollForcePrediction
     display:  Machine Learning with Applications, Volume 7 (2022)
   highlight: 1
   news2:
