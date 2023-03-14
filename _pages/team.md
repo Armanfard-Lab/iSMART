@@ -20,7 +20,7 @@ permalink: /team/
   <h3 align="center">{{ member.name }}</h3>
   <p align="center"><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></p>
     
-  <p align="center">Narges Armanfard is an Assistant Professor of Electrical and Computer Engineering at McGill University and is an Associate Academic Member at Mila - Quebec AI Institute. She is also affiliated with McGill Centre for Intelligent Machines (CIM), McGill initiative in Computational Medicine (MiCM) and McGill Institute for Aerospace Engineering (MIAE). Before joining McGill, she was a postdoctoral researcher in the Intelligent Assistive Technology and Systems Lab at the University of Toronto and University Health Network. She obtained her PhD degree in Electrical and Computer Engineering from McMaster University.</p>
+  <p align="center">Narges Armanfard is a Tenure-Track Assistant Professor of Electrical and Computer Engineering at McGill University, and Mila - Quebec AI Institute. She is also affiliated with McGill Centre for Intelligent Machines (CIM), McGill initiative in Computational Medicine (MiCM) and McGill Institute for Aerospace Engineering (MIAE). Before joining McGill, she was a postdoctoral researcher in the Intelligent Assistive Technology and Systems Lab at the University of Toronto and University Health Network. She obtained her PhD degree in Electrical and Computer Engineering from McMaster University.</p>
  
   <ul style="overflow: hidden">
   
