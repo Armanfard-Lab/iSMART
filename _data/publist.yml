@@ -1,3 +1,13 @@
+- title: "Spatial Hard Attention Modeling via Deep Reinforcement Learning for Skeleton-based Human Activity Recognition"
+  image: 1.png
+  description: In this work, we hypothesize that selecting relevant joints, prior to recognition, can enhance performance of the existing deep learning-based recognition models.
+  authors: B Nikpour, N Armanfard
+  link:
+    url: https://www.ece.mcgill.ca/~narman1/publications/TSMC-SHARL.pdf
+    display: 	IEEE TSMC (2023)
+  highlight: 1
+  news2: 
+  
 - title: "Spatio-Temporal Hard Attention Learning for Skeleton-based Activity Recognition"
   image: baharp.jpg
   description:  In this paper, we propose a novel framework for finding temporal and spatial attentions in a cooperative manner for activity recognition.
