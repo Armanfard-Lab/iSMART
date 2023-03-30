@@ -10,7 +10,7 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
   scholar: https://scholar.google.com/citations?user=syH1csIAAAAJ&hl=en
   linkedin: https://ca.linkedin.com/in/bahar-nikpour-7771888a
-  bio: Bahareh received her Bachelor's and Master's degrees in Electrical Engineering from Bahonar University of Kerman, Iran. She has received the prestigious McGill Engineering Doctoral Award (MEDA) and Fonds de recherche du Québec -- Nature et technologies. Her research is focused on attention finding in deep reinforcement learning applicable to video anomaly detection.
+  bio: Bahareh received her Bachelor's and Master's degrees in Electrical Engineering from Bahonar University of Kerman, Iran. She has received the prestigious McGill Engineering Doctoral Award (MEDA) and Fonds de recherche du Québec -- Nature et technologies. Her research is focused on (few-shot) attention finding in deep reinforcement learning applicable to video anomaly detection.
 
 - name: Mohammadreza Sadeghi
   photo: Mreza.jpg
@@ -92,7 +92,7 @@
   education3:
   scholar:
   linkedin: https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdamien-gengler-09559b215%2F&data=05%7C01%7Chadi.hojjati%40mail.mcgill.ca%7C0453771beec5475fda5f08dae2c3306a%7Ccd31967152e74a68afa9fcf8f89f09ea%7C0%7C0%7C638071625199830266%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=xDN9ENBhbF%2BOOgpcwPjcubunjvnc7qzihGA3Z6M7pWs%3D&reserved=0
-  bio: Damien obtained his BSc in Computer Science from EPFL in Switzerland. He then started a Master's in Data Science at EPFL, with a high focus on Machine Learning. He is now completing his MSc thesis at the iSMART Lab. His research focuses on continual learning for anomaly detection.
+  bio: Damien obtained his BSc in Computer Science from EPFL in Switzerland. He then started a Master's in Data Science at EPFL, with a high focus on Machine Learning. He is now completing his MSc thesis at the iSMART Lab. His research focuses on (few-shot) continual learning for anomaly detection.
 
 - name: Jack Wei
   photo: Yiwei.png
