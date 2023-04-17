@@ -241,7 +241,7 @@
 - title: "Vigilance lapse identification using sparse EEG electrode arrays"
   image: eegelec.jpg
   description: In this paper we propose a practical machine learning approach for identification of vigilance lapses using EEG signals recorded from a very sparse electrode configuration with only 4 electrodes
-  authors: N Armanfard, J P Reilly, M Komeili
+  authors: N Armanfard, M Komeili, J P Reilly, L Pino
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7726846
     display: IEEE Canadian Conference on Electrical and Computer Engineering (2016)
