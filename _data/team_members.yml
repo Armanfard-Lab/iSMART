@@ -191,17 +191,4 @@
   scholar:
   linkedin: https://www.linkedin.com/
   bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He will complete his Bachelors Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. Alex plans to start his Masters in the iSmart lab in Winter 2024.
-  
-- name: Amal Koodoruth
-  photo: Amal.jpg
-  info: BSc Student
-  email: amal.koodoruth@mail.mcgill.ca
-  number_educ: 0
-  education1: Bachelor, <a href="https://www.mcgill.ca/ece/">McGill University</a>
-  education2: PCornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: 
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-  scholar:
-  linkedin: https://www.linkedin.com/in/amalkoodoruth/
-  bio: Amal Koodoruth was born in the beautiful island of Mauritius and lived there until he was 19. He then moved to Montreal for his undergraduate studies in electrical engineering, specializing in intelligent systems, at McGill University. He is currently part of the iSMART Lab under the supervision of Dr. Narges Armanfard for his honours thesis. His research interests are in applied machine learning, data science, and anomaly detection.
+ 
