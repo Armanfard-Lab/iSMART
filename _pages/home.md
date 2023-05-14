@@ -100,6 +100,7 @@ We are grateful for support from McGill University, Natural Sciences and Enginee
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Nissan_logo.png" style="width: 95px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Preteckt-_horz_blue.webp" style="width: 100px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/trimac.webp" style="width: 100px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Bridgestone-Logo.png" style="width: 100px">
 </figure>
 
 <figure class="fourth">
