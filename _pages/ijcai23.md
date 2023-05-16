@@ -6,7 +6,7 @@ sitemap: false
 permalink: /ijcai23/
 ---
 
-# Open positions
+<p style="text-align: center;">A piece of centered text</p>
 
 
 - We are looking for **Postdocs** in machine learning and its applications. Don't hesitate to contact us if you are interested and have a proven publication record. 
