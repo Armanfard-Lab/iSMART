@@ -1,9 +1,9 @@
 ---
-title: "iSMART Lab - Teaching"
+title: "IJCAI-23 Tutorial"
 layout: textlay
 excerpt: "Teaching"
 sitemap: false
-permalink: /teaching/
+permalink: /ijcai23/
 ---
 
 # Teaching
