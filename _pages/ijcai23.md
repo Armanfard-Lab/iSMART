@@ -74,13 +74,21 @@ permalink: /ijcai23/
     <li>Challenges of TSAD</li>
       </ul>
   </li>
-    <li>Second item
+    <li>Generative Methods
       <ul>
-        <li>Nested item 1</li>
-        <li>Nested item 2</li>
+        <li>Autoencoders for AD</li>
+        <li>Deep Models for Time-Series: RNN, LSTM, GRU</li>
+        <li>GANs for TSAD</li>
+        <li>Advanced Methods: VAE, OmniAnomaly</li>
       </ul>
     </li>
-    <li>Third item</li>
+    <li>Transformers
+      <ul>
+        <li>Attention Mechanism</li>
+        <li>Introduction to Transformers</li>
+        <li>Association Discrepancy and AD</li>
+      </ul>
+    </li>
   </ul>
     
     
