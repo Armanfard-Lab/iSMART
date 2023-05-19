@@ -137,7 +137,14 @@ permalink: /ijcai23/
 
 <h2 align="center"> Location </h2>
 <hr>
-    <p align="center">To be announced. </p>
+  
+<p>This is <b>bold text</b>.</p>
+  
+<p>This is <b>bold text</b>.</p>
+  
+ <p>This is <b>bold text</b>.</p>
+
+  
 
 
 
