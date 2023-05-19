@@ -66,11 +66,16 @@ permalink: /ijcai23/
 
 <h2 align="center"> Outline </h2>
 <hr>
-    - First item
-  - Nested item 1
-  - Nested item 2
-- Second item
-- Third item
+  <ul>
+    <li>First item</li>
+    <li>Second item
+      <ul>
+        <li>Nested item 1</li>
+        <li>Nested item 2</li>
+      </ul>
+    </li>
+    <li>Third item</li>
+  </ul>
     
     
 <h2 align="center"> Organizers </h2>
