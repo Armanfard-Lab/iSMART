@@ -1,7 +1,7 @@
 ---
-title: "iSMART Lab - Team"
+title: "IJCAI-23 Tutorial"
 layout: gridlay
-excerpt: "Team members"
+excerpt: "IJCAI Tutorial"
 sitemap: false
 permalink: /ijcai23/
 ---
