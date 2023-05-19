@@ -64,7 +64,15 @@ permalink: /ijcai23/
 </div>
 {% endfor %}
 
-
+<h2 align="center"> Outline </h2>
+<hr>
+    - First item
+  - Nested item 1
+  - Nested item 2
+- Second item
+- Third item
+    
+    
 <h2 align="center"> Organizers </h2>
 <hr>
 {% assign number_printed = 0 %}
@@ -122,6 +130,9 @@ permalink: /ijcai23/
 
 {% endfor %}
 
+<h2 align="center"> Location </h2>
+<hr>
+    <p align="center">To be announced. </p>
 
 
 
