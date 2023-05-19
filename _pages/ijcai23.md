@@ -89,6 +89,34 @@ permalink: /ijcai23/
         <li>Association Discrepancy and AD</li>
       </ul>
     </li>
+  <li>Self-Supervised Methods
+      <ul>
+        <li>What is Self-Supervised Learning?</li>
+        <li>Proxy Tasks for AD in Time Series</li>
+      </ul>
+    </li>
+    <li>Graph-Based Methods
+      <ul>
+        <li>Graph Neural Networks, Graph Convolutional Networks and Graph Attention Networks</li>
+        <li>Graphs for TSAD: Generative and Flow-Based Models</li>
+        <li>Predictive Models</li>
+        <li>Contrastive Self-supervised Model</li>
+      </ul>
+    </li>
+  <li>Caveats for Real-World Implementation
+      <ul>
+        <li>Preprocessing and its effect</li>
+        <li>Avoiding Bias: Choosing the Right Evaluation Protocol</li>
+        <li>Selected Use Cases</li>
+      </ul>
+    </li>
+    <li>Closing
+      <ul>
+        <li>Summary</li>
+        <li>Future Directions</li>
+        <li>QA</li>
+      </ul>
+    </li>
   </ul>
     
     
