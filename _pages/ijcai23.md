@@ -66,7 +66,7 @@ permalink: /ijcai23/
 {% endfor %}
 
 
-<h2 align="center"> Group Members </h2>
+<h2 align="center"> Presenters </h2>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.ijcaimember %}
