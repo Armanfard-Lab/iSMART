@@ -64,60 +64,16 @@ permalink: /ijcai23/
 </div>
 {% endfor %}
 
-<h2 align="center"> Outline </h2>
+<h2 align="center"> Location </h2>
 <hr>
-  <ul>
-    <li>Intro
-  <ul>
-    <li>What is Anomaly Detection (AD)?</li>
-    <li>Brief Overview of AD Algorithms</li>
-    <li>Challenges of TSAD</li>
-      </ul>
-  </li>
-    <li>Generative Methods
-      <ul>
-        <li>Autoencoders for AD</li>
-        <li>Deep Models for Time-Series: RNN, LSTM, GRU</li>
-        <li>GANs for TSAD</li>
-        <li>Advanced Methods: VAE, OmniAnomaly</li>
-      </ul>
-    </li>
-    <li>Transformers
-      <ul>
-        <li>Attention Mechanism</li>
-        <li>Introduction to Transformers</li>
-        <li>Association Discrepancy and AD</li>
-      </ul>
-    </li>
-  <li>Self-Supervised Methods
-      <ul>
-        <li>What is Self-Supervised Learning?</li>
-        <li>Proxy Tasks for AD in Time Series</li>
-      </ul>
-    </li>
-    <li>Graph-Based Methods
-      <ul>
-        <li>Graph Neural Networks, Graph Convolutional Networks and Graph Attention Networks</li>
-        <li>Graphs for TSAD: Generative and Flow-Based Models</li>
-        <li>Predictive Models</li>
-        <li>Contrastive Self-supervised Model</li>
-      </ul>
-    </li>
-  <li>Caveats for Real-World Implementation
-      <ul>
-        <li>Preprocessing and its effect</li>
-        <li>Avoiding Bias: Choosing the Right Evaluation Protocol</li>
-        <li>Selected Use Cases</li>
-      </ul>
-    </li>
-    <li>Closing
-      <ul>
-        <li>Summary</li>
-        <li>Future Directions</li>
-        <li>QA</li>
-      </ul>
-    </li>
-  </ul>
+  
+<p align="center"><b>To be Presented at:</b>IJCAI 2023</p>
+  
+<p align="center"><b>Date and Location:</b> TBA, Macao, S.A.R</p>
+  
+ <p align="center"><b>Duration:</b> 2 Hours</p>
+ 
+
     
     
 <h2 align="center"> Organizers </h2>
@@ -177,17 +133,62 @@ permalink: /ijcai23/
 
 {% endfor %}
 
-<h2 align="center"> Location </h2>
+
+
+<h2 align="center"> Outline </h2>
 <hr>
-  
-<p align="center">This is <b>bold text</b>.</p>
-  
-<p align="center">This is <b>bold text</b>.</p>
-  
- <p align="center">This is <b>bold text</b>.</p>
-
-  
-
+  <ul>
+    <li>Intro
+  <ul>
+    <li>What is Anomaly Detection (AD)?</li>
+    <li>Brief Overview of AD Algorithms</li>
+    <li>Challenges of TSAD</li>
+      </ul>
+  </li>
+    <li>Generative Methods
+      <ul>
+        <li>Autoencoders for AD</li>
+        <li>Deep Models for Time-Series: RNN, LSTM, GRU</li>
+        <li>GANs for TSAD</li>
+        <li>Advanced Methods: VAE, OmniAnomaly</li>
+      </ul>
+    </li>
+    <li>Transformers
+      <ul>
+        <li>Attention Mechanism</li>
+        <li>Introduction to Transformers</li>
+        <li>Association Discrepancy and AD</li>
+      </ul>
+    </li>
+  <li>Self-Supervised Methods
+      <ul>
+        <li>What is Self-Supervised Learning?</li>
+        <li>Proxy Tasks for AD in Time Series</li>
+      </ul>
+    </li>
+    <li>Graph-Based Methods
+      <ul>
+        <li>Graph Neural Networks, Graph Convolutional Networks and Graph Attention Networks</li>
+        <li>Graphs for TSAD: Generative and Flow-Based Models</li>
+        <li>Predictive Models</li>
+        <li>Contrastive Self-supervised Model</li>
+      </ul>
+    </li>
+  <li>Caveats for Real-World Implementation
+      <ul>
+        <li>Preprocessing and its effect</li>
+        <li>Avoiding Bias: Choosing the Right Evaluation Protocol</li>
+        <li>Selected Use Cases</li>
+      </ul>
+    </li>
+    <li>Closing
+      <ul>
+        <li>Summary</li>
+        <li>Future Directions</li>
+        <li>QA</li>
+      </ul>
+    </li>
+  </ul>  
 
 
   
