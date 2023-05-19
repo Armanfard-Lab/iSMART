@@ -6,7 +6,7 @@ sitemap: false
 permalink: /ijcai23/
 ---
 
-<h2 align="center"> Deep Learning Methods for Unsupervised Time Series Anomaly Detection </h2>
+<h1 align="center"> Deep Learning Methods for Unsupervised Time Series Anomaly Detection </h1>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
@@ -17,7 +17,7 @@ permalink: /ijcai23/
 
 <div class="col-sm-12 clearfix">
   <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/class.jpg" width="75%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/class.jpg" width="75%" align="center">
 </figure>
   <h3 align="center">Overview</h3>
     
