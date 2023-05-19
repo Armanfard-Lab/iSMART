@@ -138,11 +138,11 @@ permalink: /ijcai23/
 <h2 align="center"> Location </h2>
 <hr>
   
-<p>This is <b>bold text</b>.</p>
+<p align="center">This is <b>bold text</b>.</p>
   
-<p>This is <b>bold text</b>.</p>
+<p align="center">This is <b>bold text</b>.</p>
   
- <p>This is <b>bold text</b>.</p>
+ <p align="center">This is <b>bold text</b>.</p>
 
   
 
