@@ -1,3 +1,14 @@
+- name: Narges Armanfard
+  photo: Narges.jpg
+  info: Assistant Professor
+  email: narges.armanfard@mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.com/citations?user=V8pn4tIAAAAJ&hl=en
+  linkedin: https://ca.linkedin.com/in/armanfardn
+  bio: Narges Armanfard is a Tenure-Track Assistant Professor of Electrical and Computer Engineering at McGill University, and Mila - Quebec AI Institute. She is also affiliated with McGill Centre for Intelligent Machines (CIM), McGill initiative in Computational Medicine (MiCM) and McGill Institute for Aerospace Engineering (MIAE). Before joining McGill, she was a postdoctoral researcher in the Intelligent Assistive Technology and Systems Lab at the University of Toronto and University Health Network. She obtained her PhD degree in Electrical and Computer Engineering from McMaster University.
+  
 - name: Hadi Hojjati
   photo: Hadi.jpg
   info: PhD Student
