@@ -125,14 +125,6 @@ permalink: /ijcai23/
 
 
 
-{% assign number_printed = number_printed | plus: 1 %}
-
-</div>
-
-{% endfor %}
-
-
-
 
 
 
