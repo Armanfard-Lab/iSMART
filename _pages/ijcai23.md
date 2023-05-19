@@ -57,9 +57,6 @@ permalink: /ijcai23/
   {% endif %}
     
   </ul>
-  <center>
-  <a href="https://scholar.google.com/citations?user=V8pn4tIAAAAJ&hl=en" target="_blank"><img src="https://raw.githubusercontent.com/Armanfard-Lab/armanfard-lab.github.io/gh-pages/images/google-scholar-square.png" alt="Google Scholar" style="aspect-ratio: 1;width:26px;height:26px;margin:0px 3px"></a><a href="https://ca.linkedin.com/in/armanfardn" target="_blank"><img src="https://github.com/Armanfard-Lab/armanfard-lab.github.io/blob/gh-pages/images/new-linkedin-logo-white-black-png.png?raw=true" alt="LinkedIn" style="aspect-ratio: 1;width:26px;height:26px;margin:0px 3px"></a>
-  </center>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -69,7 +66,7 @@ permalink: /ijcai23/
 
 
 <h2 align="center"> Organizers </h2>
-
+<hr>
 {% assign number_printed = 0 %}
 {% for member in site.data.ijcaimember %}
 
