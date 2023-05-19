@@ -67,7 +67,7 @@ permalink: /ijcai23/
 <h2 align="center"> Location </h2>
 <hr>
   
-<p align="center"><b>To be Presented at:</b>IJCAI 2023</p>
+<p align="center"><b>To be Presented at:</b> IJCAI 2023</p>
   
 <p align="center"><b>Date and Location:</b> TBA, Macao, S.A.R</p>
   
