@@ -69,7 +69,7 @@ permalink: /ijcai23/
 <h2 align="center"> Group Members </h2>
 
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.ijcaimember %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
