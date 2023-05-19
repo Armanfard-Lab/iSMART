@@ -6,7 +6,7 @@ sitemap: false
 permalink: /ijcai23/
 ---
 
-<h1 align="center"> Deep Learning Methods for Unsupervised Time Series Anomaly Detection </h1>
+<h1 align="center">Tutorial: Deep Learning Methods for Unsupervised Time Series Anomaly Detection </h1>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
