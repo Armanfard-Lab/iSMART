@@ -67,7 +67,13 @@ permalink: /ijcai23/
 <h2 align="center"> Outline </h2>
 <hr>
   <ul>
-    <li>First item</li>
+    <li>Intro
+  <ul>
+    <li>What is Anomaly Detection (AD)?</li>
+    <li>Brief Overview of AD Algorithms</li>
+    <li>Challenges of TSAD</li>
+      </ul>
+  </li>
     <li>Second item
       <ul>
         <li>Nested item 1</li>
