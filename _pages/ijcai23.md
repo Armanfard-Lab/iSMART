@@ -69,7 +69,7 @@ permalink: /ijcai23/
   
 <p align="center"><b>To be Presented at:</b> IJCAI 2023</p>
   
-<p align="center"><b>Date and Location:</b> TBA, Macao, S.A.R</p>
+<p align="center"><b>Date and Location:</b> August 20 PM, Macao, S.A.R</p>
   
  <p align="center"><b>Duration:</b> 2 Hours</p>
  
