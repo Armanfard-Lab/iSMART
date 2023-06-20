@@ -1,3 +1,13 @@
+- title: "Multivariate Time-Series Anomaly Detection with Temporal Self-Supervision and Graphs: Application to Vehicle Failure Prediction"
+  image: Slide1.jpg
+  description: This paper presents a novel approach to vehicle failure prediction, called mVSG-VFP, which employs self-supervised learning and graph- based techniques. The proposed method realizes the failure prediction task by exploring information hidden in the time-series data recorded through the sensors embedded in the vehicle.
+  authors: H Hojjati, M Sadeghi, N Armanfard
+  link:
+    url:
+    display: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (2023)
+  highlight: 1
+  news2: 
+  
 - title: "Deep Multi-Representation Learning for Data Clustering"
   image: dml.png
   description: In this paper, we propose a deep multi-representation learning (DML) framework for data clustering whereby each difficult-to-cluster data group is associated with its own distinct optimized latent space.
