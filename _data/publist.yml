@@ -1,6 +1,16 @@
+- title: "Deep Multi-Representation Learning for Data Clustering"
+  image: dml.png
+  description: In this paper, we propose a deep multi-representation learning (DML) framework for data clustering whereby each difficult-to-cluster data group is associated with its own distinct optimized latent space.
+  authors: M Sadeghi, N Armanfard
+  link:
+    url: https://www.techrxiv.org/articles/preprint/Deep_Multi-Representation_Learning_for_Data_Clustering/19357979
+    display: IEEE Trans. on Neural Networks and Learning Systems (2023)
+  highlight: 1
+  news2: 
+
 - title: "Spatial Hard Attention Modeling via Deep Reinforcement Learning for Skeleton-based Human Activity Recognition"
   image: 1.png
-  description: In this work, we hypothesize that selecting relevant joints, prior to recognition, can enhance performance of the existing deep learning-based recognition models.
+  description: In this work, we hypothesize that selecting relevant joints prior to recognition can enhance the performance of the existing deep learning-based recognition models.
   authors: B Nikpour, N Armanfard
   link:
     url: https://www.ece.mcgill.ca/~narman1/publications/TSMC-SHARL.pdf
@@ -57,15 +67,6 @@
   highlight: 1
   news2: 
 
-- title: "Deep Multi-Representation Learning for Data Clustering"
-  image: dml.png
-  description: In this paper, we propose a deep multi-representation learning (DML) framework for data clustering whereby each difficult to cluster data group is associated with its own distinct optimized latent space.
-  authors: M Sadeghi, N Armanfard
-  link:
-    url: https://www.techrxiv.org/articles/preprint/Deep_Multi-Representation_Learning_for_Data_Clustering/19357979
-    display: TechRxiv.19357979.v1 (2022)
-  highlight: 1
-  news2: 
 
 - title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
   image: BaharReview.png
@@ -240,7 +241,7 @@
   
 - title: "Local Feature Selection for Data Classification"
   image: localfeatureselection.gif
-  description: In this paper we propose a novel localized feature selection (LFS) approach whereby each region of the sample space is associated with its own distinct optimized feature set
+  description: In this paper, we propose a novel localized feature selection (LFS) approach whereby each region of the sample space is associated with its own distinct optimized feature set
   authors: N Armanfard, J P Reilly, M Komeili
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/TPAMI-LFS.pdf
@@ -250,7 +251,7 @@
 
 - title: "Vigilance lapse identification using sparse EEG electrode arrays"
   image: eegelec.jpg
-  description: In this paper we propose a practical machine learning approach for identification of vigilance lapses using EEG signals recorded from a very sparse electrode configuration with only 4 electrodes
+  description: In this paper, we propose a practical machine-learning approach for identification of vigilance lapses using EEG signals recorded from a very sparse electrode configuration with only 4 electrodes
   authors: N Armanfard, M Komeili, J P Reilly, L Pino
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7726846
