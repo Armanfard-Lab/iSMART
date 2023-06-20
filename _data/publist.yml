@@ -1,10 +1,10 @@
 - title: "Multivariate Time-Series Anomaly Detection with Temporal Self-Supervision and Graphs: Application to Vehicle Failure Prediction"
   image: Slide1.jpg
-  description: This paper presents a novel approach to vehicle failure prediction, called mVSG-VFP, which employs self-supervised learning and graph- based techniques. The proposed method realizes the failure prediction task by exploring information hidden in the time-series data recorded through the sensors embedded in the vehicle.
+  description: This paper presents a novel approach to vehicle failure prediction, called mVSG-VFP, which employs self-supervised learning and graph-based techniques. The proposed method realizes the failure prediction task by exploring information hidden in the time-series data recorded through the sensors embedded in the vehicle.
   authors: H Hojjati, M Sadeghi, N Armanfard
   link:
     url:
-    display: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (2023)
+    display: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2023)
   highlight: 1
   news2: 
   
@@ -14,7 +14,7 @@
   authors: M Sadeghi, N Armanfard
   link:
     url: https://www.techrxiv.org/articles/preprint/Deep_Multi-Representation_Learning_for_Data_Clustering/19357979
-    display: IEEE Trans. on Neural Networks and Learning Systems (2023)
+    display: IEEE Trans. on Neural Networks and Learning Systems (TNNLS 2023)
   highlight: 1
   news2: 
 
@@ -24,7 +24,7 @@
   authors: B Nikpour, N Armanfard
   link:
     url: https://www.ece.mcgill.ca/~narman1/publications/TSMC-SHARL.pdf
-    display: 	IEEE Transactions on Systems, Man, and Cybernetics (2023)
+    display: 	IEEE Transactions on Systems, Man, and Cybernetics (TSMC 2023)
   highlight: 1
   news2: 
   
@@ -34,7 +34,7 @@
   authors: B Nikpour, N Armanfard
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/PR-STH.pdf
-    display: 	Pattern Recognition (2023)
+    display: 	Pattern Recognition (PR 2023)
   highlight: 1
   news2: 
 
@@ -44,7 +44,7 @@
   authors: TKK Ho, N Armanfard
   link:
     url: https://arxiv.org/abs/2208.07448
-    display: 	Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23, Oral -- top 3%)
+    display: 	Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-2023, Oral -- top 3%)
   highlight: 1
   news2: 
 
@@ -103,11 +103,11 @@
   
 - title: "Multistep networks for roll force prediction in hot strip rolling mill"
   image: TBG_SL.png
-  description: In this paper, we propose a machine learning based framework to establish a model that accurately predicts roll forces at each mill stands of the hot strip rolling mill. The proposed model includes both steel chemistry and physical process parameters for its predictions.
+  description: In this paper, we propose a machine learning based framework to establish a model that accurately predicts roll forces at each mill stand of the hot strip rolling mill. The proposed model includes both steel chemistry and physical process parameters for its predictions.
   authors: S Shen, D Guye, X Ma, S Yue, N Armanfard
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/MLWA-MS-RollForcePrediction.pdf
-    display:  Machine Learning with Applications, Volume 7 (2022)
+    display:  Machine Learning with Applications, Volume 7 (MLwA 2022)
   highlight: 1
   news2:
 
@@ -223,7 +223,7 @@
   
 - title: "Liveness Detection and Automatic Template Updating using Fusion of ECG and Fingerprint"
   image: liveness.gif
-  description: In this paper, we approach the biometric recognition problem from a different perspective by incorporating electrocardiogram (ECG). Compared with the conventional biometrics, stealing someone's ECG is far more difficult if not impossible.
+  description: In this paper, we approach the biometric recognition problem from a different perspective by incorporating electrocardiogram (ECG). Compared with conventional biometrics, stealing someone's ECG is far more difficult if not impossible.
   authors: M Komeili, N Armanfard, D Hatzinakos
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/TIFS-LivnessDetection.pdf
@@ -233,7 +233,7 @@
   
 - title: "Feature Selection for Non-Stationary Data: Application to Human Recognition using Medical Biometrics"
   image: featurenonstationary.gif
-  description: This paper proposed a method that uses local information in terms of sample margins while enforcing an across-session measure. This makes it a perfect fit for aforementioned biometric recognition problem.
+  description: This paper proposed a method that uses local information in terms of sample margins while enforcing an across-session measure. This makes it a perfect fit for biometric recognition problems.
   authors: M Komeili, W Louis, N Armanfard, D Hatzinakos
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/TCYB-MSFS.pdf
