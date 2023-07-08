@@ -13,7 +13,7 @@
   description: In this paper, we propose a deep multi-representation learning (DML) framework for data clustering whereby each difficult-to-cluster data group is associated with its own distinct optimized latent space.
   authors: M Sadeghi, N Armanfard
   link:
-    url: https://www.techrxiv.org/articles/preprint/Deep_Multi-Representation_Learning_for_Data_Clustering/19357979
+    url: http://www.ece.mcgill.ca/~narman1/publications/TNNLS_DML.pdf
     display: IEEE Trans. on Neural Networks and Learning Systems (TNNLS 2023)
   highlight: 1
   news2: 
