@@ -3,7 +3,7 @@
   description: This paper presents a novel approach to vehicle failure prediction, called mVSG-VFP, which employs self-supervised learning and graph-based techniques. The proposed method realizes the failure prediction task by exploring information hidden in the time-series data recorded through the sensors embedded in the vehicle.
   authors: H Hojjati, M Sadeghi, N Armanfard
   link:
-    url:
+    url: https://2023.ecmlpkdd.org/program/accepted-papers/ads/
     display: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2023)
   highlight: 1
   news2: 
