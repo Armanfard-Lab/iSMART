@@ -20,7 +20,12 @@ permalink: /team/
   <h3 align="center">{{ member.name }}</h3>
   <p align="center"><i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> --></p>
     
-  <p align="center">Narges Armanfard is a Tenure-Track Assistant Professor of Electrical and Computer Engineering at McGill University, and Mila - Quebec AI Institute. She is also affiliated with McGill Centre for Intelligent Machines (CIM), McGill initiative in Computational Medicine (MiCM) and McGill Institute for Aerospace Engineering (MIAE). Before joining McGill, she was a postdoctoral researcher in the Intelligent Assistive Technology and Systems Lab at the University of Toronto and University Health Network. She obtained her PhD degree in Electrical and Computer Engineering from McMaster University.</p>
+  <p align="center">Narges Armanfard is a Tenure-Track Assistant Professor of Electrical and Computer Engineering at McGill University and Mila - Quebec AI Institute. She is also affiliated with McGill Centre for Intelligent Machines (CIM), McGill initiative in Computational Medicine (MiCM), and McGill Institute for Aerospace Engineering (MIAE). She earned her Ph.D. and Postdoctoral in Artificial Intelligence from McMaster University and the University of Toronto, respectively, in Ontario, Canada. Her research focus lies in developing innovative algorithms for various domains such as time-series data analysis, computer vision, reinforcement learning, and representation learning for tasks including data clustering, classification, and anomaly detection. Her contributions to the field of AI have been acknowledged through numerous awards from institutions, including the Natural Sciences and Engineering Research Council of Canada, AgeWell, Vanier-Banting, the Fonds de recherche du Québec, as well as McMaster University, McGill University, the University of Toronto, the Canadian Institutes of Health Research, and Scale AI, among others. Narges Armanfard's academic accomplishments extend to the publication of over fifty AI-focused articles across distinguished platforms, including AAAI, BMVC, ECML PKDD, TPAMI, TNNLS, TSMC, TIFS, and more.
+
+
+
+
+.</p>
  
   <ul style="overflow: hidden">
   
