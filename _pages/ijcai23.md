@@ -22,7 +22,7 @@ permalink: /ijcai23/
   
   <h2 align="center">Abstract</h2>
    <hr>
-  <p align="center">Time series anomaly detection (TSAD) is a crucial tool for detecting unusual patterns or outliers in large-scale time series datasets. With the increasing amount of data being generated in various industries, from financial transactions to industrial processes, it has become essential to identify anomalies that may indicate unusual events, fraud, or errors in the system. Deep learning algorithms have proven to be effec- tive in detecting these anomalies, as they can learn complex patterns and relationships in the data that may not be appar- ent to humans. By detecting anomalies early, businesses can take proactive measures to prevent or minimize their impact, improving their overall performance and reducing risk. Thus, deep TSAD is an important tool for ensuring large-scale systems’ quality, reliability, and security and has attracted huge interest from the research community. This tutorial aims to provide the audience with a comprehensive and organized tutorial on state-of-the-art algorithms for time-series anomaly detection. We will first discuss the basic concepts of anomaly detection and time-series processing. Then, we will thoroughly review the deep learning methods for time-series anomaly detection, ranging from traditional autoencoder-based algorithms to the recently-proposed graph-based models. In the final parts of this tutorial, we will focus on some important considerations during the implementation, evaluation and dataset preparation for the deep time-series anomaly detection algorithms. Besides introducing the SOTA methods, this tutorial will aim to enable the researchers to apply them to solve real-world problems involving time series.</p>
+  <p align="center">Time series anomaly detection (TSAD) is a crucial tool for detecting unusual patterns or outliers in large-scale time series datasets. With the increasing amount of data being generated in various industries, from financial transactions to industrial processes, it has become essential to identify anomalies that may indicate unusual events, fraud, or errors in the system. Deep learning algorithms have proven to be effective in detecting these anomalies, as they can learn complex patterns and relationships in the data that may not be apparent to humans. By detecting anomalies early, businesses can take proactive measures to prevent or minimize their impact, improving their overall performance and reducing risk. Thus, deep TSAD is an important tool for ensuring large-scale systems’ quality, reliability, and security and has attracted huge interest from the research community. This tutorial aims to provide the audience with a comprehensive and organized tutorial on state-of-the-art algorithms for time-series anomaly detection. We will first discuss the basic concepts of anomaly detection and time-series processing. Then, we will thoroughly review the deep learning methods for time-series anomaly detection, ranging from traditional autoencoder-based algorithms to the recently-proposed graph-based models. In the final parts of this tutorial, we will focus on some important considerations during the implementation, evaluation and dataset preparation for the deep time-series anomaly detection algorithms. Besides introducing the SOTA methods, this tutorial will aim to enable the researchers to apply them to solve real-world problems involving time series.</p>
  
   <ul style="overflow: hidden">
   
@@ -138,55 +138,24 @@ permalink: /ijcai23/
 <h2 align="center"> Outline </h2>
 <hr>
   <ul>
-    <li>Intro
-  <ul>
-    <li>What is Anomaly Detection (AD)?</li>
-    <li>Brief Overview of AD Algorithms</li>
-    <li>Challenges of TSAD</li>
-      </ul>
+    <li>What is TSAD?
+
   </li>
-    <li>Generative Methods
-      <ul>
-        <li>Autoencoders for AD</li>
-        <li>Deep Models for Time-Series: RNN, LSTM, GRU</li>
-        <li>GANs for TSAD</li>
-        <li>Advanced Methods: VAE, OmniAnomaly</li>
-      </ul>
+    <li>Challenges in TSAD
+      
     </li>
-    <li>Transformers
-      <ul>
-        <li>Attention Mechanism</li>
-        <li>Introduction to Transformers</li>
-        <li>Association Discrepancy and AD</li>
-      </ul>
+    <li>Some TSAD Applications
+
     </li>
-  <li>Self-Supervised Methods
-      <ul>
-        <li>What is Self-Supervised Learning?</li>
-        <li>Proxy Tasks for AD in Time Series</li>
-      </ul>
+        <li>Deep Learning and TSAD: A Tale of Triumph and Turmoil
+
     </li>
-    <li>Graph-Based Methods
-      <ul>
-        <li>Graph Neural Networks, Graph Convolutional Networks and Graph Attention Networks</li>
-        <li>Graphs for TSAD: Generative and Flow-Based Models</li>
-        <li>Predictive Models</li>
-        <li>Contrastive Self-supervised Model</li>
-      </ul>
+        <li>Deep Learning-based Methods
+
     </li>
-  <li>Caveats for Real-World Implementation
-      <ul>
-        <li>Preprocessing and its effect</li>
-        <li>Avoiding Bias: Choosing the Right Evaluation Protocol</li>
-        <li>Selected Use Cases</li>
-      </ul>
-    </li>
-    <li>Closing
-      <ul>
-        <li>Summary</li>
-        <li>Future Directions</li>
-        <li>QA</li>
-      </ul>
+        </li>
+        <li>Conclusion
+
     </li>
   </ul>  
 
