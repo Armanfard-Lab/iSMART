@@ -142,8 +142,7 @@ permalink: /ijcai23/
 
   </li>
     <li>Challenges in TSAD
-      
-    </li>
+
     <li>Some TSAD Applications
 
     </li>
