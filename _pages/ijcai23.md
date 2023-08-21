@@ -138,24 +138,12 @@ permalink: /ijcai23/
 <h2 align="center"> Outline </h2>
 <hr>
   <ul>
-    <li>What is TSAD?
-
-  </li>
-    <li>Challenges in TSAD
-
-    <li>Some TSAD Applications
-
-    </li>
-        <li>Deep Learning and TSAD: A Tale of Triumph and Turmoil
-
-    </li>
-        <li>Deep Learning-based Methods
-
-    </li>
-        </li>
-        <li>Conclusion
-
-    </li>
+    <li>What is TSAD?</li>
+    <li>Challenges in TSAD</li>
+    <li>Some TSAD Applications</li>
+    <li>Deep Learning and TSAD: A Tale of Triumph and Turmoil</li>
+    <li>Deep Learning-based Methods</li>
+    <li>Conclusion</li>
   </ul>  
 
 
