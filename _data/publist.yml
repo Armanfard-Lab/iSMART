@@ -1,3 +1,13 @@
+- title: "C3: Cross-instance guided Contrastive Clustering"
+  image: C3.jpg
+  description: In this paper, we propose a novel contrastive clustering method, Cross-instance guided Contrastive Clustering (C3), that considers the cross-sample relationships to increase the number of positive pairs.
+  authors: M Sadeghi, H Hojjati, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2211.07136
+    display: 	The 34th British Machine Vision Conference (BMVC 2023)
+  highlight: 1
+  news2: 
+
 - title: "Multivariate Time-Series Anomaly Detection with Temporal Self-Supervision and Graphs: Application to Vehicle Failure Prediction"
   image: Slide1.jpg
   description: This paper presents a novel approach to vehicle failure prediction, called mVSG-VFP, which employs self-supervised learning and graph-based techniques. The proposed method realizes the failure prediction task by exploring information hidden in the time-series data recorded through the sensors embedded in the vehicle.
@@ -68,17 +78,6 @@
   highlight: 1
   news2: 
     
-  
-- title: "C3: Cross-instance guided Contrastive Clustering"
-  image: C3.jpg
-  description: In this paper, we propose a novel contrastive clustering method, Cross-instance guided Contrastive Clustering (C3), that considers the cross-sample relationships to increase the number of positive pairs.
-  authors: M Sadeghi, H Hojjati, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2211.07136
-    display: 	arXiv:2211.07136 (2022)
-  highlight: 1
-  news2: 
-  
 
 - title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
   image: BaharReview.png
