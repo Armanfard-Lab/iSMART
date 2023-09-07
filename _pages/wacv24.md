@@ -64,16 +64,19 @@ permalink: /wacv24/
 </div>
 {% endfor %}
 
-<h2 align="center"> Location </h2>
+<h2 align="center"> Call for Paper </h2>
 <hr>
   
-<p align="center"><b>To be Presented at:</b> IJCAI 2023</p>
+<p align="center">We invite researchers and practitioners to submit their original research contributions to the 1st Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), held as part of WACV 2024. This workshop aims to explore the latest advancements and novel approaches in anomaly detection using AI techniques within the domain of computer vision. Topics of Interest (but not limited to):</p>
   
-<p align="center"><b>Date and Location:</b> August 20 PM, Macao, S.A.R</p>
-  
- <p align="center"><b>Duration:</b> 2 Hours</p>
-
-  <p align="center"><a href="https://ismart.ece.mcgill.ca//IJCAI23_Tutorial_iSMART_Narges.pdf">Slides</a></p>
+  <ul>
+    <li></li> Novel AI architectures for anomaly detection in images and videos </li>
+    <li> Large-scale anomaly datasets and benchmarking methodologies </li>
+    <li> Self-supervised, unsupervised, and few-shot anomaly detection techniques </li>
+    <li> Continual Learning for anomaly detection </li>
+    <li> Interpretability and explainability in anomaly detection models </li>
+    <li> Real-world applications of anomaly detection in computer vision </li>
+  </ul>  
  
 
     
@@ -135,18 +138,6 @@ permalink: /wacv24/
 
 {% endfor %}
 
-
-
-<h2 align="center"> Outline </h2>
-<hr>
-  <ul>
-    <li>What is TSAD?</li>
-    <li>Challenges in TSAD</li>
-    <li>Some TSAD Applications</li>
-    <li>Deep Learning and TSAD: A Tale of Triumph and Turmoil</li>
-    <li>Deep Learning-based Methods</li>
-    <li>Conclusion</li>
-  </ul>  
 
 
   
