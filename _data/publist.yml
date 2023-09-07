@@ -1,3 +1,33 @@
+-title: "Multivariate Time-Series Anomaly Detection with Contaminated Data: Application to Physiological Signals"
+  image: khanhaaai.jpg
+  description: In this paper, we introduce a novel and practical end-to-end unsupervised time-series anomaly detection when the training data are contaminated with anomalies.
+  authors: TKK Ho, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2308.12563
+    display: 	arXiv:2308.12563 (2023)
+  highlight: 1
+  news2: 
+
+-title: "Explainable Attention for Few-shot Learning and Beyond"
+  image: baharaaai.jpg
+  description: In this paper, we propose an explainable framework based on reinforcement learning and attention mechanism for few-shot learning.
+  authors: B Nikpour, N Armanfard
+  link:
+    url: https://ismart.ece.mcgill.ca/publications/
+    display: 	Under Review at AAAI-23
+  highlight: 1
+  news2: 
+  
+- title: "Multi-Modal Contrastive Learning for Anomaly Detection: Application to Video-Based Blood Pressure"
+  image: hadiaaai.jpg
+  description: In this paper, we present a novel unsupervised approach for detect- ing abnormal blood pressure using video data.
+  authors: H Hojjati, N Armanfard
+  link:
+    url: https://ismart.ece.mcgill.ca/publications/
+    display: 	Under Review at AAAI-23
+  highlight: 1
+  news2: 
+  
 - title: "C3: Cross-instance guided Contrastive Clustering"
   image: C3.jpg
   description: In this paper, we propose a novel contrastive clustering method, Cross-instance guided Contrastive Clustering (C3), that considers the cross-sample relationships to increase the number of positive pairs.
