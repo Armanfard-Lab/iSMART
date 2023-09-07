@@ -1,4 +1,4 @@
--title: "Multivariate Time-Series Anomaly Detection with Contaminated Data: Application to Physiological Signals"
+- title: "Multivariate Time-Series Anomaly Detection with Contaminated Data: Application to Physiological Signals"
   image: khanhaaai.jpg
   description: In this paper, we introduce a novel and practical end-to-end unsupervised time-series anomaly detection when the training data are contaminated with anomalies.
   authors: TKK Ho, N Armanfard
@@ -8,7 +8,7 @@
   highlight: 1
   news2: 
 
--title: "Explainable Attention for Few-shot Learning and Beyond"
+- title: "Explainable Attention for Few-shot Learning and Beyond"
   image: baharaaai.jpg
   description: In this paper, we propose an explainable framework based on reinforcement learning and attention mechanism for few-shot learning.
   authors: B Nikpour, N Armanfard
@@ -20,7 +20,7 @@
   
 - title: "Multi-Modal Contrastive Learning for Anomaly Detection: Application to Video-Based Blood Pressure"
   image: hadiaaai.jpg
-  description: In this paper, we present a novel unsupervised approach for detect- ing abnormal blood pressure using video data.
+  description: In this paper, we present a novel unsupervised approach for detecting abnormal blood pressure using video data.
   authors: H Hojjati, N Armanfard
   link:
     url: https://ismart.ece.mcgill.ca/publications/
