@@ -17,7 +17,7 @@ permalink: /wacv24/
 
 <div class="col-sm-12 clearfix">
   <div style="text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/WACV.png" align="middle" style="max-width: 100%;>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/WACV.png" align="middle" style="max-width: 100%;">
 </div>
   
   <h2 align="center">Abstract</h2>
