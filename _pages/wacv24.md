@@ -70,7 +70,7 @@ permalink: /wacv24/
 <p align="center">We invite researchers and practitioners to submit their original research contributions to the 1st Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), held as part of WACV 2024. This workshop aims to explore the latest advancements and novel approaches in anomaly detection using AI techniques within the domain of computer vision. Topics of Interest (but not limited to):</p>
   
   <ul>
-    <li></li> Novel AI architectures for anomaly detection in images and videos </li>
+    <li> Novel AI architectures for anomaly detection in images and videos </li>
     <li> Large-scale anomaly datasets and benchmarking methodologies </li>
     <li> Self-supervised, unsupervised, and few-shot anomaly detection techniques </li>
     <li> Continual Learning for anomaly detection </li>
