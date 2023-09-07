@@ -1,7 +1,7 @@
-![image](https://github.com/Armanfard-Lab/armanfard-lab.github.io/assets/83035307/b1ce8c67-5fcc-4d20-a36c-3c91ff06e71f)---
+---
 title: "ASTAD - WACV 24"
 layout: gridlay
-excerpt: "IJCAI Tutorial"
+excerpt: "ASTAD - WACV 24"
 sitemap: false
 permalink: /wacv24/
 ---
