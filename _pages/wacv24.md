@@ -1,12 +1,12 @@
----
-title: "IJCAI-23 Tutorial"
+![image](https://github.com/Armanfard-Lab/armanfard-lab.github.io/assets/83035307/b1ce8c67-5fcc-4d20-a36c-3c91ff06e71f)---
+title: "ASTAD - WACV 24"
 layout: gridlay
 excerpt: "IJCAI Tutorial"
 sitemap: false
 permalink: /wacv24/
 ---
 
-<h1 align="center">Tutorial: Deep Learning Methods for Unsupervised Time Series Anomaly Detection </h1>
+<h1 align="center"> 1st Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) </h1>
 
 {% assign number_printed = 0 %}
 {% for member in site.data.pi %}
@@ -17,7 +17,7 @@ permalink: /wacv24/
 
 <div class="col-sm-12 clearfix">
   <div style="text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/ijcai-logo.png" align="middle">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/WACV.png" align="middle">
 </div>
   
   <h2 align="center">Abstract</h2>
