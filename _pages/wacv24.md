@@ -83,9 +83,9 @@ permalink: /wacv24/
 
    <p align="left"> The important dates are as follows: </p>
 <ul>
-<li> **Paper submission deadline:** Oct 25, 2023** </li>
- <li> **Author notification: Nov 14, 2023** </li>
- <li> **Camera-ready deadline: Nov 19, 2023** </li>
+<li> <b>Paper submission deadline:</b> Oct 25, 2023 </li>
+ <li> <b>Author notification:</b> Nov 14, 2023 </li>
+ <li> <b>Camera-ready deadline:</b> Nov 19, 2023 </li>
   </ul> 
     
 <h2 align="center"> Organizers </h2>
