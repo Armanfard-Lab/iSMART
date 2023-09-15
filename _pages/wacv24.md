@@ -78,10 +78,10 @@ permalink: /wacv24/
     <li> Real-world applications of anomaly detection in computer vision </li>
   </ul>  
  
-<h2 align="center"> Call for Paper </h2>
+<h2 align="center"> Important Dates </h2>
 <hr>
 
-    The important dates are as follows:
+   <p align="center"> The important dates are as follows: </p>
 <ul>
 <li> Paper submission deadline: Oct 25 </li>
  <li> Author notification: Nov 14 </li>
