@@ -20,7 +20,7 @@
   
 - title: "Multi-Modal Contrastive Learning for Anomaly Detection: Application to Video-Based Blood Pressure"
   image: hadiaaai.jpg
-  description: In this paper, we present a novel unsupervised approach for detecting abnormal blood pressure using video data.
+  description: This paper presents a novel unsupervised approach for detecting abnormal blood pressure using video data.
   authors: H Hojjati, N Armanfard
   link:
     url: https://ismart.ece.mcgill.ca/publications/
@@ -43,7 +43,7 @@
   description: This paper presents a novel approach to vehicle failure prediction, called mVSG-VFP, which employs self-supervised learning and graph-based techniques. The proposed method realizes the failure prediction task by exploring information hidden in the time-series data recorded through the sensors embedded in the vehicle.
   authors: H Hojjati, M Sadeghi, N Armanfard
   link:
-    url: https://2023.ecmlpkdd.org/program/accepted-papers/ads/
+    url: http://www.ece.mcgill.ca/~narman1/publications/ECMLPKDD-mVSG-VFP.pdf
     display: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2023)
   highlight: 1
   news2: 
