@@ -1,6 +1,6 @@
 ---
 title: "ASTAD - WACV 24"
-layout: gridlay
+layout: gridlay2
 excerpt: "ASTAD - WACV 24"
 sitemap: false
 permalink: /wacv24/
