@@ -91,9 +91,8 @@ permalink: /wacv24/
   <h2 align="center"> Speakers </h2>
 <hr>
 
-   <hr>
 {% assign number_printed = 0 %}
-{% for member in site.data.ijcaimember %}
+{% for member in site.data.wacvspeak %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
