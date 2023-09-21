@@ -77,6 +77,8 @@ permalink: /wacv24/
     <li> Interpretability and explainability in anomaly detection models </li>
     <li> Real-world applications of anomaly detection in computer vision </li>
   </ul>  
+
+<p align="left">Submission Site: https://cmt3.research.microsoft.com/ASTAD2024</p>
  
 <h2 align="center"> Important Dates </h2>
 <hr>
