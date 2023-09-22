@@ -78,7 +78,7 @@ permalink: /wacv24/
     <li> Real-world applications of anomaly detection in computer vision </li>
   </ul>  
 
-<p align="left">Submission Site: https://cmt3.research.microsoft.com/ASTAD2024</p>
+<p align="left">Submission Site: <a href="https://cmt3.research.microsoft.com/ASTAD2024">MIicrosoft CMT</a></p>
  
 <h2 align="center"> Important Dates </h2>
 <hr>
