@@ -8,3 +8,14 @@
   scholar: https://scholar.google.com/citations?user=4ITkr_kAAAAJ
   linkedin: https://www.linkedin.com/in/leman-akoglu-b164329
   bio: Dr. Akoglu is the Heinz College Dean's Associate Professor at Carnegie Mellon University's Heinz College of Information Systems and Public Policy. She also hold courtesy appointments at the Machine Learning Department (MLD) and the Computer Science Department (CSD) of School of Computer Science (SCS). At Heinz, she directs the Data Analytics Techniques Algorithms (DATA) Lab. Her research interests are broadly in data mining, graph mining, machine learning, and knowledge discovery, with specific focus on anOmaLiEs---identifying and characterizing 'what stands out' in large-scale, time-varying, multi-modal data sources through scalable computational methods.
+
+- name: Prof. Ye Zhu
+  photo: zhu.jpg
+  info: Deakin University
+  email: ye.zhu@deakin.edu.au
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.com/citations?user=QxRHA48AAAAJ&hl=zh-CN
+  linkedin: https://www.deakin.edu.au/about-deakin/people/ye-zhu
+  bio: Dr Ye Zhu is a senior lecturer of computer science at the School of Information Technology at Deakin University. He is also the Data to Intelligence (D2i) Research Centre HDR coordinator and Master of Data Science Course CPL Officer. He received a PhD degree in Artificial Intelligence with a Mollie Holman Medal for the best doctoral thesis of the year from Monash University in 2017. Dr Zhu joined Deakin University as a post-doc research fellow in complex system data analytics in July 2017 and then became a lecturer in Feb 2019. Dr Zhu is an IEEE senior member and ACM member.
