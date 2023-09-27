@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the intelligent Systems and Machine learning Algorithms Research and Technology (iSMART) lab, founded and led by [Prof. Narges Armanfard](https://www.mcgill.ca/ece/narges-armanfard). We are a dynamic research labrotary within the Intelligent Systems Research Group at the [Department of Electrical and Computer Engineering](https://www.mcgill.ca/ece/), McGill University. Our aim is to develop novel algorithms in artificial intelligence and related areas in computer vision, reinforcement learning, representation learning for data clustering and classification, and anomaly detection. Here are some themes and techniques that we currently work on:
+Welcome to the intelligent Systems and Machine Learning Algorithms Research and Technology (iSMART) lab, founded and led by [Prof. Narges Armanfard](https://www.mcgill.ca/ece/narges-armanfard). We are a dynamic research laboratory within the Intelligent Systems Research Group at the [Department of Electrical and Computer Engineering](https://www.mcgill.ca/ece/), McGill University. Our aim is to develop novel algorithms in artificial intelligence and related areas in computer vision, reinforcement learning, representation learning for data clustering and classification, and anomaly detection. Here are some themes and techniques that we currently work on:
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -75,7 +75,7 @@ Welcome to the intelligent Systems and Machine learning Algorithms Research and 
 </div>
 
 
-**Representation Learning:** The performance of machine learning methods depends heavily on the choice of data representation (or features). A good representation can improve the performance of downstream tasks. Our goal is to develop unimodal and multi-modal supervised, self-supervised, and unsupervised representation learning algorithms which are useful for clustering, classification, and anomaly detection tasks.
+**Representation Learning:** The performance of machine learning methods depends heavily on the choice of data representation (or features). A good representation can improve the performance of downstream tasks. Our goal is to develop unimodal and multi-modal supervised, self-supervised, and unsupervised representation learning algorithms that are useful for clustering, classification, and anomaly detection tasks.
 
 **Artificial Intelligence for Healthcare:** Recent advances in machine learning have enabled the design of effective healthcare diagnosis and monitoring devices. We work on developing and applying state-of-the-art machine learning algorithms for assisting epileptic patients by improving the accuracy of epileptogenic zone detection prior to the removal surgery. Another stream of this research line is developing intelligent processing systems for zero-effort health smart homes where physiological parameters are monitored unobtrusively.
 
