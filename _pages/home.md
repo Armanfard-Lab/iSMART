@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the intelligent Systems and Machine Learning Algorithms Research and Technology (iSMART) team webpage, founded and led by [Prof. Narges Armanfard](https://www.mcgill.ca/ece/narges-armanfard). Our aim is to develop novel algorithms in artificial intelligence and related areas in computer vision, reinforcement learning, representation learning for data clustering and classification, and anomaly detection. Here are some themes and techniques that we currently work on:
+Welcome to the intelligent Systems and Machine Learning Algorithms Research and Technology (iSMART) team webpage, founded and led by [Prof. Narges Armanfard](https://www.mcgill.ca/ece/narges-armanfard). Our aim is to develop novel and practical algorithms in artificial intelligence and related areas in computer vision, reinforcement learning, representation learning for data clustering and classification, and anomaly detection. Here are some themes and techniques that we currently work on:
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
