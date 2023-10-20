@@ -1,10 +1,10 @@
 - title: "Open-Set Multivariate Time-Series Anomaly Detection"
   image: aistats.jpg
-  description: In this paper, we propose the first ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase..
+  description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase..
   authors: T Lai, TKK Ho, N Armanfard
   link:
-    url: https://ismart.ece.mcgill.ca/publications/
-    display: 	Under Review at AISTATS (2023)
+    url: https://arxiv.org/abs/2310.12294
+    display: 	arXiv: 2310.12294 (2023)
   highlight: 1
   news2: 
   
@@ -34,7 +34,7 @@
   authors: H Hojjati, N Armanfard
   link:
     url: https://ismart.ece.mcgill.ca/publications/
-    display: 	Under Review at AAAI-23
+    display: 	Under Review
   highlight: 1
   news2: 
   
