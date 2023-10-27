@@ -1,3 +1,13 @@
+- title: "DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection"
+  image: DASVDD.png
+  description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. 
+  authors: H Hojjati, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2106.05410
+    display: IEEE Transactions on Knowledge and Data Engineering (2023)
+  highlight: 1
+  news2:
+
 - title: "Open-Set Multivariate Time-Series Anomaly Detection"
   image: aistats.jpg
   description: In this paper, we propose the first ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase..
@@ -189,16 +199,6 @@
     url: http://www.ece.mcgill.ca/~narman1/publications/SMC-JSDRL.pdf
     display:  IEEE International Conference on Systems, Man, and Cybernetics (SMC 2021)
   highlight: 1
-
-- title: "DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection"
-  image: DASVDD.png
-  description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. 
-  authors: H Hojjati, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2106.05410
-    display: arXiv:2106.05410 (2021)
-  highlight: 1
-  news2:
 
 
 - title: "Deep Successive Subspace Learning for Data Clustering"
