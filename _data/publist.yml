@@ -3,7 +3,7 @@
   description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. 
   authors: H Hojjati, N Armanfard
   link:
-    url: https://arxiv.org/abs/2106.05410
+    url: http://www.ece.mcgill.ca/~narman1/publications/DASVDD.pdf
     display: IEEE Transactions on Knowledge and Data Engineering (2023)
   highlight: 1
   news2:
