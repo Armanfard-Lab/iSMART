@@ -79,6 +79,22 @@ permalink: /wacv24/
   </ul>  
 
 <p align="left">Submission Site: <a href="https://cmt3.research.microsoft.com/ASTAD2024">Microsoft CMT</a></p>
+
+
+<h2 align="center"> Schedule </h2>
+<hr>
+  
+  
+  <ul>
+    <li>  8:20-8:30 AM: <b>Opening</b> </li>
+    <li>  8:30-9:45 AM: <b>Keynote Talk by Prof. Ye Zhu</b> </li>
+    <li> 9:45-11:00 AM: <b>Keynote Talk by Prof. Leman Akoglu</b>  </li>
+    <li> 11:00-11:10 AM: <b>Break</b>  </li>
+    <li> 11:10-11:50 AM: <b>Oral Presentation Session 1</b>  </li>
+    <li> 11:50-12:30 PM: <b>Oral Presentation Session 2</b>  </li>
+  </ul>  
+
+
  
 <h2 align="center"> Important Dates </h2>
 <hr>
