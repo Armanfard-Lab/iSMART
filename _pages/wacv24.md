@@ -83,6 +83,8 @@ permalink: /wacv24/
 
 <h2 align="center"> Schedule </h2>
 <hr>
+
+Jan. 08, 2024 (Time below is in Hawaii local time)
   
   
   <ul>
