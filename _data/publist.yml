@@ -1,3 +1,13 @@
+- title: "Self-Supervised Anomaly Detection: A Survey and Outlook"
+  image: ssl (1).png
+  description: This paper aims to review the current approaches in self-supervised anomaly detection, present their technical details, and discuss their strengths and drawbacks.
+  authors: H Hojjati, TKK Ho, N Armanfard
+  link:
+    url: https://arxiv.org/pdf/2205.05173.pdf
+    display: 	Neural Networks (Elsevier)
+  highlight: 1
+  news2: 
+
 - title: "DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection"
   image: DASVDD.png
   description: In this paper, we propose a method, DASVDD, that jointly learns the parameters of an autoencoder while minimizing the volume of an enclosing hyper-sphere on its latent representation. 
@@ -118,17 +128,7 @@
   highlight: 1
   news2: 
   
-- title: "Self-Supervised Anomaly Detection: A Survey and Outlook"
-  image: ssl (1).png
-  description: This paper aims to review the current approaches in self-supervised anomaly detection, present their technical details, and discuss their strengths and drawbacks.
-  authors: H Hojjati, TKK Ho, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2205.05173
-    display: 	arXiv:2205.05173 (2022)
-  highlight: 1
-  news2: 
-    
-
+ 
 - title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
   image: BaharReview.png
   description: To facilitate further research in DRL-based human activity recognition, we have constructed a comprehensive survey on activity recognition methods that incorporate deep reinforcement learning.
