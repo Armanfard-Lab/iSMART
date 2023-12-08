@@ -20,7 +20,7 @@
 
 - title: "Open-Set Multivariate Time-Series Anomaly Detection"
   image: aistats.jpg
-  description: In this paper, we propose the first ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase..
+  description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
   authors: T Lai, TKK Ho, N Armanfard
   link:
     url: https://arxiv.org/abs/2310.12294
@@ -64,13 +64,13 @@
   authors: M Sadeghi, H Hojjati, N Armanfard
   link:
     url: https://arxiv.org/abs/2211.07136
-    display: 	The 34th British Machine Vision Conference (BMVC 2023)
+    display: 	34th British Machine Vision Conference (BMVC 2023)
   highlight: 1
   news2: 
 
 - title: "Multivariate Time-Series Anomaly Detection with Temporal Self-Supervision and Graphs: Application to Vehicle Failure Prediction"
   image: Slide1.jpg
-  description: This paper presents a novel approach to vehicle failure prediction, called mVSG-VFP, which employs self-supervised learning and graph-based techniques. The proposed method realizes the failure prediction task by exploring information hidden in the time-series data recorded through the sensors embedded in the vehicle.
+  description: This paper presents a novel approach to vehicle failure prediction called mVSG-VFP, which employs self-supervised learning and graph-based techniques. The proposed method realizes the failure prediction task by exploring information hidden in the time-series data recorded through the sensors embedded in the vehicle.
   authors: H Hojjati, M Sadeghi, N Armanfard
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/ECMLPKDD-mVSG-VFP.pdf
@@ -172,7 +172,7 @@
 
 - title: "Deep Clustering with Self-supervision using Pairwise Data Similarities"
   image: final_model-1.png
-  description: In this paper we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). We propose to form hypersphere-like groups of similar data points, i.e. one hypersphere per cluster.
+  description: In this paper, we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). We propose to form hypersphere-like groups of similar data points, i.e. one hypersphere per cluster.
   authors: M Sadeghi, N Armanfard
   link:
     url: https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652
@@ -183,7 +183,7 @@
 
 - title: "IDECF: Improved Deep Embedding Clustering With Deep Fuzzy Supervision"
   image: IDECF.gif
-  description: We propose a deep clustering technique, called IDECF, whereby the true cluster assignments are estimated using an individual deep fully connected network (FCM-Net) which takes its input from the latent space of an autoencoder. 
+  description: We propose a deep clustering technique called IDECF, whereby the true cluster assignments are estimated using an individual deep fully connected network (FCM-Net) which takes its input from the latent space of an autoencoder. 
   authors: M Sadeghi, N Armanfard
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/ICIP-IDECF.pdf
@@ -193,7 +193,7 @@
 
 - title: "Joint Selection using Deep Reinforcement Learning for Skeleton-based Activity Recognition"
   image: JSD.gif
-  description: We propose to formulate the joint selection problem as a Markov Decision Process (MDP) where we employ deep reinforcement learning to find the most informative joints per frame.
+  description: We propose to formulate the joint selection problem as a Markov Decision Process (MDP), where we employ deep reinforcement learning to find the most informative joints per frame.
   authors: B Nikpour, N Armanfard
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/SMC-JSDRL.pdf
@@ -203,7 +203,7 @@
 
 - title: "Deep Successive Subspace Learning for Data Clustering"
   image: DSSL.gif
-  description: In this paper we propose a novel AE-based clustering scheme Deep Successive Subspace Learning (DSSL) which simultaneously minimizes weighted reconstruction and clustering losses of data points.
+  description: In this paper, we propose a novel AE-based clustering scheme, Deep Successive Subspace Learning (DSSL), which simultaneously minimizes weighted reconstruction and clustering losses of data points.
   authors:  M Sadeghi, N Armanfard
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/JCNN-DSSL.pdf
@@ -211,9 +211,9 @@
   highlight: 1
   news2:
   
-- title: "Multiview Feature Selection for Single view Classification"
+- title: "Multiview Feature Selection for Single View Classification"
   image: Multiview.gif
-  description: In this paper, we present a multiview feature selection method that leverages the knowledge of all views and use it to guide the feature selection process in an individual view.
+  description: In this paper, we present a multiview feature selection method that leverages the knowledge of all views and uses it to guide the feature selection process in an individual view.
   authors:  M Komeili, N Armanfard, D Hatzinakos
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/TPAMI-MVSV.pdf
@@ -221,7 +221,7 @@
   highlight: 1
   news2:
   
-- title: "Quantification of Resting State Ballistocardiogram Difference Between Clinical and Non Clinical Populations for Ambient Monitoring of Heart Failure"
+- title: "Quantification of Resting State Ballistocardiogram Difference Between Clinical and Non-Clinical Populations for Ambient Monitoring of Heart Failure"
   image: ChangQuantification.jpg
   description: In this work, the differences in resting-state BCGs of the two cohorts in a sitting posture were quantified.
   authors: S Chang, S Mak, N Armanfard, J Boger, A Mihailidis
@@ -233,7 +233,7 @@
   
 - title: "A Machine Learning Framework for Automatic and Continuous MMN Detection with Preliminary Results for Coma Outcome Prediction"
   image: COMA.png
-  description: In this paper, we propose a practical machine learning (ML) based approach for detection of MMN component, thus, improving the accuracy of prediction of emergence from coma.
+  description: In this paper, we propose a practical machine learning (ML) based approach for the detection of MMN components, thus improving the accuracy of prediction of emergence from coma.
   authors: N Armanfard, M Komeili, J P Reilly, J F Connolly
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/JBHI-MMND.pdf
@@ -283,7 +283,7 @@
   
 - title: "Development of a Smart Home-Based Package for Unobtrusive Physiological Monitoring"
   image: Smarthome.png
-  description: In this paper we developed a novel home-based package that measures critically important physiological information such that neither active compliance or interaction from the user is required.
+  description: In this paper, we developed a novel home-based package that measures critically important physiological information such that neither active compliance nor interaction from the user is required.
   authors: N Armanfard, M Komeili, A Mihailidis
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/EMBC-SmartPackage.pdf
@@ -303,7 +303,7 @@
 
 - title: "Vigilance lapse identification using sparse EEG electrode arrays"
   image: eegelec.jpg
-  description: In this paper, we propose a practical machine-learning approach for identification of vigilance lapses using EEG signals recorded from a very sparse electrode configuration with only 4 electrodes
+  description: In this paper, we propose a practical machine-learning approach for the identification of vigilance lapses using EEG signals recorded from a very sparse electrode configuration with only 4 electrodes
   authors: N Armanfard, M Komeili, J P Reilly, L Pino
   link:
     url: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7726846
