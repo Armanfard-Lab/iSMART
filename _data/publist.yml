@@ -172,7 +172,7 @@
 
 - title: "Deep Clustering with Self-supervision using Pairwise Data Similarities"
   image: final_model-1.png
-  description: In this paper, we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). We propose to form hypersphere-like groups of similar data points, i.e. one hypersphere per cluster.
+  description: In this paper, we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). We propose to form hypersphere-like groups of similar data points, i.e., one hypersphere per cluster.
   authors: M Sadeghi, N Armanfard
   link:
     url: https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652
@@ -183,7 +183,7 @@
 
 - title: "IDECF: Improved Deep Embedding Clustering With Deep Fuzzy Supervision"
   image: IDECF.gif
-  description: We propose a deep clustering technique called IDECF, whereby the true cluster assignments are estimated using an individual deep fully connected network (FCM-Net) which takes its input from the latent space of an autoencoder. 
+  description: We propose a deep clustering technique called IDECF, whereby the true cluster assignments are estimated using an individual deep fully connected network (FCM-Net), which takes its input from the latent space of an autoencoder. 
   authors: M Sadeghi, N Armanfard
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/ICIP-IDECF.pdf
