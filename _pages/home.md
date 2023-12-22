@@ -28,10 +28,10 @@ Welcome to the Innovative Solutions in Machine learning, Artificial intelligence
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/846DE3D0-98B2-4F8E-A77A-BCCF178AEC2D.png" alt="Slide 1" style="aspect-ratio: 1.618" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Banner-v2 (2).svg" alt="Slide 1" style="aspect-ratio: 1.618" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slide6.jpg" alt="Slide 2" style="aspect-ratio: 1.618" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/846DE3D0-98B2-4F8E-A77A-BCCF178AEC2D.png" alt="Slide 2" style="aspect-ratio: 1.618" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BD67CFA2-845A-42E2-9C13-93133D2CB204.png" alt="Slide 2" style="aspect-ratio: 1.618" />
@@ -52,7 +52,7 @@ Welcome to the Innovative Solutions in Machine learning, Artificial intelligence
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hooman1.png" alt="Slide 7" style="aspect-ratio: 1.618"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/4.png" alt="Slide 8" style="aspect-ratio: 1.618"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slide6.jpg" alt="Slide 8" style="aspect-ratio: 1.618"/>
         </div>
 
         <div class="item">
