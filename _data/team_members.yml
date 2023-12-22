@@ -116,7 +116,7 @@
   education3: 
   scholar: https://scholar.google.com/
   linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/b
-  bio: Thomas received his Bachelor's of Engineering (B.Eng.) from McGill University. He is now pursuing a Master's of Science in Electrical Engineering at the iSMART lab and a recipient of the MEUSMA award. His research is on open-set multi-variate time series anomaly detection.
+  bio: Thomas received his Bachelor's of Engineering (B.Eng.) from McGill University. He is now pursuing a Master's of Science in Electrical Engineering at the iSMART lab and is a recipient of the MEUSMA award. His research is on open-set multi-variate time series anomaly detection.
   
 - name: Zihan Wang
   photo: Zihan_Photo.JPG
@@ -129,6 +129,21 @@
   scholar: https://scholar.google.com/
   linkedin: https://www.linkedin.com/in/zihan-wang-2919b2261/
   bio: Zihan received his Bachelor’s degree in Electrical and Computer Engineering from the University of Alberta, Canada. He is now an MSc student at the iSMART Lab. He is the recipient of the Graduate Excellence Fellowship Award. His research at the iSMART Lab is focused on continual learning for anomaly detection.
+
+- name: Alexander Koran
+  photo: alex.jpg
+  info: Master Student
+  email: alexander.koran@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor, <a href="https://www.mcgill.ca/ece/">McGill University</a>
+  education2: rnell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
+  education3: Postdoc Cornell
+  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
+  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  scholar:
+  linkedin: https://www.linkedin.com/
+  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelors Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science in at the iSMART lab and is a recipient of the MEUSMA award.
+ 
   
 - name: Vania Karami
   photo: 8F347049-5C67-400F-BBD1-6EED0BE409A1.jpeg
@@ -178,17 +193,3 @@
   linkedin:
   bio: Samer received his medical degree and completed his post-graduate medical studies in adult cardiology at McGill. He is currently pursuing a Master's degree in Digital Health Innovation with an interest in applications of machine learning and artificial intelligence in medicine, particularly in multi-modal cardiac imaging.
 
-- name: Alexander Koran
-  photo: alex.jpg
-  info: BSc Student
-  email: alexander.koran@mail.mcgill.ca
-  number_educ: 0
-  education1: Bachelor, <a href="https://www.mcgill.ca/ece/">McGill University</a>
-  education2: rnell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-  scholar:
-  linkedin: https://www.linkedin.com/
-  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He will complete his Bachelors Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. Alex plans to start his Masters in the iSmart lab in Winter 2024.
- 
