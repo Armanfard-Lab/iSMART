@@ -1,3 +1,13 @@
+- name: Dr. Jie Ren
+  photo: ren.jpg
+  info: Google Brain
+  email: narges.armanfard@mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.com/citations?user=Os9wmpkAAAAJ&hl=en
+  linkedin: https://www.linkedin.com/
+  bio: Prof. Ren is a Senior Research Scientist in Google DeepMind (formerly Google Brain). Previously, she received her PhD in Computational Biology and Bioinformatics, as well as MSc in Statistics, from the University of Southern California. Her research interests span three key areas: (1) out-of-distribution (OOD) detection in deep learning, (2) uncertainty estimation and robustness of large models, and (3) the development of reliable machine learning and statistical modeling methods for real-world application, with a special interest in biological and medical studies.
 - name: Prof. Leman Akoglu
   photo: LemanAkoglu.jpeg
   info: Carnegie Mellon University
