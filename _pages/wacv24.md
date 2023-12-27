@@ -89,11 +89,12 @@ Jan. 08, 2024 (Time below is in Hawaii local time)
   
   <ul>
     <li>  8:20-8:30 AM: <b>Opening</b> </li>
-    <li>  8:30-9:45 AM: <b>Keynote Talk by Prof. Ye Zhu</b> </li>
-    <li> 9:45-11:00 AM: <b>Keynote Talk by Prof. Leman Akoglu</b>  </li>
-    <li> 11:00-11:10 AM: <b>Break</b>  </li>
-    <li> 11:10-11:50 AM: <b>Oral Presentation Session 1</b>  </li>
-    <li> 11:50-12:30 PM: <b>Oral Presentation Session 2</b>  </li>
+    <li>  8:30-9:30 AM: <b>Keynote Talk by Prof. Ye Zhu</b> </li>
+    <li> 9:30-10:30 AM: <b>Keynote Talk by Prof. Jie Rien</b>  </li>
+    <li> 10:30-10:40 AM: <b>Break</b>  </li>
+    <li> 10:40-11:00 AM: <b>Oral Presentation Session</b>  </li>
+    <li> 11:00-11:30 PM: <b> Keynote Take by Dr. Pemula Latha</b>  </li>
+    <li> 11:30-12:30 PM: <b> Keynote Talk by Prof. Jaemin Yoo</b>  </li>
   </ul>  
 
 
