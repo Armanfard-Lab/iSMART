@@ -37,7 +37,7 @@
     display: 	arXiv:2308.12563 (2023)
   highlight: 1
   news2: 
-
+  
 - title: "Explainable Attention for Few-shot Learning and Beyond"
   image: baharaaai.jpg
   description: In this paper, we propose an explainable framework based on reinforcement learning and attention mechanisms in scenarios where limited training samples are accessible due to challenges in data collection and labeling.
@@ -48,7 +48,7 @@
   highlight: 1
   news2: 
   
- - title: "C3: Cross-instance guided Contrastive Clustering"
+- title: "C3: Cross-instance guided Contrastive Clustering"
   image: C3.jpg
   description: In this paper, we propose a novel contrastive clustering method, Cross-instance guided Contrastive Clustering (C3), that considers the cross-sample relationships to increase the number of positive pairs.
   authors: M Sadeghi, H Hojjati, N Armanfard
@@ -118,7 +118,7 @@
   highlight: 1
   news2: 
   
- - title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
+- title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
   image: BaharReview.png
   description: To facilitate further research in DRL-based human activity recognition, we have constructed a comprehensive survey on activity recognition methods that incorporate deep reinforcement learning.
   authors: B Nikpour, D Sinodinos, N Armanfard
