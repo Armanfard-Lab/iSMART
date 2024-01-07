@@ -93,7 +93,7 @@ Jan. 08, 2024 (Time below is in Hawaii local time)
     <li> 9:30-10:30 AM: <b>Keynote Talk by Prof. Jie Rien</b>  </li>
     <li> 10:30-10:40 AM: <b>Break</b>  </li>
     <li> 10:40-11:00 AM: <b>Oral Presentation Session</b>  </li>
-    <li> 11:00-11:30 PM: <b> Keynote Take by Dr. Pemula Latha</b>  </li>
+    <li> 11:00-11:30 PM: <b> Keynote Take by Pemula Latha</b>  </li>
     <li> 11:30-12:30 PM: <b> Keynote Talk by Prof. Jaemin Yoo</b>  </li>
   </ul>  
 
