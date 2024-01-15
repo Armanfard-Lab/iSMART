@@ -70,6 +70,17 @@
   linkedin: https://www.linkedin.com/in/xingyue-shi-39b50b2a7/  
   bio: Xingyue is set to commence her Ph.D. journey in September 2024, holding an MSc degree in Applied Computer Technology from Peking University and a B.Eng. degree in Computer Science and Technology from Sun Yat-sen University. Her academic background encompasses machine learning, computer vision, and high-performance computing. Currently, Xingyue is intrigued by the challenges of learning with limited supervision and enhancing generalization, specifically within the scope of anomaly detection.
 
+- name:  Saleh Dehqanpour
+  photo: SalehDehqanpourPhoto.jpg
+  info: PhD Student
+  email: 
+  number_educ: 0
+  education1: Bachelor <a href="https://www.mcgill.ca/ece/">McGill University</a>
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+  scholar: https://scholar.google.com/
+  linkedin: https://www.linkedin.com/in/saleh-dehqanpour/?originalSubdomain=ir
+  bio: Saleh will begin his Ph.D. studies in September 2024. He received his Bachelor’s and Master’s degrees in Electrical Engineering from Sharif University of Technology, Iran. His academic background is in machine learning, video processing, and data pipelines. His research interests include algorithm design, deep learning applications, and computer vision.
 - name: Jiahao Lu
   photo: profile_img.jpeg
   info: PhD Student
