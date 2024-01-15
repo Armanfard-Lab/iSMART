@@ -1,10 +1,20 @@
+- title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
+  image: BaharReview.png
+  description: To facilitate further research in DRL-based human activity recognition, we have constructed a comprehensive survey on activity recognition methods that incorporate deep reinforcement learning.
+  authors: B Nikpour, D Sinodinos, N Armanfard
+  link:
+    url: https://www.techrxiv.org/articles/preprint/Deep_Reinforcement_Learning_in_Human_Activity_Recognition_A_Survey/19172369
+    display: IEEE Trans. on Neural Networks and Learning Systems (TNNLS 2024)
+  highlight: 1
+  news2: 
+
 - title: "Self-Supervised Anomaly Detection: A Survey and Outlook"
   image: ssl (1).png
   description: This paper aims to review the current approaches in self-supervised anomaly detection, present their technical details, and discuss their strengths and drawbacks.
   authors: H Hojjati, TKK Ho, N Armanfard
   link:
-    url: https://arxiv.org/pdf/2205.05173.pdf
-    display: Neural Networks (Elsevier; 2023)
+    url: https://www.sciencedirect.com/science/article/pii/S0893608024000200
+    display: Neural Networks (Elsevier; 2024)
   highlight: 1
   news2: 
 
@@ -117,17 +127,7 @@
     display: 	arXiv:2302.00058 (2023)
   highlight: 1
   news2: 
-  
-- title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
-  image: BaharReview.png
-  description: To facilitate further research in DRL-based human activity recognition, we have constructed a comprehensive survey on activity recognition methods that incorporate deep reinforcement learning.
-  authors: B Nikpour, D Sinodinos, N Armanfard
-  link:
-    url: https://www.techrxiv.org/articles/preprint/Deep_Reinforcement_Learning_in_Human_Activity_Recognition_A_Survey/19172369
-    display: TechRxiv.19172369.v2 (2022)
-  highlight: 1
-  news2: 
-
+ 
 - title: "Attentive Task Interaction Network for Multi-Task Learning"
   image: dimitripaper.png
   description: We propose the Attentive Task Interaction Network (ATI-Net). ATI-Net employs knowledge distillation of the latent features for each task, then combines the feature maps to provide improved contextualized information to the decoder.  
