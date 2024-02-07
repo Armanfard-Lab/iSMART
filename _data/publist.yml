@@ -1,3 +1,13 @@
+- title: "Neural Network Prediction of the Effect of Thermomechanical Controlled processing on Mechanical Properties"
+  image: mlapplication.jpg
+  description: This paper provides an artificial neural network methodology to predict lower yield strength (LYS) and ultimate tensile strength (UTS).
+  authors: S Sinha, D Guye, X Ma , K Rehman, S Yue, N Armanfard
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S2666827024000070
+    display: Machine Learning with Applications (Elsevier; 2024)
+  highlight: 1
+  news2: 
+  
 - title: "EMA-Net: Efficient Multitask Affinity Learning for Dense Scene Predictions"
   image: ctal_site.jpg
   description: In this paper, we introduce the Efficient Multitask Affinity Learning Network (EMA-Net), which is a lightweight framework that enhances the task refinement capabilities of multitask networks.
