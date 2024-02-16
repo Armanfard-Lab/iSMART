@@ -1,4 +1,4 @@
-- title: "Neural Network Prediction of the Effect of Thermomechanical Controlled processing on Mechanical Properties"
+- title: "Neural Network Prediction of the Effect of Thermomechanical Controlled Processing on Mechanical Properties"
   image: mlapplication.jpg
   description: This paper provides an artificial neural network methodology to predict lower yield strength (LYS) and ultimate tensile strength (UTS).
   authors: S Sinha, D Guye, X Ma , K Rehman, S Yue, N Armanfard
@@ -24,7 +24,7 @@
   authors: H Hojjati, B Nikpour, N Armanfard
   link:
     url: https://ismart.ece.mcgill.ca//
-    display: Under Review
+    display: 22024, Under Review
   highlight: 1
   news2: 
   
@@ -47,6 +47,46 @@
     display: Neural Networks (Elsevier; 2024)
   highlight: 1
   news2: 
+  
+  - title: "Open-Set Multivariate Time-Series Anomaly Detection"
+  image: aistats.jpg
+  description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
+  authors: T Lai, TKK Ho, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2310.12294
+    display: 	arXiv:2310.12294 (2024, Under Review)
+  highlight: 1
+  news2: 
+
+- title: "Multivariate Time-Series Anomaly Detection with Contaminated Data: Application to Physiological Signals"
+  image: khanhaaai.jpg
+  description: In this paper, we introduce a novel and practical end-to-end unsupervised time-series anomaly detection when the training data are contaminated with anomalies.
+  authors: TKK Ho, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2308.12563
+    display: 	arXiv:2308.12563 (Under Review, 2024)
+  highlight: 1
+  news2: 
+
+  - title: "Explainable Attention for Few-shot Learning and Beyond"
+  image: baharaaai.jpg
+  description: In this paper, we propose an explainable framework based on reinforcement learning and attention mechanisms in scenarios where limited training samples are accessible due to challenges in data collection and labeling.
+  authors: B Nikpour, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2310.07800
+    display: 	arXiv:2310.07800 (Under Review, 2024)
+  highlight: 1
+  news2: 
+  
+- title: "Graph-based Time-Series Anomaly Detection: A Survey and Outlook"
+  image: khanh.jpg
+  description: In this survey, we conduct a comprehensive and up-to-date review of Graph-based Time-series Anomaly Detection (G-TSAD)
+  authors: TKK Ho, A Karami, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2302.00058
+    display: 	arXiv:2302.00058 (2024, Under Review)
+  highlight: 1
+  news2: 
 
 - title: "DASVDD: Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection"
   image: DASVDD.png
@@ -58,36 +98,7 @@
   highlight: 1
   news2:
 
-- title: "Open-Set Multivariate Time-Series Anomaly Detection"
-  image: aistats.jpg
-  description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
-  authors: T Lai, TKK Ho, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2310.12294
-    display: 	arXiv:2310.12294 (2023, Under Review)
-  highlight: 1
-  news2: 
-  
-- title: "Multivariate Time-Series Anomaly Detection with Contaminated Data: Application to Physiological Signals"
-  image: khanhaaai.jpg
-  description: In this paper, we introduce a novel and practical end-to-end unsupervised time-series anomaly detection when the training data are contaminated with anomalies.
-  authors: TKK Ho, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2308.12563
-    display: 	arXiv:2308.12563 (Under Review, 2023)
-  highlight: 1
-  news2: 
-  
-- title: "Explainable Attention for Few-shot Learning and Beyond"
-  image: baharaaai.jpg
-  description: In this paper, we propose an explainable framework based on reinforcement learning and attention mechanisms in scenarios where limited training samples are accessible due to challenges in data collection and labeling.
-  authors: B Nikpour, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2310.07800
-    display: 	arXiv:2310.07800 (Under Review, 2023)
-  highlight: 1
-  news2: 
-  
+ 
 - title: "C3: Cross-instance guided Contrastive Clustering"
   image: C3.jpg
   description: In this paper, we propose a novel contrastive clustering method, Cross-instance guided Contrastive Clustering (C3), that considers the cross-sample relationships to increase the number of positive pairs.
@@ -148,15 +159,6 @@
   highlight: 1
   news2: 
 
-- title: "Graph-based Time-Series Anomaly Detection: A Survey and Outlook"
-  image: khanh.jpg
-  description: In this survey, we conduct a comprehensive and up-to-date review of Graph-based Time-series Anomaly Detection (G-TSAD)
-  authors: TKK Ho, A Karami, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2302.00058
-    display: 	arXiv:2302.00058 (2023, Under Review)
-  highlight: 1
-  news2: 
  
 - title: "Attentive Task Interaction Network for Multi-Task Learning"
   image: dimitripaper.png
