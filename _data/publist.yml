@@ -53,12 +53,12 @@
   description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
   authors: T Lai, TKK Ho, N Armanfard
   link:
-    url: https://arxiv.org/abs/2310.12294
+    url: https://arxiv.org/pdf/2310.12294.pdf
     display: 	arXiv:2310.12294 (2024)
   highlight: 1
   news2: 
 
-- title: "Multivariate Time-Series Anomaly Detection with Contaminated Data: Application to Physiological Signals"
+- title: "Multivariate Time-Series Anomaly Detection with Contaminated Data"
   image: khanhaaai.jpg
   description: In this paper, we introduce a novel and practical end-to-end unsupervised time-series anomaly detection when the training data are contaminated with anomalies.
   authors: TKK Ho, N Armanfard
@@ -84,7 +84,7 @@
   authors: TKK Ho, A Karami, N Armanfard
   link:
     url: https://arxiv.org/abs/2302.00058
-    display: 	arXiv:2302.00058 (2024)
+    display: 	arXiv:2302.00058 (2023)
   highlight: 1
   news2: 
 
