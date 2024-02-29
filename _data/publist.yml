@@ -48,7 +48,7 @@
   highlight: 1
   news2: 
   
-  - title: "Open-Set Multivariate Time-Series Anomaly Detection"
+- title: "Open-Set Multivariate Time-Series Anomaly Detection"
   image: aistats.jpg
   description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
   authors: T Lai, TKK Ho, N Armanfard
@@ -68,7 +68,7 @@
   highlight: 1
   news2: 
 
-  - title: "Explainable Attention for Few-shot Learning and Beyond"
+- title: "Explainable Attention for Few-shot Learning and Beyond"
   image: baharaaai.jpg
   description: In this paper, we propose an explainable framework based on reinforcement learning and attention mechanisms in scenarios where limited training samples are accessible due to challenges in data collection and labeling.
   authors: B Nikpour, N Armanfard
