@@ -1,13 +1,3 @@
-- title: "EMA-Net: Efficient Multitask Affinity Learning for Dense Scene Predictions"
-  image: ctal_site.jpg
-  description: In this paper, we introduce the Efficient Multitask Affinity Learning Network (EMA-Net), which is a lightweight framework that enhances the task refinement capabilities of multitask networks.
-  authors: D Sinodinos, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2401.11124
-    display: arXiv:2401.11124 (2024)
-  highlight: 1
-  news2: 
-  
 - title: "Camera-Based Contactless Blood Pressure Estimation via Attention-Driven Multimodal Contrastive Learning"
   image: overview_page-0001.jpg
   description: Presenting a groundbreaking approach, we introduce a unique approach to contactless blood pressure estimation utilizing camera-based measurements for the first time.
@@ -27,7 +17,7 @@
     display: IEEE Trans. on Neural Networks and Learning Systems (TNNLS 2024)
   highlight: 1
   news2: 
-
+  
 - title: "Self-Supervised Anomaly Detection: A Survey and Outlook"
   image: ssl (1).png
   description: This paper aims to review the current approaches in self-supervised anomaly detection, present their technical details, and discuss their strengths and drawbacks.
