@@ -1,17 +1,17 @@
 - title: "Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection"
   image: jigsaw.jpg
-  description: This paper introduces a novel, practical and lightweight framework, namely Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection.
+  description: This paper introduces a novel, practical, and lightweight framework, namely the Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection.
   authors: A Karami, TK Ho, N Armanfard
   link:
     url: https://arxiv.org/abs/2403.12172
-    display: arXiv
+    display: arXiv:2403.12172 (2024)
   highlight: 1
   news2: 
   
 - title: "Neural Network Prediction of the Effect of Thermomechanical Controlled Processing on Mechanical Properties"
   image: mlapplication.jpg
   description: This paper provides an artificial neural network methodology to predict lower yield strength (LYS) and ultimate tensile strength (UTS).
-  authors: S Sinha, D Guye, X Ma , K Rehman, S Yue, N Armanfard
+  authors: S Sinha, D Guye, X Ma, K Rehman, S Yue, N Armanfard
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2666827024000070
     display: Machine Learning with Applications (Elsevier; 2024)
