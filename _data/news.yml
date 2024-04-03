@@ -1,3 +1,6 @@
+- date: April 2024
+  headline: We are being awarded the prestigious and highly competitive NSERC SGS-M award in support of our ongoing research on epilepsy! Congratulations to Thomas and the iSMART team!
+ 
 - date: Mar 2024
   headline: Part of the results of our research on developing a practical, lightweight abnormal human behavior detection is now available <a href="https://arxiv.org/abs/2403.12172">here.</a>
 
@@ -40,9 +43,6 @@
 - date: Aug 2023
   headline: Our paper "C3&#58; Cross-instance guided Contrastive Clustering" has been accepted for publication at the prestigious British Machine Vision Conference (BMVC 2023).
 
-- date: Aug 2023
-  headline: Congratulations to PhD students Bahareh Nikpour, Mohammadreza Sadeghi, and Khanh Ho for successfully defending their PhD Research Seminar/Proposal.
-  
 - date: June 2023
   headline: Our paper "Multi-Representation Learning for Data Clustering" has been accepted for publication at the prestigious IEEE Trans. on Neural Networks and Learning Systems (TNNLS).
 
@@ -50,19 +50,19 @@
   headline: Our research paper "Multivariate Time-Series Anomaly Detection with Temporal Self-Supervision and Graphs" has been accepted for publication at the prestigious AI conference ECML PKDD 23 (main track).
 
 - date: April 2023
-  headline: We are proud of our Ph.D. students, Hadi Hojjati, Khanh Ho, and Dimitrios Sinodinos, for receiving the prestigious and highly competitive FRQ Scholarship (among the top three) for supporting their exciting research topics at the iSMART Lab. Congratulations to them!
+  headline: We are awarded three prestigious and highly competitive FRQ-PhD Awards, among the top three, for supporting our exciting projects on AI and applications in healthcare and industrial automation! Congratulations to Hadi Hojjati, Khanh Ho, Dimitrios Sinodinos, and the iSMART team!
 
 - date: April 2023
   headline: We are pleased to be among the ~25 selected groups presenting a 2-hr tutorial at the prestigious IJCAI 23, 19th-25th August 2023, Macao, S.A.R. Our tutorial is on Unsupervised Time Series Anomaly Detection.
 
 - date: April 2023
-  headline: We are extremely proud of our Ph.D. student, Khanh Ho, for being selected to receive the prestigious Vanier-NSERC Canada Graduate Scholarship to continue her research on AI for the brain.
+  headline: We are extremely proud to be selected to receive the prestigious Vanier-NSERC Canada Graduate Scholarship to continue our research on AI in Healthcare. Congratulations to Khanh Ho and the iSMART team!
 
 - date: Feb 2023
   headline: Congratulations to Bahareh Nikpour for receiving the iSMART award in recognition of her significant contributions to the field.
   
 - date: Feb 2023
-  headline: Congratulations to Bahareh Nikpour for her two recent human activity recognition publications in the high-rank journals Pattern Recognition and IEEE Trans. on Systems, Man, and Cybernetics Systems.
+  headline: Our recent research on human activity recognition has now been published in the high-ranking journals Pattern Recognition and IEEE Trans. on Systems, Man, and Cybernetics Systems.
 
 - date: Feb 2023
   headline: Our recent study on graph-based anomaly detection is now available <a href="https://arxiv.org/abs/2302.00058">here.</a>
@@ -83,7 +83,7 @@
   headline: Our paper on self-supervised node anomaly detection has been accepted for publication at AAAI-23 (main track; Oral). The preprint can be found <a href="https://arxiv.org/abs/2208.07448"> here.</a>
 
 - date: November 2022
-  headline: New preprint "C3&#58; Cross-instance guided Contrastive Clustering" is published at <a href="https://arxiv.org/abs/2211.07136">arXiv.</a>
+  headline: Our recent result of deep-clusetiirng "C3&#58; Cross-instance guided Contrastive Clustering" is published at <a href="https://arxiv.org/abs/2211.07136">arXiv.</a>
   
 - date: September 2022 
   headline: We are proud of our Ph.D. student Dimitrios Sinodinos for being nominated for the Apple Scholars Ph.D. fellowship in support of his exciting Ph.D. research on Health Smart Home at the iSMART Lab. Congratulations to the iSMART Lab members!
@@ -92,22 +92,13 @@
   headline: We are looking for Postdocs in the area of machine learning and its applications. If you are interested and have a proven publication record, email us your CV at narges.armanfard@mcgill.ca
 
 - date: August 2022
-  headline: Our recent work on self-supervised anomaly detection, "Self-Supervised Learning for Anomalous Channel Detection in EEG Graphs &#58; Application to Seizure Analysis", is now available at <a href="https://arxiv.org/abs/2208.07448">arXiv.</a>
+  headline: Our recent study on self-supervised anomaly detection, "Self-Supervised Learning for Anomalous Channel Detection in EEG Graphs &#58; Application to Seizure Analysis", is now available at <a href="https://arxiv.org/abs/2208.07448">arXiv.</a>
 
 - date: August 2022
-  headline: Big Congratulations to Hadi Hojjati for receiving AGE-WELL Graduate Student and Postdoctoral Award in Technology and Aging in support of his exciting research on zero-effort health-related technologies at the iSMART lab.
-
-- date: July 2022 
-  headline: We are very proud of our Ph.D. student Khanh Ho for being nominated (among the top 3) at McGill to receive the super prestigious and highly competitive Vanier Canada Graduate Scholarship in support of her research on Epilepsy at the iSMART Lab. Congratulations to Khanh!
-
-- date: June 2022 
-  headline: Congratulations to Ali Karami for receiving a Graduate Excellence Fellowship (GEF) award supporting his MSc thesis research at the iSMART Lab. 
+  headline: We are extremely proud to be selected to receive the prestigious AGE-WELL Award in Technology and Aging in support of our research on AI for healthcare. Congratulations to Hadi and the iSMART team!
 
 - date: June 2022
-  headline: Jack Wei will join us as an MSc-thesis student. Congratulations to Jack!
-
-- date: June 2022
-  headline: We are proud of our Ph.D. students Bahareh Nikpour, Mohammadreza Sadeghi, and Hadi Hojjati for receiving the prestigious and highly competitive FRQ Scholarship for supporting their exciting research topics at the iSMART Lab. Congratulations to them!   
+  headline: We have been awarded three prestigious and highly competitive FRQ Awards for supporting our exciting projects in developing AI algorithms in healthcare and industrial automation! Congratulations to Baha, Mohammadreza, Hadi, and the iSMART team!
 
 - date: May 2022
   headline: We are looking for a postdoc to join us for an exciting and interdisciplinary project on AI in Cardiology. Applicants with strong machine learning background (with proven publication records) are encouraged to send their CV to Prof. Armanfard.
@@ -124,32 +115,26 @@
 - date: May 2022
   headline: Congratulations to Dimitrios Sinodinos on receiving the prestigious Graduate Research Enhancement and Travel (GREAT) award!
 
-- date: April 2022
-  headline: Ali Karami will join us in Fall 2022 as an MSc-thesis student. Congratulations to Ali!
-  
-- date: April 2022
+- - date: April 2022
   headline: Congratulations to Bahareh Nikpour and Mohammadreza Sadeghi for successfully defending their research proposal.
 
 - date: April 2022
-  headline: Congratulations to Dimitrios Sinodinos on receiving an NSERC award to support his research in the iSMART lab! 
+  headline: We are being awarded the prestigious and highly competitive NSERC SGS-M award in support of our research studies! Congratulations to Dimitri and the iSMART team!
 
 - date: March 2022
   headline: Our paper <a href="https://arxiv.org/abs/2201.10649"> "Attentive Task Interaction Network for Multi-Task Learning"</a> is accepted for publication in ICPR 2022. The code can be found in the Lab Github.
   
 - date: March 2022
-  headline: New preprint "Deep Multi-Representation Learning for Data Clustering" is published at <a href="https://www.techrxiv.org/articles/preprint/Deep_Multi-Representation_Learning_for_Data_Clustering/19357979">TecharXiv.</a>
+  headline: Our recent findings on deep-clustering, "Deep Multi-Representation Learning for Data Clustering", is now available at <a href="https://www.techrxiv.org/articles/preprint/Deep_Multi-Representation_Learning_for_Data_Clustering/19357979">TecharXiv.</a>
 
 - date: March 2022
-  headline: Congratulations to Dimitrios Sinodinos on receiving the prestigious award Vadasz Scholar McGill Engineering Doctoral Award (4 years), in support of his graduate studies.
+  headline: We are being awarded the prestigious Vadasz Scholar McGill Engineering Doctoral Award in support of our research studies. Congratulations to Dimitri and the iSMART team!
 
 - date: March 2022
-  headline: Congratulations to our MSc student Dimitrios Sinodinos on getting accepted for fast-tracking to Ph.D. in the iSMART Lab.
-
-- date: March 2022
-  headline: New preprint "Deep Reinforcement Learning in Human Activity Recognition &#58; A Survey" is published at <a href="https://www.techrxiv.org/articles/preprint/Deep_Reinforcement_Learning_in_Human_Activity_Recognition_A_Survey/19172369">TecharXiv </a>
+  headline: Our recent study on human activity recognition, "Deep Reinforcement Learning in Human Activity Recognition &#58; A Survey," is now available at <a href="https://www.techrxiv.org/articles/preprint/Deep_Reinforcement_Learning_in_Human_Activity_Recognition_A_Survey/19172369">TecharXiv </a>
 
 - date: Feb 2022
-  headline: New preprint "Attentive Task Interaction Network for Multi-Task Learning" is published at <a href="https://arxiv.org/abs/2201.10649">arXiv </a>
+  headline: Our recent study on multitask learning, "Attentive Task Interaction Network for Multi-Task Learning", is now available at <a href="https://arxiv.org/abs/2201.10649">arXiv </a>
 
 - date: Feb 2022
-  headline: iSMART Lab website is launched!
+  headline: The iSMART Lab website is launched!
