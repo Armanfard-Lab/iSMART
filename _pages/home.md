@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the Innovative Solutions in Machine learning, Artificial intelligence, and Robotics Technologies (iSMART) laboratory, founded and led by [Prof. Narges Armanfard](https://www.mcgill.ca/ece/narges-armanfard). Our aim is to develop novel and practical algorithms in artificial intelligence and related areas in computer vision, reinforcement learning, representation learning for data clustering and classification, and anomaly detection. Here are some themes and techniques that we currently work on:
+Welcome to the Innovative Solutions in Machine learning, Artificial intelligence, and Robotics Technologies (iSMART) laboratory, founded and led by [Prof. Narges Armanfard](https://www.mcgill.ca/ece/narges-armanfard). Our aim is to develop novel and practical algorithms in artificial intelligence and related areas in computer vision, reinforcement learning, representation learning, and large language models for practical applications in industrial automation and healthcare. Here are some themes and techniques that we currently work on:
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -75,13 +75,14 @@ Welcome to the Innovative Solutions in Machine learning, Artificial intelligence
 </div>
 
 
-**Representation Learning:** The performance of machine learning methods depends heavily on the choice of data representation (or features). A good representation can improve the performance of downstream tasks. Our goal is to develop unimodal and multi-modal supervised, self-supervised, and unsupervised representation learning algorithms that are useful for clustering, classification, and anomaly detection tasks.
-
 **Artificial Intelligence for Healthcare:** Recent advances in machine learning have enabled the design of effective healthcare diagnosis and monitoring devices. We work on developing and applying state-of-the-art machine learning algorithms for assisting epileptic patients by improving the accuracy of epileptogenic zone detection prior to the removal surgery. Another stream of this research line is developing intelligent processing systems for zero-effort health smart homes where physiological parameters are monitored unobtrusively.
+
+**Industrial Automation:**  Industrial automation is the use of data-driven control systems, whether computers, process controllers, or robots, to operate industrial processes or machinery in a way that reduces the need for human action. We work on developing intelligent systems to yield a more robust and accurate performance and improve productivity.
+
+**Representation Learning:** The performance of machine learning methods depends heavily on the choice of data representation (or features). A good representation can improve the performance of downstream tasks. Our goal is to develop unimodal and multi-modal supervised, self-supervised, and unsupervised representation learning algorithms that are useful for clustering, classification, and anomaly detection tasks.
 
 **Human Activity Recognition:** It is a popular research field in computer vision and plays an important role in many real-world intelligent systems. As a part of this research line, we aim to improve the state-of-the-art using deep reinforcement learning (DRL). Towards this research line, we also explore multitask learning (MTL), which has recently gained popularity as a learning paradigm. It can lead to improved per-task performance while using fewer per-task model parameters compared to single-task learning.
 
-**Industrial Automation:**  Industrial automation is the use of data-driven control systems, whether computers, process controllers, or robots, to operate industrial processes or machinery in a way that reduces the need for human action. We work on developing intelligent systems to yield a more robust and accurate performance and improve productivity.
 
 We are grateful for support from McGill University, Natural Sciences and Engineering Research Council of Canada [(NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp), Fonds de recherche du Québec [(FRQ)](https://frq.gouv.qc.ca/en/), [MITACS](https://www.mitacs.ca/en), [SCALE AI](https://www.scaleai.ca/), Canada Foundation for Innovation [(CFI)](https://www.innovation.ca/), [Nissan](https://www.nissan.ca/), [Ericsson](https://www.ericsson.com/en), [Algoma](https://algomau.ca/), [Preteckt](https://preteckt.com/), [Trimac](https://www.trimac.com/), [Agewell](https://agewell-nce.ca/), Montreal Neurological Institute [(MNI)](https://www.mcgill.ca/neuro/), [Jewish General Hospital](https://www.jgh.ca/), Canadian Institutes of Health Research [(CIHR)](https://cihr-irsc.gc.ca/e/193.html), and University Health Network [UHN](https://www.uhn.ca/).
 
