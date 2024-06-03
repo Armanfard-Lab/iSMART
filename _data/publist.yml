@@ -189,13 +189,13 @@
   highlight: 1
   news2:
 
-- title: "Deep Clustering with Self-supervision using Pairwise Data Similarities"
+- title: "Deep Clustering with Self-supervision using Pairwise Similarities"
   image: final_model-1.png
   description: In this paper, we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). We propose to form hypersphere-like groups of similar data points, i.e., one hypersphere per cluster.
   authors: M Sadeghi, N Armanfard
   link:
-    url: https://www.techrxiv.org/articles/preprint/Deep_Clustering_with_Self-supervision_using_Pairwise_Data_Similarities/14852652
-    display: TechRxiv (2021)
+    url: https://arxiv.org/abs/2405.03590
+    display: arXiv: 2405.03590 (2021)
   highlight: 1
   news2:
 
