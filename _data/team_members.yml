@@ -106,6 +106,18 @@
   linkedin: https://www.linkedin.com/
   bio: Ali received his BSc degree in Electrical Engineering from the University of Tehran, Iran. He is the recipient of the Graduate Excellence Fellowship Award (GEF). His research focuses on graph-based attention finding using deep reinforcement learning for video anomaly detection.
 
+- name: Abhijeet Praveen
+  photo: Abhijeet.jpg
+  info: Master Student
+  email: 
+  number_educ: 0
+  education1: Bachelor <a href="https://ut.ac.ir/en">University of Tehran</a>
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+  scholar:
+  linkedin: https://www.linkedin.com/in/abhijeetpraveen/
+  bio: Abhijeet will begin pursuing a Master’s of Science (Thesis) at the iSmart Lab in September 2024. He completed his Bachelor’s in Computer Engineering with a minor in Applied Artificial Intelligence from McGill University. His academic background encompasses machine learning, computer vision and software development. His research interests lie in representation learning and machine learning applications.
+  
 - name: Jack Wei
   photo: Yiwei.png
   info: Master Student
@@ -193,3 +205,15 @@
   linkedin:
   bio: Samer received his medical degree and completed his post-graduate medical studies in adult cardiology at McGill. He is currently pursuing a Master's degree in Digital Health Innovation with an interest in applications of machine learning and artificial intelligence in medicine, particularly in multi-modal cardiac imaging.
 
+- name: 
+  photo: AlexW.jpg
+  info: Undergraduate Student
+  email: alexander.wyrstiuk@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
+  education2:
+  education3:
+  scholar:
+  linkedin:
+  bio: With a family history of McGill Alumni and an enthusiasm towards Science and Engineering, Alexander chose to pursue his undergraduate studies at McGill University. Alexander is currently enrolled in McGill's Electrical Engineering program and has added minors in Math and Computer Science upon developing a newfound curiosity in those fields. While at the forefront of cutting-edge technology as well as the intersection of Computer Science and Applied Mathematics, AI and Machine Learning are inevitably of great interest to Alexander.
+  
