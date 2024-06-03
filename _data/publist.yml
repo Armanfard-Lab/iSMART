@@ -188,7 +188,7 @@
     display:  Machine Learning with Applications, Volume 7 (MLwA 2022)
   highlight: 1
   news2:
-
+  
 - title: "Deep Clustering with Self-supervision using Pairwise Similarities"
   image: final_model-1.png
   description: In this paper, we propose a novel deep clustering framework with self-supervision using pairwise data similarities (DCSS). We propose to form hypersphere-like groups of similar data points, i.e., one hypersphere per cluster.
