@@ -1,3 +1,13 @@
+- title: "Forward-Backward Knowledge Distillation for Continual Clustering"
+  image: FBCC.jpg
+  description: Although current research in UCL has endeavored to refine data representations and address CF in streaming data contexts, there is a noticeable lack of algorithms specifically designed for unsupervised clustering. To fill this gap, in this paper, we introduce the concept of UCC.
+  authors: M Sadeghi, Z Wang, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2405.19234
+    display: arXiv:2405.19234 (2024)
+  highlight: 1
+  news2: 
+  
 - title: "Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection"
   image: jigsaw.jpg
   description: This paper introduces a novel, practical, and lightweight framework, namely the Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection.
