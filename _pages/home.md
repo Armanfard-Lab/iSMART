@@ -114,5 +114,5 @@ We are grateful for support from McGill University, Natural Sciences and Enginee
 </figure>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/header_surftech_logo_blackAsset_2_4x_40d1c631-ee3e-4ee6-a952-a87d64038a4f.jpg" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/326467610_727288518831504_1045156533378518963_n.png" style="width: 100px">
 </figure>
