@@ -110,4 +110,5 @@ We are grateful for support from McGill University, Natural Sciences and Enginee
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UHN.jpg" style="width: 110px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/agewell.png" style="width: 100px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cihr.png" style="width: 100px">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrc-partner-logo_e.jpg" style="width: 100px">
 </figure>
