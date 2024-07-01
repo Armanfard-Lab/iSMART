@@ -112,3 +112,7 @@ We are grateful for support from McGill University, Natural Sciences and Enginee
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cihr.png" style="width: 100px">
     <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nrc-partner-logo_e.jpg" style="width: 100px">
 </figure>
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/header_surftech_logo_blackAsset_2_4x_40d1c631-ee3e-4ee6-a952-a87d64038a4f.jpg" style="width: 100px">
+</figure>
