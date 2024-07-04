@@ -17,6 +17,16 @@
     display: arXiv:2403.12172 (2024)
   highlight: 1
   news2: 
+
+  - title: "Open-Set Multivariate Time-Series Anomaly Detection"
+  image: aistats.jpg
+  description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
+  authors: T Lai, TKK Ho, N Armanfard
+  link:
+    url: https://arxiv.org/pdf/2310.12294.pdf
+    display: 	27TH European Conference on Artificial Intelligence (ECAI 2024)
+  highlight: 1
+  news2: 
   
 - title: "Neural Network Prediction of the Effect of Thermomechanical Controlled Processing on Mechanical Properties"
   image: mlapplication.jpg
@@ -55,17 +65,6 @@
   link:
     url: http://www.ece.mcgill.ca/~narman1/publications/SSLAD-Survey-NN.pdf
     display: Neural Networks (Elsevier 2024)
-  highlight: 1
-  news2: 
-
-  
-- title: "Open-Set Multivariate Time-Series Anomaly Detection"
-  image: aistats.jpg
-  description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
-  authors: T Lai, TKK Ho, N Armanfard
-  link:
-    url: https://arxiv.org/pdf/2310.12294.pdf
-    display: 	arXiv:2310.12294 (2024)
   highlight: 1
   news2: 
 
