@@ -18,13 +18,13 @@
   highlight: 1
   news2: 
 
-  - title: "Open-Set Multivariate Time-Series Anomaly Detection"
+- title: "Open-Set Multivariate Time-Series Anomaly Detection"
   image: aistats.jpg
   description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
   authors: T Lai, TKK Ho, N Armanfard
   link:
     url: https://arxiv.org/pdf/2310.12294.pdf
-    display: 	27TH European Conference on Artificial Intelligence (ECAI 2024)
+    display: 27TH European Conference on Artificial Intelligence (ECAI 2024)
   highlight: 1
   news2: 
   
