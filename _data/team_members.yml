@@ -10,7 +10,7 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
   scholar: https://scholar.google.com/citations?user=syH1csIAAAAJ&hl=en
   linkedin: https://ca.linkedin.com/in/bahar-nikpour-7771888a
-  bio: Bahareh received her Bachelor's and Master's degrees in Electrical Engineering from Bahonar University of Kerman, Iran. She has received the prestigious McGill Engineering Doctoral Award (MEDA) and Fonds de recherche du Québec -- Nature et technologies. Her research is focused on (few-shot) attention finding in deep reinforcement learning applicable to video anomaly detection.
+  bio: Bahareh received her Bachelor's and Master's degrees in Electrical Engineering from Bahonar University of Kerman, Iran. She has received the prestigious McGill Engineering Doctoral Award (MEDA) and Fonds de recherche du Québec -- Nature et technologies. Her research is focused on attention finding (few-shot) using deep reinforcement learning applicable to computer vision.
 
 - name: Mohammadreza Sadeghi
   photo: Mreza.jpg
@@ -22,7 +22,7 @@
   education3: B.S. East China University of Science and Technology
   scholar: https://scholar.google.com/citations?user=mD5pps0AAAAJ&hl=en
   linkedin: https://ca.linkedin.com/in/mohammadreza-sadeghi-681b01217
-  bio: Mohammadreza received his Bachelor's degree in Electrical Engineering from the University of Tehran, Iran. He has received the prestigious McGill Engineering Doctoral Award (MEDA) and Fonds de recherche du Québec -- Nature et technologies. His research is focused on unsupervised data clustering with applications for anomaly detection.
+  bio: Mohammadreza received his Bachelor's degree in Electrical Engineering from the University of Tehran, Iran. He has received the prestigious McGill Engineering Doctoral Award (MEDA) and Fonds de recherche du Québec -- Nature et technologies. His research is focused on unsupervised data clustering with applications to computer vision.
 
 - name: Thi Kieu Khanh Ho
   photo: Khanh.jpg
@@ -33,7 +33,7 @@
   education2: BSc <a href="https://hcmiu.edu.vn/en/">International University - Vietnam National University</a>
   scholar: https://scholar.google.com/citations?hl=en&user=GKb618sAAAAJ&view_op=list_works
   linkedin: 
-  bio: Khanh received her Master's degree at Gwangju Institute of Science and Technology (GIST), South Korea. She was a researcher at Seoul National University Hospital (SNUH), South Korea, before moving to Montreal for her PhD. She has received the prestigious McGill Engineering Doctoral Award (MEDA), GREAT Award and is nominated for the prestigious Vanier Scholarship. Her research focuses on time-series data anomaly detection using generative models and graphs.
+  bio: Khanh received her Master's degree at Gwangju Institute of Science and Technology (GIST), South Korea. She was a researcher at Seoul National University Hospital (SNUH), South Korea, before moving to Montreal for her PhD. She has received the prestigious McGill Engineering Doctoral Award (MEDA), the GREAT Award, and the highly prestigious Vanier Scholarship. Her research focuses on time-series anomaly detection using generative models and graphs.
 
 - name: Hadi Hojjati
   photo: Hadi.jpg
@@ -44,7 +44,7 @@
   education2: BSc <a href="https://en.sharif.edu/">Sharif University of Technology</a>
   scholar: https://scholar.google.com/citations?user=sdy7NXMAAAAJ&hl=en
   linkedin: https://ca.linkedin.com/in/hadi-hojjati-055390274
-  bio: Hadi received his Bachelor's degree in Electrical Engineering from Sharif University of Technology, Iran. He started as an MSc student at the iSMART Lab. and fast-tracked to PhD. He has received Graduate Excellence Fellowship Award (GEF), McGill Engineering Doctoral Award (MEDA), GREAT Award, and AGE-WELL Award. He is currently doing research on multi-modal and multi-variate anomaly detection in time-series data.
+  bio: Hadi received his Bachelor's degree in Electrical Engineering from Sharif University of Technology, Iran. He started as an MSc student at the iSMART Lab. and fast-tracked to PhD. He has received the Graduate Excellence Fellowship Award (GEF), McGill Engineering Doctoral Award (MEDA), GREAT Award, and AGE-WELL Award. He is currently doing research on multi-modal data analysis and anomaly detection employing lightweight multimodal large language models.
  
 - name: Dimitrios Sinodinos
   photo: Dimitri (2).jpg
@@ -56,19 +56,7 @@
   education3:
   scholar:
   linkedin: https://www.linkedin.com/in/dimitrios-sinodinos/
-  bio: Dimitrios completed his Bachelor's degree in Electrical Engineering at McGill University and was awarded the British Association Medal for graduating with the highest CGPA in the department. Shortly after starting his Master's, Dimitrios fast-tracked into a PhD, where he received the MEDA Award and was selected into the prestigious Vadasz Scholars program. His research involves multi-task learning, attention, and deep reinforcement learning for video anomaly detection.
-
-- name:  Xingyue Shi
-  photo: XingyueShi_square.jpg
-  info: PhD Student
-  email: shixy@alumni.pku.edu.cn
-  number_educ: 0
-  education1: Bachelor <a href="https://www.mcgill.ca/ece/">McGill University</a>
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-  scholar: https://scholar.google.com/citations?hl=en&user=LTbE7vYAAAAJ
-  linkedin: https://www.linkedin.com/in/xingyue-shi-39b50b2a7/  
-  bio: Xingyue is set to commence her Ph.D. journey in September 2024, holding an MSc degree in Applied Computer Technology from Peking University and a B.Eng. degree in Computer Science and Technology from Sun Yat-sen University. Her academic background encompasses machine learning, computer vision, and high-performance computing. Currently, Xingyue is intrigued by the challenges of learning with limited supervision and enhancing generalization, specifically within the scope of anomaly detection.
+  bio: Dimitrios completed his Bachelor's degree in Electrical Engineering at McGill University and was awarded the British Association Medal for graduating with the highest CGPA in the department. Shortly after starting his Master's, Dimitrios fast-tracked into a PhD, where he received the MEDA Award and was selected into the prestigious Vadasz Scholars program. His research involves multi-task learning learning employing lightweight multimodal large language models.
 
 - name:  Saleh Dehqanpour
   photo: SalehDehqanpourPhoto.jpg
@@ -104,7 +92,7 @@
   education3:
   scholar:
   linkedin: https://www.linkedin.com/
-  bio: Ali received his BSc degree in Electrical Engineering from the University of Tehran, Iran. He is the recipient of the Graduate Excellence Fellowship Award (GEF). His research focuses on graph-based attention finding using deep reinforcement learning for video anomaly detection.
+  bio: Ali received his BSc degree in Electrical Engineering from the University of Tehran, Iran. He is the recipient of the Graduate Excellence Fellowship Award (GEF). His research focuses on graph-based and diffusion-based methods for video anomaly detection.
 
 - name: Abhijeet Praveen
   photo: Abhijeet.jpg
@@ -128,7 +116,7 @@
   education3:
   scholar:
   linkedin: https://www.linkedin.com/in/yi-wei-a9146716a/?originalSubdomain=ca&original_referer=
-  bio: Jack (Yi) Wei received his Bachelor's degree in Computer Engineering with a minor in Mathematics from McGill University. He is the recipient of the McGill Engineering Undergraduate Student Award (MEUSMA). His interest lies in self-supervised learning for tabular data anomaly detection.
+  bio: Jack (Yi) Wei received his Bachelor's degree in Computer Engineering with a minor in Mathematics from McGill University. He is the recipient of the McGill Engineering Undergraduate Student Award (MEUSMA). His interest lies in tabular data analysis.
 
 - name: Thomas Lai
   photo: Thomas.jpg
@@ -152,7 +140,7 @@
   education3: 
   scholar: https://scholar.google.com/
   linkedin: https://www.linkedin.com/in/zihan-wang-2919b2261/
-  bio: Zihan received his Bachelor’s degree in Electrical and Computer Engineering from the University of Alberta, Canada. He is now an MSc student at the iSMART Lab. He is the recipient of the Graduate Excellence Fellowship Award. His research at the iSMART Lab is focused on continual learning for anomaly detection.
+  bio: Zihan received his Bachelor’s degree in Electrical and Computer Engineering from the University of Alberta, Canada. He is now an MSc student at the iSMART Lab. He is the recipient of the Graduate Excellence Fellowship Award. His research at the iSMART Lab is focused on continual learning with large language models for anomaly detection.
 
 - name: Alexander Koran
   photo: alex.jpg
@@ -166,7 +154,7 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
   scholar:
   linkedin: https://www.linkedin.com/
-  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelors Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science in at the iSMART lab and is a recipient of the MEUSMA award.
+  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelors Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science at the iSMART lab and is a recipient of the GEF award. His MSc thesis focuses on time series anomaly detction. 
  
   
 - name: Vania Karami
