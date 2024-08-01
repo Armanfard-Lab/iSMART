@@ -1,4 +1,4 @@
-- name: Sareh Soleimani
+- name: Dr. Sareh Soleimani
   photo: IMG_7306.PNG
   info: Postdoctoral Fellow
   email: bahareh.nikpour@mcgill.ca
@@ -10,7 +10,7 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
   scholar: https://scholar.google.ca/citations?hl=en&user=YrVH0MUAAAAJ&view_op=list_works&sortby=pubdate
   linkedin: https://ca.linkedin.com/in/sareh-soleimani-69468976
-  bio: Dr. Sareh Soleimani received the M.Sc. and Ph.D. degrees in electrical and computer engineering from the University of Ottawa, Ontario, Canada, both with the prestigious University of Ottawa admission scholarships. She subsequently joined Queen’s University as a postdoctoral fellow focusing on privacy-preservation audio classification for resource-constrained devices. Her research at the iSMART lab focuses on computer vision towards industrial automation.   
+  bio: Sareh received the M.Sc. and Ph.D. degrees in electrical and computer engineering from the University of Ottawa, Ontario, Canada, both with the prestigious University of Ottawa admission scholarships. She subsequently joined Queen’s University as a postdoctoral fellow focusing on privacy-preservation audio classification for resource-constrained devices. Her research at the iSMART lab focuses on computer vision towards industrial automation.   
   
 - name: Bahareh Nikpour
   photo: Bahar (1).jpg
@@ -142,7 +142,7 @@
   education3: 
   scholar: https://scholar.google.com/
   linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/b
-  bio: Thomas received his Bachelor's of Engineering (B.Eng.) from McGill University. He is now pursuing a Master's of Science in Electrical Engineering at the iSMART lab and is a recipient of the MEUSMA award. His research is on open-set multi-variate time series anomaly detection.
+  bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. He is now pursuing a Master of Science in Electrical Engineering at the iSMART lab and is a recipient of the MEUSMA award. His research is on open-set multi-variate time series anomaly detection.
   
 - name: Zihan Wang
   photo: Zihan_Photo.JPG
@@ -168,10 +168,10 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
   scholar:
   linkedin: https://www.linkedin.com/
-  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelors Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science at the iSMART lab and is a recipient of the GEF award. His MSc thesis focuses on time series anomaly detction. 
+  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelor's Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science at the iSMART lab and is a recipient of the GEF award. His MSc thesis focuses on time series anomaly detction. 
  
   
-- name: Vania Karami
+- name: Dr. Vania Karami
   photo: 8F347049-5C67-400F-BBD1-6EED0BE409A1.jpeg
   info: Postdoc (co-supervised)
   email: 
@@ -181,7 +181,7 @@
   education3:
   scholar:
   linkedin: https://www.linkedin.com/in/vania-k-a92a2a52/
-  bio: Vania received her PhD in Health and Life science from the University of Camerino, Italy. Her doctoral research focused on developing a computer-aided diagnosis system for the early detection of Alzheimer's disease (AD) using extracted biomarkers from human brain data. Her PhD research has been awarded one of the young investigator prizes for doctoral candidates. She is currently integrating AI and robotics to identify behavioral- and communication-based markers for the early detection of AD.
+  bio: Vania received her PhD in Health and Life Science from the University of Camerino, Italy. Her doctoral research focused on developing a computer-aided diagnosis system for the early detection of Alzheimer's disease (AD) using extracted biomarkers from human brain data. Her PhD research has been awarded one of the young investigator prizes for doctoral candidates. She is currently integrating AI and robotics to identify behavioral- and communication-based markers for the early detection of AD.
 
 - name: Sushant Sinha 
   photo: sushant.jpg
