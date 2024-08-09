@@ -170,7 +170,7 @@
   linkedin: https://www.linkedin.com/
   bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelor's Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science at the iSMART lab and is a recipient of the GEF award. His MSc thesis focuses on time series anomaly detction. 
 
- - name: Alexander Wyrstiuk
+- name: Alexander Wyrstiuk
   photo: AlexW.jpg
   info: Researcher (BSc)
   email: alexander.wyrstiuk@mail.mcgill.ca
@@ -181,8 +181,7 @@
   scholar:
   linkedin:
   bio: Alexander is currently enrolled in McGill's Electrical Engineering BSs program and has added minors in Math and Computer Science upon developing a newfound curiosity in those fields. While at the forefront of cutting-edge technology as well as the intersection of Computer Science and Applied Mathematics, AI and Machine Learning are inevitably of great interest to Alexander.
-  
-  
+    
 - name: Dr. Vania Karami
   photo: 8F347049-5C67-400F-BBD1-6EED0BE409A1.jpeg
   info: Postdoctoral (co-supervised)
