@@ -120,18 +120,6 @@
   linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/b
   bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. He is now pursuing a Master of Science in Electrical Engineering at the iSMART lab and is a recipient of the MEUSMA award. His research is on open-set multi-variate time series anomaly detection.
   
-- name: Zihan Wang
-  photo: Zihan_Photo.JPG
-  info: Researcher (MSc)
-  email: zihan.wang@mail.mcgill.ca
-  number_educ: 0
-  education1: BSc, <a href="https://www.ualberta.ca/index.html">University of Alberta</a>
-  education2: 
-  education3: 
-  scholar: https://scholar.google.com/
-  linkedin: https://www.linkedin.com/in/zihan-wang-2919b2261/
-  bio: Zihan received his Bachelor’s degree in Electrical and Computer Engineering from the University of Alberta, Canada. He is now an MSc student at the iSMART Lab. He is the recipient of the Graduate Excellence Fellowship Award. His research at the iSMART Lab is focused on continual learning with large language models for anomaly detection.
-
 - name: Alexander Koran
   photo: alex.jpg
   info: Researcher (MSc)
@@ -146,17 +134,17 @@
   linkedin: https://www.linkedin.com/
   bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelor's Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science at the iSMART lab and is a recipient of the GEF award. His MSc thesis focuses on time series anomaly detection. 
 
-- name: Abhijeet Praveen
-  photo: Abhijeet.jpg
-  info: AI Researcher (MSc)
-  email: 
+- name: Zihan Wang
+  photo: Zihan_Photo.JPG
+  info: Researcher (MSc)
+  email: zihan.wang@mail.mcgill.ca
   number_educ: 0
-  education1: Bachelor <a href="https://ut.ac.ir/en">University of Tehran</a>
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-  scholar:
-  linkedin: https://www.linkedin.com/in/abhijeetpraveen/
-  bio: Abhijeet will begin pursuing a Master’s of Science (Thesis) at the iSmart Lab in September 2024. He completed his Bachelor’s in Computer Engineering with a minor in Applied Artificial Intelligence from McGill University. His academic background encompasses machine learning, computer vision and software development. His research interests lie in representation learning and machine learning applications.
+  education1: BSc, <a href="https://www.ualberta.ca/index.html">University of Alberta</a>
+  education2: 
+  education3: 
+  scholar: https://scholar.google.com/
+  linkedin: https://www.linkedin.com/in/zihan-wang-2919b2261/
+  bio: Zihan received his Bachelor’s degree in Electrical and Computer Engineering from the University of Alberta, Canada. He is now an MSc student at the iSMART Lab. He is the recipient of the Graduate Excellence Fellowship Award. His research at the iSMART Lab is focused on continual learning with large language models for anomaly detection.
 
 - name: Cormac Cureton
   photo: 20230625_201329 (2).jpg
@@ -169,7 +157,19 @@
   scholar:
   linkedin: https://www.linkedin.com/
   bio: Cormac will begin pursuing a Master’s of Science at the iSMART lab in September 2024. He is currently completing a Bachelors of Applied Science in Systems Design Engineering at the University of Waterloo. His research interests include multi-modality, reinforcement learning, and explainability.
-  
+
+- name: Abhijeet Praveen
+  photo: Abhijeet.jpg
+  info: AI Researcher (MSc)
+  email: 
+  number_educ: 0
+  education1: Bachelor <a href="https://ut.ac.ir/en">University of Tehran</a>
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+  scholar:
+  linkedin: https://www.linkedin.com/in/abhijeetpraveen/
+  bio: Abhijeet will begin pursuing a Master’s of Science (Thesis) at the iSmart Lab in September 2024. He completed his Bachelor’s in Computer Engineering with a minor in Applied Artificial Intelligence from McGill University. His academic background encompasses machine learning, computer vision and software development. His research interests lie in representation learning and machine learning applications.
+
 - name: Alexander Wyrstiuk
   photo: AlexW.jpg
   info: Research Assistant (BSc)
