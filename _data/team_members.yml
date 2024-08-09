@@ -1,6 +1,6 @@
 - name: Dr. Sareh Soleimani
   photo: IMG_7306.PNG
-  info: Researcher (Postdoctoral)
+  info: AI Researcher (Postdoctoral)
   email: bahareh.nikpour@mcgill.ca
   number_educ: 0
   education1: Master <a href="https://ut.ac.ir/en">University of Tehran</a>
@@ -14,7 +14,7 @@
   
 - name: Bahareh Nikpour
   photo: Bahar (1).jpg
-  info: Researcher (PhD)
+  info: AI Researcher (PhD)
   email: bahareh.nikpour@mcgill.ca
   number_educ: 0
   education1: Master <a href="https://ut.ac.ir/en">University of Tehran</a>
@@ -28,7 +28,7 @@
 
 - name: Mohammadreza Sadeghi
   photo: Mreza.jpg
-  info: Researcher (PhD)
+  info: AI Researcher (PhD)
   email: mohammadreza.sadeghi@mail.mcgill.ca
   number_educ: 0
   education1: BSc, <a href="https://ut.ac.ir/en">University of Tehran</a>
@@ -40,7 +40,7 @@
 
 - name: Thi Kieu Khanh Ho
   photo: Khanh.jpg
-  info: Researcher (PhD)
+  info: AI Researcher (PhD)
   email: thi.k.ho@mail.mcgill.ca
   number_educ: 0
   education1: Master <a href="https://www.gist.ac.kr/en/main.html">Gwangju Institute of Science and Technology (GIST)</a>
@@ -51,7 +51,7 @@
 
 - name: Hadi Hojjati
   photo: Hadi.jpg
-  info: Researcher (PhD)
+  info: AI Researcher (PhD)
   email: hadi.hojjati@mcgill.ca
   number_educ: 0
   education1: Master <a href="https://www.mcgill.ca/ece/">McGill University</a>
@@ -62,7 +62,7 @@
  
 - name: Dimitrios Sinodinos
   photo: Dimitri (2).jpg
-  info: Researcher (PhD)
+  info: AI Researcher (PhD)
   email: dimitrios.sinodinos@mail.mcgill.ca
   number_educ: 0
   education1: Bachelor <a href="https://www.mcgill.ca/ece/">McGill University</a>
@@ -74,7 +74,7 @@
 
 - name:  Saleh Dehqanpour
   photo: SalehDehqanpourPhoto.jpg
-  info: Researcher (PhD)
+  info: AI Researcher (PhD)
   email: 
   number_educ: 0
   education1: Bachelor <a href="https://www.mcgill.ca/ece/">McGill University</a>
@@ -84,21 +84,9 @@
   linkedin: https://www.linkedin.com/in/saleh-dehqanpour/?originalSubdomain=ir
   bio: Saleh will begin his Ph.D. studies in September 2024. He received his Bachelor’s and Master’s degrees in Electrical Engineering from Sharif University of Technology, Iran. His academic background is in machine learning, video processing, and data pipelines. His research interests include algorithm design, deep learning applications, and computer vision.
 
-- name: Cormac Cureton
-  photo: 20230625_201329 (2).jpg
-  info: Researcher (MSc)
-  email: cormaccureton@gmail.com
-  number_educ: 0
-  education1: Bachelor <a href="https://ut.ac.ir/en">University of Tehran</a>
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-  scholar:
-  linkedin: https://www.linkedin.com/
-  bio: Cormac will begin pursuing a Master’s of Science at the iSMART lab in September 2024. He is currently completing a Bachelors of Applied Science in Systems Design Engineering at the University of Waterloo. His research interests include multi-modality, reinforcement learning, and explainability.
-  
 - name: Ali Karami
   photo: Ali.png
-  info: Researcher (MSc)
+  info: AI Researcher (MSc)
   email: ali.karami@mail.mcgill.ca
   number_educ: 0
   education1: Bachelor <a href="https://ut.ac.ir/en">University of Tehran</a>
@@ -108,21 +96,9 @@
   linkedin: https://www.linkedin.com/
   bio: Ali received his BSc degree in Electrical Engineering from the University of Tehran, Iran. He is the recipient of the Graduate Excellence Fellowship Award (GEF). His research focuses on graph-based and diffusion-based methods for video anomaly detection.
 
-- name: Abhijeet Praveen
-  photo: Abhijeet.jpg
-  info: Researcher (MSc)
-  email: 
-  number_educ: 0
-  education1: Bachelor <a href="https://ut.ac.ir/en">University of Tehran</a>
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
-  scholar:
-  linkedin: https://www.linkedin.com/in/abhijeetpraveen/
-  bio: Abhijeet will begin pursuing a Master’s of Science (Thesis) at the iSmart Lab in September 2024. He completed his Bachelor’s in Computer Engineering with a minor in Applied Artificial Intelligence from McGill University. His academic background encompasses machine learning, computer vision and software development. His research interests lie in representation learning and machine learning applications.
-  
 - name: Jack Wei
   photo: Yiwei.png
-  info: Researcher (MSc)
+  info: AI Researcher (MSc)
   email: yi.wei4@mail.mcgill.ca
   number_educ: 0
   education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
@@ -168,11 +144,35 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
   scholar:
   linkedin: https://www.linkedin.com/
-  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelor's Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science at the iSMART lab and is a recipient of the GEF award. His MSc thesis focuses on time series anomaly detction. 
+  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelor's Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science at the iSMART lab and is a recipient of the GEF award. His MSc thesis focuses on time series anomaly detection. 
 
+- name: Abhijeet Praveen
+  photo: Abhijeet.jpg
+  info: AI Researcher (MSc)
+  email: 
+  number_educ: 0
+  education1: Bachelor <a href="https://ut.ac.ir/en">University of Tehran</a>
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+  scholar:
+  linkedin: https://www.linkedin.com/in/abhijeetpraveen/
+  bio: Abhijeet will begin pursuing a Master’s of Science (Thesis) at the iSmart Lab in September 2024. He completed his Bachelor’s in Computer Engineering with a minor in Applied Artificial Intelligence from McGill University. His academic background encompasses machine learning, computer vision and software development. His research interests lie in representation learning and machine learning applications.
+
+- name: Cormac Cureton
+  photo: 20230625_201329 (2).jpg
+  info: AI Researcher (MSc)
+  email: cormaccureton@gmail.com
+  number_educ: 0
+  education1: Bachelor <a href="https://ut.ac.ir/en">University of Tehran</a>
+  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
+  education3:
+  scholar:
+  linkedin: https://www.linkedin.com/
+  bio: Cormac will begin pursuing a Master’s of Science at the iSMART lab in September 2024. He is currently completing a Bachelors of Applied Science in Systems Design Engineering at the University of Waterloo. His research interests include multi-modality, reinforcement learning, and explainability.
+  
 - name: Alexander Wyrstiuk
   photo: AlexW.jpg
-  info: Researcher (BSc)
+  info: Research Assistant (BSc)
   email: alexander.wyrstiuk@mail.mcgill.ca
   number_educ: 0
   education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
