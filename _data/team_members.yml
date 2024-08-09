@@ -110,7 +110,7 @@
 
 - name: Thomas Lai
   photo: Thomas.jpg
-  info: Researcher (MSc)
+  info: AI Researcher (MSc)
   email: thomas.lai@mail.mcgill.ca
   number_educ: 0
   education1: BSc, <a href="https://mcgill.ca/">McGill University</a>
@@ -122,7 +122,7 @@
   
 - name: Alexander Koran
   photo: alex.jpg
-  info: Researcher (MSc)
+  info: AI Researcher (MSc)
   email: alexander.koran@mail.mcgill.ca
   number_educ: 0
   education1: Bachelor, <a href="https://www.mcgill.ca/ece/">McGill University</a>
@@ -136,7 +136,7 @@
 
 - name: Zihan Wang
   photo: Zihan_Photo.JPG
-  info: Researcher (MSc)
+  info: AI Researcher (MSc)
   email: zihan.wang@mail.mcgill.ca
   number_educ: 0
   education1: BSc, <a href="https://www.ualberta.ca/index.html">University of Alberta</a>
