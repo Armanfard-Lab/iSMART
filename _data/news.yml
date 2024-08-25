@@ -1,6 +1,5 @@
-
 - date: July 2024
-  headline: <a href="https://arxiv.org/pdf/2310.12294">MOSAD</a>: The First-Ever Solution for Open-Set Time Series Anomaly Detection Accepted for Presentation at ECAI-24 in Spain! Congratulations to Thomas, Khanh, and the iSMART Team! 
+  headline: <a href="https://arxiv.org/pdf/2310.12294">MOSAD</a>&#58; The first-ever solution for Open-Set Time Series Anomaly Detection is accepted for presentation at ECAI-24 in Spain! Congratulations to Thomas, Khanh, and the iSMART Team! 
   
 - date: June 2024
   headline: iSMART Lab Awarded Multi-Hundred Thousands Dollar Grant for Pioneering Innovations in Industrial Automation!
@@ -9,10 +8,10 @@
   headline: Prof. Armanfard Promoted to Associate Professor (Tenured) – Congratulations to the iSMART Team!
 
 - date: May 2024
-  headline: iSMART Lab Awarded Multi-Hundred Thousand Dollar Government Grant for its Innovations in Healthcare and Industrial Automation – Congratulations to the Entire Team
+  headline: iSMART Lab Awarded Multi-Hundred Thousand Dollar Government Grant for its Innovations in Healthcare and Industrial Automation – Congratulations to the entire Team!
 
 - date: April 2024
-  headline: We are being awarded the prestigious and highly competitive FRQ award in support of our ongoing research on Continual Learning! Congratulations to Zihan and the iSMART team!
+  headline: We are being awarded the prestigious and competitive FRQ award in support of our ongoing research on Continual Learning! Congratulations to Zihan and the iSMART team!
  
 - date: April 2024
   headline: We are being awarded the prestigious and highly competitive NSERC SGS-M award in support of our ongoing research on epilepsy! Congratulations to Thomas and the iSMART team!
@@ -39,7 +38,10 @@
   headline: Our paper "Deep Autoencoding Support Vector Data Descriptor for Anomaly Detection" has been accepted for publication at the prestigious IEEE Trans. on Knowledge and Data Engineering.
 
 - date: Oct 2023
-  headline: We are pleased to be among the top research groups invited to hold a tutorial at the prestigious AAAI-24, Feb 2024, in Vancouver, Canada. Our tutorial will be on Time Series Anomaly Detection.
+  headline: We are pleased to be among the top research groups invited to hold a tutorial at the prestigious AAAI-24 in Feb 2024 in Vancouver, Canada. Our tutorial will be on Time Series Anomaly Detection.
+
+- date: Oct 2023
+  headline: iSMART Lab Awarded Multi-Hundred Thousand Dollar Award for its Innovations in Industrial Automation – Congratulations to the entire Team!
 
 - date: Oct 2023
   headline: Our recent study on Open-Set Multivariate Time-Series Anomaly Detection is now available <a href="https://arxiv.org/abs/2310.12294">here.</a>
@@ -64,6 +66,9 @@
 
 - date: June 2023
   headline: Our research paper "Multivariate Time-Series Anomaly Detection with Temporal Self-Supervision and Graphs" has been accepted for publication at the prestigious AI conference ECML PKDD 23 (main track).
+  
+- date: April 2023  
+  headline: iSMART Lab Awarded Multi-Hundred Thousand Dollar Goverment Grant for its Innovations in Healthcare – Congratulations to the entire team!
 
 - date: April 2023
   headline: We are awarded three prestigious and highly competitive FRQ-PhD Awards, among the top three, for supporting our exciting projects on AI and applications in healthcare and industrial automation! Congratulations to Hadi Hojjati, Khanh Ho, Dimitrios Sinodinos, and the iSMART team!
