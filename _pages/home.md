@@ -8,7 +8,7 @@ permalink: /
 
 Welcome to the Innovative Solutions in Machine learning, Artificial intelligence, and Robotics Technologies (iSMART) laboratory, founded and led by [Prof. Narges Armanfard](https://www.mcgill.ca/ece/narges-armanfard). Our goal is to create innovative algorithms in artificial intelligence, focusing on computer vision, reinforcement learning, representation learning, and large language models. Here are some of our key areas of interest:
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Banner-v2 (2).svg" width="650" alt="Banner" style="aspect-ratio: 1.618" />
+<img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Banner-v2 (2).svg" width="630" alt="Banner" style="aspect-ratio: 1.618" />
 
 
 **Artificial Intelligence for Healthcare:** Recent advances in machine learning have enabled the design of effective healthcare diagnosis and monitoring devices. We work on developing and applying state-of-the-art machine learning algorithms for assisting epileptic patients by improving the accuracy of epileptogenic zone detection prior to the removal surgery. Another stream of this research line is developing intelligent processing systems for zero-effort health smart homes where physiological parameters are monitored unobtrusively.
