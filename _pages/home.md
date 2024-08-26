@@ -12,16 +12,6 @@ Welcome to the Innovative Solutions in Machine learning, Artificial intelligence
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
-        <li data-target="#carousel" data-slide-to="7"></li>
-        <li data-target="#carousel" data-slide-to="8"></li>
-        <li data-target="#carousel" data-slide-to="9"></li>
-        <li data-target="#carousel" data-slide-to="10"></li>
 
     </ol>
 
@@ -30,38 +20,7 @@ Welcome to the Innovative Solutions in Machine learning, Artificial intelligence
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Banner-v2 (2).svg" alt="Slide 1" style="aspect-ratio: 1.618" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/846DE3D0-98B2-4F8E-A77A-BCCF178AEC2D.png" alt="Slide 2" style="aspect-ratio: 1.618" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BD67CFA2-845A-42E2-9C13-93133D2CB204.png" alt="Slide 2" style="aspect-ratio: 1.618" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ad.png" alt="Slide 3" style="aspect-ratio: 1.618" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/smart.jpeg" alt="Slide 4" style="aspect-ratio: 1.618" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/1.png" alt="Slide 5" style="aspect-ratio: 1.618"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2.png" alt="Slide 6" style="aspect-ratio: 1.618"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hooman1.png" alt="Slide 7" style="aspect-ratio: 1.618"/>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Slide6.jpg" alt="Slide 8" style="aspect-ratio: 1.618"/>
-        </div>
 
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bitmap.png" alt="Slide 9" style="aspect-ratio: 1.618"/>
-        </div>
-
-       <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ssl.png" alt="Slide 10" style="aspect-ratio: 1.618"/>
-        </div>
 
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
