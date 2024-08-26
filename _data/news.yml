@@ -35,6 +35,9 @@
   headline: Our paper "Self-Supervised Anomaly Detection&#58; A Survey and Outlook" has been accepted for publication in the prestigious Journal "Neural Networks" (Elsevier), which is the Official Journal of the International Neural Network Society, European Neural Network Society, and Japanese Neural Network Society.
 
 - date: Nov 2023
+  headline: Congratulations to Mohammadreza on receiving the prestigious Graduate Research Enhancement and Travel (GREAT) award. 
+
+- date: Nov 2023
   headline: iSMART has been featured by Harvard University. For more details, see <a href="https://www.labxchange.org/"> here.</a>
 
 - date: Oct 2023
@@ -77,7 +80,7 @@
   headline: We are awarded three prestigious and highly competitive FRQ-PhD Awards, among the top three, for supporting our exciting projects on AI and applications in healthcare and industrial automation! Congratulations to Hadi Hojjati, Khanh Ho, Dimitrios Sinodinos, and the iSMART team!
 
 - date: April 2023  
-  headline: iSMART Lab and the Jewish General Hospital Researchers Awarded Substantial Grant for Their Innovations Research in Healthcare – Congratulations to the Entire Team!
+  headline: iSMART Lab and Jewish General Hospital Researchers Awarded Substantial Grant for Their Innovations Research in Healthcare – Congratulations to the Entire Team!
 
 - date: April 2023
   headline: We are pleased to be among the ~25 selected groups presenting a 2-hr tutorial at the prestigious IJCAI 23, 19th-25th August 2023, Macao, S.A.R. Our tutorial is on Unsupervised Time Series Anomaly Detection.
@@ -85,9 +88,6 @@
 - date: April 2023
   headline: We are extremely proud to be selected to receive the prestigious Vanier-NSERC Canada Graduate Scholarship to continue our research on AI in Healthcare. Congratulations to Khanh Ho and the iSMART team!
 
-- date: Feb 2023
-  headline: Congratulations to Bahareh Nikpour for receiving the iSMART award in recognition of her significant contributions to the field.
-  
 - date: Feb 2023
   headline: Our recent research on human activity recognition has now been published in the high-ranking journals Pattern Recognition and IEEE Trans. on Systems, Man, and Cybernetics Systems.
 
@@ -104,17 +104,11 @@
   headline: Congratulations to Jack for receiving the McGill Engineering Undergraduate Student Award (MEUSMA). 
 
 - date: November 2022
-  headline: Congratulations to Khanh Ho for receiving the iSMART award in recognition of her significant contributions to the field.
-  
-- date: November 2022
   headline: Our paper on self-supervised node anomaly detection has been accepted for publication at AAAI-23 (main track; Oral). The preprint can be found <a href="https://arxiv.org/abs/2208.07448"> here.</a>
 
 - date: November 2022
   headline: Our recent result of deep-clusetiirng "C3&#58; Cross-instance guided Contrastive Clustering" is published at <a href="https://arxiv.org/abs/2211.07136">arXiv.</a>
   
-- date: September 2022 
-  headline: We are proud of our Ph.D. student Dimitrios Sinodinos for being nominated for the Apple Scholars Ph.D. fellowship in support of his exciting Ph.D. research on Health Smart Home at the iSMART Lab. Congratulations to the iSMART Lab members!
-
 - date: August 2022
   headline: Our recent study on self-supervised anomaly detection, "Self-Supervised Learning for Anomalous Channel Detection in EEG Graphs &#58; Application to Seizure Analysis", is now available at <a href="https://arxiv.org/abs/2208.07448">arXiv.</a>
 
@@ -125,9 +119,6 @@
   headline: We have been awarded three prestigious and highly competitive FRQ Awards for supporting our exciting projects in developing AI algorithms in healthcare and industrial automation! Congratulations to Baha, Mohammadreza, Hadi, and the iSMART team!
 
 - date: May 2022
-  headline: Congratulations to Khanh Ho for successfully completing her qualifying exam!
-
-- date: May 2022
   headline: New preprint "Self-Supervised Anomaly Detection &#58; A Survey and Outlook" is published at <a href="https://arxiv.org/abs/2205.05173">arXiv.</a>
 
 - date: May 2022
@@ -135,9 +126,6 @@
   
 - date: May 2022
   headline: Congratulations to Dimitrios Sinodinos on receiving the prestigious Graduate Research Enhancement and Travel (GREAT) award!
-
-- date: April 2022
-  headline: Congratulations to Bahareh Nikpour and Mohammadreza Sadeghi for successfully defending their research proposal.
 
 - date: April 2022
   headline: We are being awarded the prestigious and highly competitive NSERC SGS-M award in support of our research studies! Congratulations to Dimitri and the iSMART team!
