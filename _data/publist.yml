@@ -1,3 +1,13 @@
+- title: "Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection"
+  image: Alexpaper.jpg
+  description: This paper provides a critical analysis of the initialization effects on TSAD model performance. Our extensive experiments reveal that TSAD models are highly sensitive to hyperparameters such as window size, seed number, and normalization.
+  authors: A Koran, H Hojjati, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2408.06620
+    display: arXiv:2408.06620 (2024)
+  highlight: 1
+  news2: 
+  
 - title: "Forward-Backward Knowledge Distillation for Continual Clustering"
   image: FBCC.jpg
   description: Although current research in UCL has endeavored to refine data representations and address CF in streaming data contexts, there is a noticeable lack of algorithms specifically designed for unsupervised clustering. To fill this gap, in this paper, we introduce the concept of UCC.
