@@ -1,7 +1,7 @@
 ---
 title: "iSMART Lab - Teaching"
 layout: textlay
-excerpt: "Teaching"
+excerpt: "Knowledge Transfer"
 sitemap: false
 permalink: /teaching/
 ---
