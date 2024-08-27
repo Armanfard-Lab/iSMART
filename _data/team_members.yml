@@ -170,6 +170,18 @@
   linkedin: https://www.linkedin.com/in/abhijeetpraveen/
   bio: Abhijeet will begin pursuing a Master’s of Science (Thesis) at the iSmart Lab in September 2024. He completed his Bachelor’s in Computer Engineering with a minor in Applied Artificial Intelligence from McGill University. His academic background encompasses machine learning, computer vision and software development. His research interests lie in representation learning and machine learning applications.
 
+- name: Alman Sidhu
+  photo: aman_sidhu_photo.jpg
+  info: Research Assistant (MSc)
+  email: aman.sidhu@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
+  education2:
+  education3:
+  scholar:
+  linkedin:
+  bio: Aman received his Bachelor's degree in Honours Electrical Engineering from McGill University. He is currently an RA in the iSMART Lab and will pursue a Master of Science in ECE with the iSMART lab starting in January 2025. His research focuses on reinforcement learning and computer vision for smart infrastructure and robotics applications.
+  
 - name: Alexander Wyrstiuk
   photo: AlexW.jpg
   info: Research Assistant (BSc)
