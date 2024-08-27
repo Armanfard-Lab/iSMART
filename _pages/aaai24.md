@@ -17,7 +17,7 @@ permalink: /aaai24/
 
 <div class="col-sm-12 clearfix">
   <div style="text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/ijcai-logo.png" align="middle">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/AAAI2024.png" align="middle">
 </div>
   
   <h2 align="center">Abstract</h2>
@@ -67,9 +67,8 @@ permalink: /aaai24/
 <h2 align="center"> Location </h2>
 <hr>
   
-<p align="center"><b>To be Presented at:</b> IJCAI 2023</p>
   
-<p align="center"><b>Date and Location:</b> August 20 PM, Macao, S.A.R</p>
+<p align="center"><b>Date and Location:</b> Feb 20 AM, Vancouver, CA</p>
   
  <p align="center"><b>Duration:</b> 2 Hours</p>
 
