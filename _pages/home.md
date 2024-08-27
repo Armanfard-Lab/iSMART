@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome to the Innovative Solutions in Machine learning, Artificial intelligence, and Robotics Technologies (iSMART) laboratory, founded and led by [Prof. Narges Armanfard](https://www.mcgill.ca/ece/narges-armanfard). Our goal is to create innovative algorithms in artificial intelligence, focusing on computer vision, time series analysis, tabular data, and large language models. Below are our key areas of interest:
+Welcome to the Innovative Solutions in Machine Learning, Artificial Intelligence, and Robotics Technologies (iSMART) Laboratory, founded and led by [Prof. Narges Armanfard](https://www.mcgill.ca/ece/narges-armanfard). Our mission is to pioneer advanced algorithms in artificial intelligence, with expertise in computer vision, time series analysis, tabular data, large language models, and visual language models. Below are our primary areas of focus:
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
