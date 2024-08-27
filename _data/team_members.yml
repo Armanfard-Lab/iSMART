@@ -72,6 +72,18 @@
   linkedin: https://www.linkedin.com/in/dimitrios-sinodinos/
   bio: Dimitrios completed his Bachelor's degree in Electrical Engineering at McGill University and was awarded the British Association Medal for graduating with the highest CGPA in the department. Shortly after starting his Master's, Dimitrios fast-tracked into a PhD, where he received the MEDA Award and was selected into the prestigious Vadasz Scholars program. His research involves multi-task learning learning employing lightweight multimodal large language models.
 
+- name: Thomas Lai
+  photo: Thomas.jpg
+  info: AI Researcher (MSc)
+  email: thomas.lai@mail.mcgill.ca
+  number_educ: 0
+  education1: BSc, <a href="https://mcgill.ca/">McGill University</a>
+  education2: 
+  education3: 
+  scholar: https://scholar.google.com/
+  linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/b
+  bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. He is now pursuing a Master of Science in Electrical Engineering at the iSMART lab and is a recipient of the MEUSMA award. His research is on open-set multi-variate time series anomaly detection.
+  
 - name:  Saleh Dehqanpour
   photo: SalehDehqanpourPhoto.jpg
   info: AI Researcher (PhD)
@@ -108,18 +120,6 @@
   linkedin: https://www.linkedin.com/in/yi-wei-a9146716a/?originalSubdomain=ca&original_referer=
   bio: Jack (Yi) Wei received his Bachelor's degree in Computer Engineering with a minor in Mathematics from McGill University. He is the recipient of the McGill Engineering Undergraduate Student Award (MEUSMA). His interest lies in tabular data analysis.
 
-- name: Thomas Lai
-  photo: Thomas.jpg
-  info: AI Researcher (MSc)
-  email: thomas.lai@mail.mcgill.ca
-  number_educ: 0
-  education1: BSc, <a href="https://mcgill.ca/">McGill University</a>
-  education2: 
-  education3: 
-  scholar: https://scholar.google.com/
-  linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/b
-  bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. He is now pursuing a Master of Science in Electrical Engineering at the iSMART lab and is a recipient of the MEUSMA award. His research is on open-set multi-variate time series anomaly detection.
-  
 - name: Alexander Koran
   photo: alex.jpg
   info: AI Researcher (MSc)
