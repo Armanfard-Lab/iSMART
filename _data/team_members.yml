@@ -74,7 +74,7 @@
 
 - name: Thomas Lai
   photo: Thomas.jpg
-  info: AI Researcher (MSc)
+  info: AI Researcher (PhD)
   email: thomas.lai@mail.mcgill.ca
   number_educ: 0
   education1: BSc, <a href="https://mcgill.ca/">McGill University</a>
@@ -82,7 +82,7 @@
   education3: 
   scholar: https://scholar.google.com/
   linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/b
-  bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. He is now pursuing a Master of Science in Electrical Engineering at the iSMART lab and is a recipient of the MEUSMA award. His research is on open-set multi-variate time series anomaly detection.
+  bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. A year after starting his Master's at the iSMART Lab, Thomas fast-tracked into a PhD.  He is a recipient of the MEUSMA and FRQ awards. His research is on open-set anomaly detection.
   
 - name:  Saleh Dehqanpour
   photo: SalehDehqanpourPhoto.jpg
@@ -156,7 +156,7 @@
   education3:
   scholar:
   linkedin: https://www.linkedin.com/
-  bio: Cormac will begin pursuing a Master’s of Science at the iSMART lab in September 2024. He is currently completing a Bachelors of Applied Science in Systems Design Engineering at the University of Waterloo. His research interests include multi-modality, reinforcement learning, and explainability.
+  bio: Cormac is pursuing a Master's of Science at the iSMART lab. He obtained his Bachelor of Applied Science in Systems Design Engineering at the University of Waterloo. His research interests include multi-modality, reinforcement learning, and explainability.
 
 - name: Abhijeet Praveen
   photo: Abhijeet.jpg
@@ -168,7 +168,7 @@
   education3:
   scholar:
   linkedin: https://www.linkedin.com/in/abhijeetpraveen/
-  bio: Abhijeet will begin pursuing a Master’s of Science (Thesis) at the iSmart Lab in September 2024. He completed his Bachelor’s in Computer Engineering with a minor in Applied Artificial Intelligence from McGill University. His academic background encompasses machine learning, computer vision and software development. His research interests lie in representation learning and machine learning applications.
+  bio: Abhijeet is pursuing a Master’s of Science at the iSmart Lab in September 2024. He completed his Bachelor’s in Computer Engineering with a minor in Applied Artificial Intelligence from McGill University. His academic background encompasses machine learning, computer vision and software development. His research interests lie in representation learning and machine learning applications.
 
 - name: Aman Sidhu
   photo: aman_sidhu_photo.jpg
