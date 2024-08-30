@@ -1,3 +1,13 @@
+- title: "Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection"
+  image: jigsaw.jpg
+  description: This paper introduces a novel, practical, and lightweight framework, namely the Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection.
+  authors: A Karami, TK Ho, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2403.12172
+    display: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025)
+  highlight: 1
+  news2: 
+
 - title: "Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection"
   image: Alexpaper.jpg
   description: This paper provides a critical analysis of the initialization effects on TSAD model performance. Our extensive experiments reveal that TSAD models are highly sensitive to hyperparameters such as window size, seed number, and normalization.
@@ -18,16 +28,6 @@
   highlight: 1
   news2: 
   
-- title: "Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection"
-  image: jigsaw.jpg
-  description: This paper introduces a novel, practical, and lightweight framework, namely the Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection.
-  authors: A Karami, TK Ho, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2403.12172
-    display: arXiv:2403.12172 (2024)
-  highlight: 1
-  news2: 
-
 - title: "Open-Set Multivariate Time-Series Anomaly Detection"
   image: aistats.jpg
   description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
