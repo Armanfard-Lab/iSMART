@@ -29,7 +29,47 @@ permalink: /aaai24/
   <h2 align="center">Abstract</h2>
    <hr>
   <p align="center">Time series anomaly detection (TSAD) is a crucial tool for detecting unusual patterns or outliers in large-scale time series datasets. With the increasing amount of data being generated in various industries, from financial transactions to industrial processes, it has become essential to identify anomalies that may indicate unusual events, fraud, or errors in the system. Deep learning algorithms have proven to be effective in detecting these anomalies, as they can learn complex patterns and relationships in the data that may not be apparent to humans. By detecting anomalies early, businesses can take proactive measures to prevent or minimize their impact, improving their overall performance and reducing risk. Thus, deep TSAD is an important tool for ensuring large-scale systems’ quality, reliability, and security and has attracted huge interest from the research community. This tutorial aims to provide the audience with a comprehensive and organized tutorial on state-of-the-art algorithms for time-series anomaly detection. We will first discuss the basic concepts of anomaly detection and time-series processing. Then, we will thoroughly review the deep learning methods for time-series anomaly detection, ranging from traditional autoencoder-based algorithms to the recently-proposed graph-based models. In the final parts of this tutorial, we will focus on some important considerations during the implementation, evaluation and dataset preparation for the deep time-series anomaly detection algorithms. Besides introducing the SOTA methods, this tutorial will aim to enable the researchers to apply them to solve real-world problems involving time series.</p>
- 
+
+
+ <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+</div>
+{% endfor %} 
 
 <h2 align="center"> Location </h2>
 <hr>
