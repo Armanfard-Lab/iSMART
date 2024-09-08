@@ -14,15 +14,11 @@ permalink: /aaai24/
 {% assign even_odd = number_printed | modulo: 2 %}
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-
-    </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/AAAI2024.png" alt="Slide 1" style="aspect-ratio: 1.618" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/AAAI2024.png" alt="Slide 1" style="aspect-ratio: 2" />
         </div>
 
 
