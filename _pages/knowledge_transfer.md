@@ -8,13 +8,13 @@ permalink: /knowledge_transfer/
 
 # Tutorials and Workshops
 
-### - 1st Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (WACV 2024)
+### 1st Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (WACV 2024)
   * [Website](https://ismart.ece.mcgill.ca/wacv24/)
 
-### - Deep Learning Methods for Unsupervised Time Series Anomaly Detection (AAAI 2024)
+### Deep Learning Methods for Unsupervised Time Series Anomaly Detection (AAAI 2024)
   * [Website](https://ismart.ece.mcgill.ca/aaai24/)
 
-### - Deep Learning Methods for Unsupervised Time Series Anomaly Detection (IJCAI 2023)
+### Deep Learning Methods for Unsupervised Time Series Anomaly Detection (IJCAI 2023)
   * [Webstite](https://ismart.ece.mcgill.ca/ijcai23/)
 
 
