@@ -79,10 +79,7 @@ permalink: /aaai24/
   
  <p align="center"><b>Duration:</b> 2 Hours</p>
 
-  <p align="center"><a href="https://ismart.ece.mcgill.ca//AAAI24 Tutorial.pptx">Slides</a></p>
- 
-
-    
+   
     
 <h2 align="center"> Organizers </h2>
 <hr>
