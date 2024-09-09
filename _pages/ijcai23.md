@@ -73,7 +73,7 @@ permalink: /ijcai23/
   
  <p align="center"><b>Duration:</b> 2 Hours</p>
 
-  <p align="center"><a href="https://ismart.ece.mcgill.ca//IJCAI23_Tutorial_iSMART_Narges.pdf">Slides</a></p>
+  {%<p align="center"><a href="https://ismart.ece.mcgill.ca//IJCAI23_Tutorial_iSMART_Narges.pdf">Slides</a></p>%}
  
 
     
