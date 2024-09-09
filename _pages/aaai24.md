@@ -19,9 +19,7 @@ permalink: /aaai24/
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/AAAI2024.png" alt="Slide 1" style="aspect-ratio: 6.23175965665" />
-        </div>
-
-
+        
     </div>
 </div>
 
