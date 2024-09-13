@@ -8,6 +8,16 @@
   highlight: 1
   news2: 
 
+- title: "Open-Set Multivariate Time-Series Anomaly Detection"
+  image: aistats.jpg
+  description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
+  authors: T Lai, TKK Ho, N Armanfard
+  link:
+    url: https://arxiv.org/pdf/2310.12294.pdf
+    display: 27TH European Conference on Artificial Intelligence (Oral, ECAI 2024)
+  highlight: 1
+  news2: 
+
 - title: "Unveiling the Flaws: A Critical Analysis of Initialization Effect on Time Series Anomaly Detection"
   image: Alexpaper.jpg
   description: This paper provides a critical analysis of the initialization effects on TSAD model performance. Our extensive experiments reveal that TSAD models are highly sensitive to hyperparameters such as window size, seed number, and normalization.
@@ -28,15 +38,7 @@
   highlight: 1
   news2: 
   
-- title: "Open-Set Multivariate Time-Series Anomaly Detection"
-  image: aistats.jpg
-  description: In this paper, we propose the first-ever algorithm to tackle the open-set multivariate time series anomaly detection problem, in which a few labeled samples from a limited class of anomalies are available during the training phase.
-  authors: T Lai, TKK Ho, N Armanfard
-  link:
-    url: https://arxiv.org/pdf/2310.12294.pdf
-    display: 27TH European Conference on Artificial Intelligence (ECAI 2024)
-  highlight: 1
-  news2: 
+
   
 - title: "EMA-Net: Efficient Multitask Affinity Learning for Dense Scene Predictions"
   image: ctal_site.jpg
