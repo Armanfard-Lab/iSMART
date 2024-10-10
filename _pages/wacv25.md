@@ -17,7 +17,7 @@ permalink: /wacv25/
 
 <div class="col-sm-12 clearfix">
   <div style="text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/WACV.png" align="middle" style="max-width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/ASTAD Logo-WACV25.png" align="middle" style="max-width: 100%;">
 </div>
   
   <h2 align="center">Overview</h2>
@@ -89,12 +89,12 @@ TBD, 2025 (Time below is in Arizona local time)
   
   <ul>
     <li>  8:20-8:30 AM: <b>Opening</b> </li>
-    <li>  8:30-9:30 AM: <b>Keynote Talk by Prof. Ye Zhu</b> </li>
-    <li> 9:30-10:30 AM: <b>Keynote Talk by Prof. Jie Rien</b>  </li>
+    <li>  8:30-9:30 AM: <b>Keynote Talk 1</b> </li>
+    <li> 9:30-10:30 AM: <b>Keynote Talk 2</b>  </li>
     <li> 10:30-10:40 AM: <b>Break</b>  </li>
     <li> 10:40-11:00 AM: <b>Oral Presentation Session</b>  </li>
-    <li> 11:00-11:30 PM: <b> Keynote Take by Pemula Latha</b>  </li>
-    <li> 11:30-12:30 PM: <b> Keynote Talk by Prof. Jaemin Yoo</b>  </li>
+    <li> 11:00-11:30 PM: <b> Keynote Talk 3</b>  </li>
+    <li> 11:30-12:30 PM: <b> Keynote Talk 4</b>  </li>
   </ul>  
 
 
