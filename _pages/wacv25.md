@@ -106,7 +106,7 @@ TBD, 2025 (Time below is in Arizona local time)
 <ul>
 <li> <b>Paper submission deadline:</b> Oct 30, 2024 </li>
  <li> <b>Author notification:</b> Nov 14, 2024 </li>
- <li> <b>Camera-ready deadline:</b> Nov 19, 2023 </li>
+ <li> <b>Camera-ready deadline:</b> Nov 19, 2024 </li>
   </ul> 
 
   <h2 align="center"> Speakers </h2>
