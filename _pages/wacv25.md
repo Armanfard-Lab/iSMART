@@ -84,7 +84,7 @@ permalink: /wacv25/
 <h2 align="center"> Schedule </h2>
 <hr>
 
-TBD, 2025 (Time below is in Hawaii local time)
+TBD, 2025 (Time below is in Arizona local time)
   
   
   <ul>
@@ -104,8 +104,8 @@ TBD, 2025 (Time below is in Hawaii local time)
 
    <p align="left"> The important dates are as follows: </p>
 <ul>
-<li> <b>Paper submission deadline:</b> Oct 25, 2023 </li>
- <li> <b>Author notification:</b> Nov 14, 2023 </li>
+<li> <b>Paper submission deadline:</b> Oct 30, 2024 </li>
+ <li> <b>Author notification:</b> Nov 14, 2024 </li>
  <li> <b>Camera-ready deadline:</b> Nov 19, 2023 </li>
   </ul> 
 
