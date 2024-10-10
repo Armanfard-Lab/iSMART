@@ -77,7 +77,6 @@ permalink: /wacv25/
     <li> Interpretability and explainability in anomaly detection models </li>
     <li> Real-world applications of anomaly detection in computer vision </li>
     <li> Large-Language Models (LLMs) and Anomaly Decetion </li>
-    <li> Continual Learning for Anomaly Detection </li>
   </ul>  
 
 <p align="left">Submission Site: <a href="https://cmt3.research.microsoft.com/ASTAD2025">Microsoft CMT</a></p>
