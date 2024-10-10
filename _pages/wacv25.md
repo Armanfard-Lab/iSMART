@@ -67,7 +67,7 @@ permalink: /wacv25/
 <h2 align="center"> Call for Paper </h2>
 <hr>
   
-<p align="left">We invite researchers and practitioners to submit their original research contributions to the 1st Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), held as part of WACV 2025. This workshop aims to explore the latest advancements and novel approaches in anomaly detection using AI techniques within the domain of computer vision. Topics of Interest (but not limited to):</p>
+<p align="left">We invite researchers and practitioners to submit their original research contributions to the 2nd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), held as part of WACV 2025. This workshop aims to explore the latest advancements and novel approaches in anomaly detection using AI techniques within the domain of computer vision. Topics of Interest (but not limited to):</p>
   
   <ul>
     <li> Novel AI architectures for anomaly detection in images and videos </li>
@@ -76,6 +76,8 @@ permalink: /wacv25/
     <li> Continual Learning for anomaly detection </li>
     <li> Interpretability and explainability in anomaly detection models </li>
     <li> Real-world applications of anomaly detection in computer vision </li>
+    <li> Large-Language Models (LLMs) and Anomaly Decetion </li>
+    <li> Continual Learning for Anomaly Detection </li>
   </ul>  
 
 <p align="left">Submission Site: <a href="https://cmt3.research.microsoft.com/ASTAD2025">Microsoft CMT</a></p>
