@@ -79,7 +79,7 @@ permalink: /wacv25/
     <li> Large-Language Models (LLMs) and Anomaly Decetion </li>
   </ul>  
 
-<p align="left">Submission Site: <a href="https://cmt3.research.microsoft.com/ASTAD2025">Microsoft CMT</a></p>
+<p align="left">Submission Site: <a href="https://cmt3.research.microsoft.com/ASTADWACV2025">Microsoft CMT</a></p>
 
 
 <h2 align="center"> Schedule </h2>
