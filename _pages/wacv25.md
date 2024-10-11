@@ -105,9 +105,9 @@ TBD, 2025 (Time below is in Arizona local time)
 
    <p align="left"> The important dates are as follows: </p>
 <ul>
-<li> <b>Paper submission deadline:</b> Oct 30, 2024 </li>
- <li> <b>Author notification:</b> Nov 14, 2024 </li>
- <li> <b>Camera-ready deadline:</b> Nov 19, 2024 </li>
+<li> <b>Paper submission deadline:</b> Nov 22, 2024 </li>
+ <li> <b>Author notification:</b> Dec 27, 2024 </li>
+ <li> <b>Camera-ready deadline:</b> Jan 10, 2025 </li>
   </ul> 
 
   <h2 align="center"> Speakers </h2>
