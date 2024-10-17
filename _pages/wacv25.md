@@ -22,7 +22,7 @@ permalink: /wacv25/
   
   <h2 align="center">Overview</h2>
    <hr>
-  <p align="center">Anomalies and outliers in visual data can significantly impact the performance and reliability of computer vision systems. As the applications of computer vision continue to grow across various domains, the need for robust and efficient anomaly detection techniques becomes paramount. This workshop aims to bring together researchers, industry experts, and practitioners to explore the latest advancements in automated anomaly detection methods specifically tailored for computer vision tasks. The primary objective of this workshop is to provide a platform for researchers to share and discuss their cutting-edge research in the field of anomaly detection in computer vision. We seek to foster collaboration, encourage knowledge exchange, and promote the development of novel approaches to tackle the challenges posed by anomalies in visual data. The expected outcome of this workshop is to foster a vibrant exchange of knowledge and ideas among researchers and practitioners in the field. Through insightful presentations, discussions, and interactive sessions, participants will gain a comprehensive understanding of cutting-edge AI-based methodologies for anomaly detection in computer vision. The workshop aims to encourage collaborations, inspire new research directions, and promote the development of innovative solutions to address real-world challenges in anomaly detection. As a result, attendees will leave the workshop equipped with valuable insights and practical tools that will contribute to advancements in anomaly detection techniques, ultimately leading to more robust and reliable computer vision systems across various domains.</p>
+  <p align="center">Anomalies and outliers in visual data can greatly affect the performance and reliability of computer vision systems. As computer vision applications expand across various fields, the need for robust and efficient anomaly detection techniques becomes crucial. This workshop aims to unite researchers, industry experts, and practitioners to explore the latest advancements in automated anomaly detection methods tailored specifically for computer vision tasks. The primary goal of this workshop is to provide a platform for researchers to share and discuss their cutting-edge research in anomaly detection within computer vision. We aim to foster collaboration, encourage knowledge exchange, and promote the development of novel approaches to address the challenges posed by anomalies in visual data. The expected outcome of this workshop is a vibrant exchange of knowledge and ideas among researchers and practitioners. Through insightful presentations, discussions, and interactive sessions, participants will gain a comprehensive understanding of the latest AI-based methodologies for anomaly detection in computer vision. The workshop seeks to inspire new research directions, encourage collaborations, and promote the development of innovative solutions to real-world challenges in anomaly detection. As a result, attendees will leave the workshop with valuable insights and practical tools that will contribute to advancements in anomaly detection techniques, ultimately leading to more robust and reliable computer vision systems across various domains.</p>
  
   <ul style="overflow: hidden">
   
@@ -95,7 +95,6 @@ TBD, 2025 (Time below is in Arizona local time)
     <li> 10:30-10:40 AM: <b>Break</b>  </li>
     <li> 10:40-11:00 AM: <b>Oral Presentation Session</b>  </li>
     <li> 11:00-11:30 PM: <b> Keynote Talk 3</b>  </li>
-    <li> 11:30-12:30 PM: <b> Keynote Talk 4</b>  </li>
   </ul>  
 
 
@@ -105,8 +104,8 @@ TBD, 2025 (Time below is in Arizona local time)
 
    <p align="left"> The important dates are as follows: </p>
 <ul>
-<li> <b>Paper submission deadline:</b> Nov 22, 2024 </li>
- <li> <b>Author notification:</b> Dec 27, 2024 </li>
+<li> <b>Paper submission deadline:</b> Dec 1, 2024 </li>
+ <li> <b>Author notification:</b> Jan 6, 2025 </li>
  <li> <b>Camera-ready deadline:</b> Jan 10, 2025 </li>
   </ul> 
 
