@@ -31,4 +31,54 @@
   linkedin:
   bio: Khanh received her Master's degree at Gwangju Institute of Science and Technology (GIST), South Korea. She was a researcher at Seoul National University Hospital (SNUH), South Korea, before moving to Montreal for her PhD. She has received the prestigious McGill Engineering Doctoral Award (MEDA), GREAT Award and is nominated for the prestigious Vanier Scholarship. Her research focuses on time-series data anomaly detection using generative models and graphs.
 
+- name: Thomas Lai
+  photo: Thomas.jpg
+  info: AI Researcher (PhD)
+  email: thomas.lai@mail.mcgill.ca
+  number_educ: 0
+  education1: BSc, <a href="https://mcgill.ca/">McGill University</a>
+  education2: 
+  education3: 
+  scholar: https://scholar.google.com/
+  linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/b
+  bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. A year after starting his Master's at the iSMART Lab, Thomas fast-tracked into a PhD.  He is a recipient of the MEUSMA and FRQ awards. His research is on open-set anomaly detection.
+
+- name: Alexander Koran
+  photo: alex.jpg
+  info: AI Researcher (MSc)
+  email: alexander.koran@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor, <a href="https://www.mcgill.ca/ece/">McGill University</a>
+  education2: rnell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
+  education3: Postdoc Cornell
+  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
+  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  scholar:
+  linkedin: https://www.linkedin.com/
+  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelor's Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science at the iSMART lab and is a recipient of the GEF award. His MSc thesis focuses on time series anomaly detection. 
+
+- name: Jack Wei
+  photo: Yiwei.png
+  info: AI Researcher (MSc)
+  email: yi.wei4@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
+  education2:
+  education3:
+  scholar:
+  linkedin: https://www.linkedin.com/in/yi-wei-a9146716a/?originalSubdomain=ca&original_referer=
+  bio: Jack (Yi) Wei received his Bachelor's degree in Computer Engineering with a minor in Mathematics from McGill University. He is the recipient of the McGill Engineering Undergraduate Student Award (MEUSMA). His interest lies in tabular data analysis.
+
+- name: Zihan Wang
+  photo: Zihan_Photo.JPG
+  info: AI Researcher (MSc)
+  email: zihan.wang@mail.mcgill.ca
+  number_educ: 0
+  education1: BSc, <a href="https://www.ualberta.ca/index.html">University of Alberta</a>
+  education2: 
+  education3: 
+  scholar: https://scholar.google.com/
+  linkedin: https://www.linkedin.com/in/zihan-wang-2919b2261/
+  bio: Zihan received his Bachelor’s degree in Electrical and Computer Engineering from the University of Alberta, Canada. He is now an MSc student at the iSMART Lab. He is the recipient of the Graduate Excellence Fellowship Award. His research at the iSMART Lab is focused on continual learning with large language models for anomaly detection.
+
 
