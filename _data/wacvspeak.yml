@@ -1,13 +1,13 @@
-- name: Dr. Jie Ren
+- name: Dr. Andrea Ceccarelli
   photo: ren.jpg
-  info: Google DeepMind
-  email: narges.armanfard@mcgill.ca
+  info: University of Florence
+  email: andrea.ceccarelli@unifi.it
   number_educ: 0
   education1:
   education2:
-  scholar: https://scholar.google.com/citations?user=Os9wmpkAAAAJ&hl=en
+  scholar: 
   linkedin: https://www.linkedin.com/
-  bio: Prof. Ren is a Senior Research Scientist in Google DeepMind (formerly Google Brain). Previously, she received her PhD in Computational Biology and Bioinformatics, as well as MSc in Statistics, from the University of Southern California. Her research interests span (1) out-of-distribution (OOD) detection in deep learning, (2) uncertainty estimation and robustness of large models, and (3) the development of reliable machine learning and statistical modeling methods for real-world application, with a special interest in biological and medical studies. 
+  bio: Dr. Ceccarelli is a researcher at the University of Florence specializing in anomaly detection algorithms for system security, focusing on tabular data. His research aims to detect suspicious intrusions and system errors. While primarily focused on tabular data, they have also explored anomaly detection in images.
   
 - name: Prof. Ye Zhu
   photo: zhu.jpg
