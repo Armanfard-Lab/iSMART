@@ -1,4 +1,26 @@
-- name: Dr. Andrea Ceccarelli
+- name: Stephan Mandt
+  photo: mandt.jpg
+  info: University of California, Irvine
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.ca/citations?user=HOrGe7wAAAAJ&hl=pl
+  linkedin: https://ca.linkedin.com/
+  bio: Stephan Mandt is an Associate Professor of Computer Science and Statistics at the University of California, Irvine. His research centers on deep generative modeling, uncertainty quantification, neural data compression, and AI for science. Previously, he led the machine learning group at Disney Research in Pittsburgh and Los Angeles and held postdoctoral positions at Princeton and Columbia University. 
+
+- name:  Guansong Pang
+  photo: Guansong-Pang.png
+  info: Singapore Management University
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.com.hk/citations?user=1ZO7pHkAAAAJ&hl=en
+  linkedin: https://sg.linkedin.com/in/guansong-pang-5587b21b
+  bio: Dr. Guansong Pang is an Assistant Professor at the School of Computing and Information Systems, Singapore Management University, specializing in anomaly detection, machine learning, and data mining. His research focuses on developing innovative algorithms for anomaly detection, outlier detection, and self-supervised learning, with applications across cybersecurity, fraud detection, and industrial monitoring. Dr. Pang has published extensively in top-tier journals and conferences, contributing influential work that bridges theoretical advances and practical applications in data science. 
+
+- name: Andrea Ceccarelli
   photo: Andrea-Ceccarelli.png
   info: University of Florence
   email: andrea.ceccarelli@unifi.it
@@ -7,20 +29,20 @@
   education2:
   scholar: 
   linkedin: https://www.linkedin.com/
-  bio: Dr. Ceccarelli is a researcher at the University of Florence specializing in anomaly detection algorithms for system security, focusing on tabular data. His research aims to detect suspicious intrusions and system errors. While primarily focused on tabular data, they have also explored anomaly detection in images.
+  bio: Dr. Ceccarelli is a researcher at the University of Florence specializing in anomaly detection algorithms for system security, focusing on tabular data. His research aims to detect suspicious intrusions and system errors. While primarily focused on tabular data, he have also explored anomaly detection in images.
   
-- name: Prof. Ye Zhu
-  photo: zhu.jpg
-  info: Deakin University
-  email: ye.zhu@deakin.edu.au
+- name: Daksha Yadav
+  photo: daksha.jpg
+  info: Amazon
+  email:
   number_educ: 0
   education1:
   education2:
-  scholar: https://scholar.google.com/citations?user=QxRHA48AAAAJ&hl=zh-CN
-  linkedin: https://www.deakin.edu.au/about-deakin/people/ye-zhu
-  bio: Dr Ye Zhu is a senior lecturer of computer science at the School of Information Technology at Deakin University. He is also the Data to Intelligence (D2i) Research Centre HDR coordinator and Master of Data Science Course CPL Officer. He received a PhD degree in Artificial Intelligence with a Mollie Holman Medal for the best doctoral thesis of the year from Monash University in 2017. Dr Zhu joined Deakin University as a postdoc research fellow in complex system data analytics in July 2017 and then became a lecturer in Feb 2019. Dr Zhu is an IEEE senior member and ACM member.
-
-- name: Prof. Leman Akoglu
+  scholar: https://scholar.google.ca/citations?hl=en&user=_B5T_CAAAAAJ&view_op=list_works&sortby=pubdate
+  linkedin: https://ca.linkedin.com/in/dakshayadav
+  bio: Daksha Yadav is a researcher at Amazon. Her research mainly focuses on Generative models and Anomaly detection. She has also explored the novel field of generative and transformer models for time-series anomaly detection. 
+  
+- name: Leman Akoglu
   photo: LemanAkoglu.jpeg
   info: Carnegie Mellon University
   email: narges.armanfard@mcgill.ca
