@@ -85,16 +85,18 @@ permalink: /wacv25/
 <h2 align="center"> Schedule </h2>
 <hr>
 
-TBD, 2025 (Time below is in Arizona local time)
+Feb 28, 2025 (Time below is in Arizona local time - Tentative Times)
   
   
   <ul>
     <li>  8:20-8:30 AM: <b>Opening</b> </li>
     <li>  8:30-9:30 AM: <b>Keynote Talk 1</b> </li>
     <li> 9:30-10:30 AM: <b>Keynote Talk 2</b>  </li>
-    <li> 10:30-10:40 AM: <b>Break</b>  </li>
-    <li> 10:40-11:00 AM: <b>Oral Presentation Session</b>  </li>
-    <li> 11:00-11:30 PM: <b> Keynote Talk 3</b>  </li>
+    <li> 10:30-11:30 AM: <b>Keynote Talk 3</b>  </li>
+    <li> 11:30-11:40 AM: <b>Break</b>  </li>
+    <li> 11:40-12:00 AM: <b>Oral Presentation Session</b>  </li>
+    <li> 12:00-12:30 PM: <b> Keynote Talk 4</b>  </li>
+    <li> 12:30-1:00 PM: <b> Keynote Talk 5</b>  </li>
   </ul>  
 
 
