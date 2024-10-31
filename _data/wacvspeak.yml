@@ -1,3 +1,14 @@
+- name: Leman Akoglu
+  photo: LemanAkoglu.jpeg
+  info: Carnegie Mellon University
+  email: narges.armanfard@mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  scholar: https://scholar.google.com/citations?user=4ITkr_kAAAAJ
+  linkedin: https://www.linkedin.com/in/leman-akoglu-b164329
+  bio: Dr. Akoglu is the Heinz College Dean's Associate Professor at Carnegie Mellon University's Heinz College of Information Systems and Public Policy. She also hold courtesy appointments at the Machine Learning Department (MLD) and the Computer Science Department (CSD) of School of Computer Science (SCS). At Heinz, she directs the Data Analytics Techniques Algorithms (DATA) Lab. Her research interests are broadly in data mining, graph mining, machine learning, and knowledge discovery, with specific focus on anOmaLiEs---identifying and characterizing 'what stands out' in large-scale, time-varying, multi-modal data sources through scalable computational methods.
+
 - name: Stephan Mandt
   photo: mandt.jpg
   info: University of California, Irvine
@@ -42,13 +53,3 @@
   linkedin: https://ca.linkedin.com/in/dakshayadav
   bio: Dr. Yadav is a passionate Applied Scientist with expertise in leveraging large-scale data and machine learning to drive impactful business solutions. Currently, she utilizes her skills at Amazon to extract meaningful insights from real-time financial data using cutting-edge techniques including LLMs and Deep Learning. She has also delved into innovative approaches for detecting anomalies in time-series data using generative and transformer models. Holding a Ph.D. in Computer Science from West Virginia University, Dr. Yadav has a proven track record of research and development. Her contributions include multiple publications and patents in the fields of biometrics, machine learning, and computer vision. 
   
-- name: Leman Akoglu
-  photo: LemanAkoglu.jpeg
-  info: Carnegie Mellon University
-  email: narges.armanfard@mcgill.ca
-  number_educ: 0
-  education1:
-  education2:
-  scholar: https://scholar.google.com/citations?user=4ITkr_kAAAAJ
-  linkedin: https://www.linkedin.com/in/leman-akoglu-b164329
-  bio: Dr. Akoglu is the Heinz College Dean's Associate Professor at Carnegie Mellon University's Heinz College of Information Systems and Public Policy. She also hold courtesy appointments at the Machine Learning Department (MLD) and the Computer Science Department (CSD) of School of Computer Science (SCS). At Heinz, she directs the Data Analytics Techniques Algorithms (DATA) Lab. Her research interests are broadly in data mining, graph mining, machine learning, and knowledge discovery, with specific focus on anOmaLiEs---identifying and characterizing 'what stands out' in large-scale, time-varying, multi-modal data sources through scalable computational methods.
