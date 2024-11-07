@@ -1,3 +1,13 @@
+- title: "Cross-Task Affinity Learning for Multitask Dense Scene Predictions"
+  image: ctal_site.jpg
+  description: In this paper, we introduce the Cross-Task Affinity Learning (CTAL) module, a lightweight framework that enhances task refinement in multitask networks. CTAL effectively captures local and long-range cross-task interactions by optimizing task affinity matrices for parameter-efficient grouped convolutions without concern for information loss. Our results demonstrate state-of-the-art MTL performance for both CNN and transformer backbones, using significantly fewer parameters than single-task learning.
+  authors: D Sinodinos, N Armanfard
+  link:
+    url: https://arxiv.org/abs/2401.11124
+    display: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2025 -- top ~10 %)
+  highlight: 1
+  news2: 
+
 - title: "Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection"
   image: jigsaw.jpg
   description: This paper introduces a novel, practical, and lightweight framework, namely the Graph-Jigsaw Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection.
@@ -37,19 +47,7 @@
     display: arXiv:2405.19234 (2024)
   highlight: 1
   news2: 
-  
-
-  
-- title: "EMA-Net: Efficient Multitask Affinity Learning for Dense Scene Predictions"
-  image: ctal_site.jpg
-  description: In this paper, we introduce the Efficient Multitask Affinity Learning Network (EMA-Net), which is a lightweight framework that enhances the task refinement capabilities of multitask networks.
-  authors: D Sinodinos, N Armanfard
-  link:
-    url: https://arxiv.org/abs/2401.11124
-    display: arXiv:2401.11124 (2024)
-  highlight: 1
-  news2: 
-  
+ 
 - title: "Deep Reinforcement Learning in Human Activity Recognition: A Survey"
   image: BaharReview.png
   description: To facilitate further research in DRL-based human activity recognition, we have constructed a comprehensive survey on activity recognition methods that incorporate deep reinforcement learning.
