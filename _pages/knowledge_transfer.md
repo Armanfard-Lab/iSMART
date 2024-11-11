@@ -8,6 +8,9 @@ permalink: /knowledge_transfer/
 
 # Tutorials and Workshops
 
+### 2nd Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (WACV 2025)
+  * [Website](https://ismart.ece.mcgill.ca/wacv25/)
+
 ### 1st Workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD) (WACV 2024)
   * [Website](https://ismart.ece.mcgill.ca/wacv24/)
 
