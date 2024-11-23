@@ -68,7 +68,7 @@
   highlight: 1
   news2: 
 
-- title: "Multivariate Time-Series Anomaly Detection with Contaminated Data"
+- title: "Contaminated Multivariate Time-Series Anomaly Detection with Spatio-Temporal Graph Conditional Diffusion Models"
   image: khanhaaai.jpg
   description: In this paper, we introduce a novel and practical end-to-end unsupervised time-series anomaly detection when the training data are contaminated with anomalies.
   authors: TKK Ho, N Armanfard
