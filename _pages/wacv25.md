@@ -85,7 +85,7 @@ permalink: /wacv25/
 <h2 align="center"> Schedule </h2>
 <hr>
 
-Feb 28, 2025 (Time below is in Arizona local time - Tentative Times)
+March 4, 2025 (Time below is in Arizona local time - Tentative Times)
   
   
   <ul>
