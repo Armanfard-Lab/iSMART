@@ -70,7 +70,7 @@
   education3: 
   scholar: https://scholar.google.com/
   linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/b
-  bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. A year after starting his Master's at the iSMART Lab, Thomas fast-tracked into a PhD.  He is a recipient of the MEUSMA and FRQ awards. His research is on open-set anomaly detection.
+  bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. He joined the iSMART Lab in the summer of 2023 and subsequently pursued an MSc, focusing on open-set anomaly detection. A year after starting his Master's at the iSMART Lab, Thomas fast-tracked into a PhD.  He is a recipient of the MEUSMA and FRQ awards. His research is on open-set anomaly detection leveraging LLM models.
 
 - name: Alexander Koran
   photo: alex.jpg
@@ -84,7 +84,7 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
   scholar:
   linkedin: https://www.linkedin.com/
-  bio: Alex grew up near Boston and moved to Montreal after high school to attend McGill University, where he earned a Bachelor's degree in Computer Engineering with minors in Mathematics and Artificial Intelligence in Fall 2023. He joined the iSMART Lab in the summer of 2023 and subsequently pursued an MSc, focusing on time series anomaly detection. In January 2025, Alex began his PhD at the iSMART Lab. He is a recipient of the GEF Award and the prestigious Vadasz Engineering Fellowship. His research focuses on leveraging large language models (LLMs) for time series data analysis. 
+  bio: Alex grew up near Boston and moved to Montreal after high school to attend McGill University, where he earned a Bachelor's degree in Computer Engineering with minors in Mathematics and Artificial Intelligence in Fall 2023. He joined the iSMART Lab in the summer of 2023 and subsequently pursued an MSc, focusing on time series anomaly detection. In January 2025, Alex began his PhD at the iSMART Lab. He is a recipient of the GEF Award and the prestigious Vadasz Engineering Fellowship. His research focuses on leveraging vision language models (VLMs) for video anomaly detection. 
 
 - name:  Navid Hassan Zadeh
   photo: Navid Hassan Zadeh.jpg
