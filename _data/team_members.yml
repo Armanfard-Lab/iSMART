@@ -82,7 +82,7 @@
   education3:
   scholar: https://scholar.google.com/
   linkedin: https://www.linkedin.com/in/navid-hassan-zadeh/
-  bio: Navid received his Bachelor's degree in Joint Honours Mathematics and Computer Science from McGill University. He is currently an RA at the iSMART Lab. He will begin his Ph.D. studies at the iSMART Lab in September 2025. His research interests include Machine Learning and its applications, algorithm design, and Reinforcement Learning.
+  bio: Navid received his Bachelor's degree in Joint Honours in Mathematics and Computer Science from McGill University. He pursued an MSc at the Computer Science Department of the University of Montreal. He is currently an RA at the iSMART Lab. He will begin his Ph.D. studies at the iSMART Lab in September 2025. His research interests include theories of Machine Learning and its applications.
   
 - name:  Saleh Dehqanpour
   photo: SalehDehqanpourPhoto.jpg
@@ -94,7 +94,7 @@
   education3:
   scholar: https://scholar.google.com/
   linkedin: https://www.linkedin.com/in/saleh-dehqanpour/?originalSubdomain=ir
-  bio: Saleh will begin his Ph.D. studies in September 2024. He received his Bachelor’s and Master’s degrees in Electrical Engineering from Sharif University of Technology, Iran. His academic background is in machine learning, video processing, and data pipelines. His research interests include algorithm design, deep learning applications, and computer vision.
+  bio: Saleh will begin his Ph.D. studies in Jan 2025. He received his Bachelor’s and Master’s degrees in Electrical Engineering from Sharif University of Technology, Iran. His academic background includes machine learning, video processing, and data pipelines. His research interests include algorithm design, deep learning applications, and computer vision.
 
 - name: Jack Wei
   photo: Yiwei.png
@@ -120,7 +120,7 @@
   education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
   scholar:
   linkedin: https://www.linkedin.com/
-  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelor's Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. Some of his research interests are algorithm design, machine learning applications, and quantum computing. He is now pursuing a Master's of Science at the iSMART lab and is a recipient of the GEF award. His MSc thesis focuses on time series anomaly detection. 
+  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelor's Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. He pursued an MSc at the iSMART lab with a focus on time series anomaly detection. He is now a PhD student at the iSMART lab. He is a recipient of the GEF award and the highly competitive Vadasz Engineering Fellowship. His research focuses on time series data analysis leveraging LLM. 
 
 - name: Zihan Wang
   photo: Zihan_Photo.JPG
