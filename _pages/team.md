@@ -243,7 +243,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-<h4>Graduate Students</h4>
+<h4>Graduate Researchers</h4>
 {% for member in site.data.alumni_members %}
 {{ member.name }}<br>
 <i>{{ member.duration }}</i>
@@ -251,7 +251,7 @@ permalink: /team/
 </div>
 
 <div class="col-sm-12 clearfix">
-<h4>BSc students</h4>
+<h4>Undergraduate Reserachers</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}<br>
 <i>{{ member.duration }}</i>
