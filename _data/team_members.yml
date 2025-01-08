@@ -72,6 +72,20 @@
   linkedin: https://www.linkedin.com/in/thomas-lai-b3205b172/b
   bio: Thomas received his Bachelor of Engineering (B.Eng.) from McGill University. A year after starting his Master's at the iSMART Lab, Thomas fast-tracked into a PhD.  He is a recipient of the MEUSMA and FRQ awards. His research is on open-set anomaly detection.
 
+- name: Alexander Koran
+  photo: alex.jpg
+  info: AI Researcher (MSc)
+  email: alexander.koran@mail.mcgill.ca
+  number_educ: 0
+  education1: Bachelor, <a href="https://www.mcgill.ca/ece/">McGill University</a>
+  education2: rnell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
+  education3: Postdoc Cornell
+  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
+  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  scholar:
+  linkedin: https://www.linkedin.com/
+  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelor's Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. He pursued an MSc at the iSMART lab with a focus on time series anomaly detection. He is now a PhD student at the iSMART lab. He is a recipient of the GEF award and the highly competitive Vadasz Engineering Fellowship. His research focuses on time series data analysis leveraging LLM. 
+
 - name:  Navid Hassan Zadeh
   photo: Navid Hassan Zadeh.jpg
   info: AI Researcher (PhD)
@@ -107,20 +121,6 @@
   scholar:
   linkedin: https://www.linkedin.com/in/yi-wei-a9146716a/?originalSubdomain=ca&original_referer=
   bio: Jack (Yi) Wei received his Bachelor's degree in Computer Engineering with a minor in Mathematics from McGill University. He is the recipient of the McGill Engineering Undergraduate Student Award (MEUSMA). His interest lies in tabular data analysis.
-
-- name: Alexander Koran
-  photo: alex.jpg
-  info: AI Researcher (MSc)
-  email: alexander.koran@mail.mcgill.ca
-  number_educ: 0
-  education1: Bachelor, <a href="https://www.mcgill.ca/ece/">McGill University</a>
-  education2: rnell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-  scholar:
-  linkedin: https://www.linkedin.com/
-  bio: Alex grew up near Boston, and he moved to Montreal after finishing high school to pursue his undergraduate studies at McGill. He completed his Bachelor's Degree in Computer Engineering with a math minor and an AI minor in Fall 2023. He pursued an MSc at the iSMART lab with a focus on time series anomaly detection. He is now a PhD student at the iSMART lab. He is a recipient of the GEF award and the highly competitive Vadasz Engineering Fellowship. His research focuses on time series data analysis leveraging LLM. 
 
 - name: Zihan Wang
   photo: Zihan_Photo.JPG
