@@ -160,7 +160,7 @@
 
 - name: Aman Sidhu
   photo: aman_sidhu_photo.jpg
-  info: Research Assistant (MSc)
+  info: AI Researcher (MSc)
   email: aman.sidhu@mail.mcgill.ca
   number_educ: 0
   education1: Bachelor <a href="https://www.mcgill.ca/">McGill University</a>
@@ -168,8 +168,9 @@
   education3:
   scholar:
   linkedin:
-  bio: Aman received his Bachelor's degree in Honours Electrical Engineering from McGill University. He is currently an RA in the iSMART Lab and will pursue a Master of Science in ECE with the iSMART lab starting in January 2025. His research focuses on reinforcement learning and computer vision for smart infrastructure and robotics applications.
-  
+  bio: Aman earned his Bachelor's degree in Honours Electrical Engineering from McGill University. Following a research assistantship at the iSMART Lab in Fall 2024, he began pursuing his MSc at the iSMART Lab in January 2025. His research explores the application of reinforcement learning and computer vision in smart infrastructure and robotics.
+ 
+
 - name: Amirmohammad Naeini
   photo: IMG_3586_Original.jpeg
   info: Research Assistant (MSc)
