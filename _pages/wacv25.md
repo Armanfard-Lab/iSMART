@@ -85,7 +85,7 @@ permalink: /wacv25/
 <h2 align="center"> Schedule </h2>
 <hr>
 
-March 4, 2025 (Time below is in Arizona local time - Tentative Times)
+March 4, 2025 (Time below is in Arizona local time)
   
   
   <ul>
@@ -94,7 +94,7 @@ March 4, 2025 (Time below is in Arizona local time - Tentative Times)
     <li> 9:00-9:50 AM: <b>Keynote Talk by Prof. Stephan Mandt</b>  </li>
     <li> 9:50-10:00 AM: <b>Break</b>  </li>
     <li> 10:00-10:30 AM: <b>Oral Presentation Session</b>  </li>
-    <li> 10:30-11:20 PM: <b> Keynote Take by Prof. Guansong Pang</b>  </li>
+    <li> 10:30-11:20 AM: <b> Keynote Take by Prof. Guansong Pang</b>  </li>
     <li> 11:20 AM -12:10 PM: <b> Keynote Talk by Prof. Andrea Ceccarelli</b>  </li>
   </ul>  
 
