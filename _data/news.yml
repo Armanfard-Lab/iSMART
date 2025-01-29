@@ -1,6 +1,12 @@
 - date: Oct 2024
   headline: <a href="https://arxiv.org/abs/2401.11124">CTAL</a>&#58; A novel distillation module and framework achieving significant multitask gains with minimal parameters, accepted in the first round (~10% acceptance) at WACV 2025. Congrats to Dimitri and the iSMART Team! 
 
+- date: Sept 2024
+  headline:  The iSMART team is organizing ASTAD, a half-day workshop on anomaly detection covering AI architectures, large-scale datasets, self-supervised and few-shot techniques, continual learning, interpretability, real-world applications, and LLM integration. ASTAD will be part of the Rank A AI conference WACV 2025 in Tucson, Arizona. For details, visit <a href="https://ismart.ece.mcgill.ca/wacv25/">ASTAD</a>.
+
+- date: Sept 2024
+  headline: We are being awarded the prestigious Vadasz Scholar McGill Engineering Doctoral Award in support of our research studies. Congratulations to Alex and the iSMART team!
+
 - date: Aug 2024
   headline: Congratulations to Ali for successfully defending his MSc thesis on Graph-Jigsaw Conditioned Diffusion Model for Video Anomaly Detection.  
 
@@ -71,7 +77,7 @@
   headline: iSMART has been featured in the Media. "FUTURUM&#58; Inspiring the Next Generation of Scientists, Engineers, and Researchers" has developed educational resources based on our lab research and made them available to more than 30 million audiences, including schools, teachers, career advisors, parents, students, and academics. For details, see <a href="https://futurumcareers.com/how-can-intelligent-systems-revolutionise-health-care"> How Can Intelligent Systems Revolutionise Healthcare?"</a>
 
 - date: Sept 2023
-  headline: The iSMART team is organizing a workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), scheduled as a part of the Rank A AI conference, i.e. WACV2024, in Waikoloa, Hawaii. For details, visit <a href="https://ismart.ece.mcgill.ca/wacv24/">ASTAD</a>.
+  headline: The iSMART team is invited to organize a workshop on Automated Spatial and Temporal Anomaly Detection (ASTAD), scheduled as a part of the Rank A AI conference, i.e. WACV2024, in Waikoloa, Hawaii. For details, visit <a href="https://ismart.ece.mcgill.ca/wacv24/">ASTAD</a>.
 
 - date: Aug 2023
   headline: Our recent study on Multivariate Time-Series Anomaly Detection with Contaminated Data is now available <a href="https://arxiv.org/abs/2308.12563">here.</a>
